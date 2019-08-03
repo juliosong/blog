@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "A blog about languages" # site tagline that appears below site title in masthead
 name                     : "Julio Song"
 description              : "Julio Song's blog"
-url                      : "https://juliosong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.juliosong.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "juliosong/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
