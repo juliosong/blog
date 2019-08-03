@@ -78,7 +78,7 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : A845D0039864FF826370CEE64D645141
 yandex_site_verification :
 naver_site_verification  :
 
@@ -100,9 +100,9 @@ social:
     - "https://instagram.com/juliosong91"
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-144767757-2
     anonymize_ip         : # true, false (default)
 
 
