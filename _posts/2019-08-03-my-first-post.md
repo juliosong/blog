@@ -2,6 +2,10 @@
 title: "My first post: Why Blogging?"
 categories: [life]
 tags: [blog, experience, doubt]
+header:
+  image: /assets/images/pencil.jpg
+  image_description: "A pencil on my desk."
+  caption: "My pencil on my desk"
 ---
 
 I had mulled over the idea of opening a blog for a long time before finally taking action. The problem was that every time I had got very close to actually doing it, lots of objecting voices would start bouncing in my head:
