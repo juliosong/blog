@@ -104,7 +104,7 @@ And last but not least:
 	<ul> <li>Smith, C. 2003. <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/div-classtitlevowel-devoicing-in-contemporary-frenchdiv/6FC5DABD99CF863D112F7E942631F02B">Vowel Devoicing in Contemporary French.</a></li>
 	<li>Fagyal, Z. &amp; C. Moisset 1999. <a href="https://www.academia.edu/22104138/SOUND_CHANGE_AND_ARTICULATORY_RELEASE_WHERE_AND_WHY_ARE_HIGH_VOWELS_DEVOICED_IN_PARISIAN_FRENCH">Sound change and articulatory release: where and why are high vowels devoiced in Parisian French.</a></li></ul>
  <li>On French velar consonant palatalization:
-	<ul><li> Detey, S. et al. 2016. <a href="https://global.oup.com/academic/product/varieties-of-spoken-french-9780199573714">_Varieties of Spoken French._</a> Oxford: Oxford University Press, pp. 131, 415.</li></ul>
+	<ul><li> Detey, S. et al. 2016. <a href="https://global.oup.com/academic/product/varieties-of-spoken-french-9780199573714"><em>Varieties of Spoken French.</em></a> Oxford: Oxford University Press, pp. 131, 415.</li></ul>
  <li> On Korean initial denasalization:
 	<ul><li> My colleague Kayeon Yoo's blog article <a href="https://www.icge.co.uk/languagesciencesblog/?p=1542">"Speaking Korean: to nasalise or not to nasalise, that is the question"</a> on CamLangSci.</li>
 	<li> Young Shin Kim's PhD dissertation <a href="http://discovery.ucl.ac.uk/1324541/">"An acoustic, aerodynamic and perceptual investigation of word-initial denasalization in Korean."</a> </li></ul>
