@@ -1,6 +1,6 @@
 ---
 title: Hungarian
 layout: tag
-permalink: /tags/Hungarian/
+permalink: /tags/hungarian/
 taxonomy: Hungarian
 ---

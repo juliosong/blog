@@ -1,6 +1,6 @@
 ---
 title: Korean
 layout: tag
-permalink: /tags/Korean/
+permalink: /tags/korean/
 taxonomy: Korean
 ---

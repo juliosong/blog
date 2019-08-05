@@ -1,6 +1,6 @@
 ---
 title: French
 layout: tag
-permalink: /tags/French/
+permalink: /tags/french/
 taxonomy: French
 ---
