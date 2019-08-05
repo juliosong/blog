@@ -101,7 +101,7 @@ And last but not least:
 <a id="fn1">1.</a><sup><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> Some linguistic resources on the above-mentioned phonetic phenomena:
 <ul>
 <li> On French vowel devoicing:
-	<ul> <li>Smith, C. 2003. <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/div-classtitlevowel-devoicing-in-contemporary-frenchdiv/6FC5DABD99CF863D112F7E942631F02B">Vowel Devoicing in Contemporary French.</a></li>
+	<ul> <li>Smith, C. 2003. <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/div-classtitlevowel-devoicing-in-contemporary-frenchdiv/6FC5DABD99CF863D112F7E942631F02B">Vowel devoicing in contemporary French.</a></li>
 	<li>Fagyal, Z. &amp; C. Moisset 1999. <a href="https://www.academia.edu/22104138/SOUND_CHANGE_AND_ARTICULATORY_RELEASE_WHERE_AND_WHY_ARE_HIGH_VOWELS_DEVOICED_IN_PARISIAN_FRENCH">Sound change and articulatory release: where and why are high vowels devoiced in Parisian French.</a></li></ul>
  <li>On French velar consonant palatalization:
 	<ul><li> Detey, S. et al. 2016. <a href="https://global.oup.com/academic/product/varieties-of-spoken-french-9780199573714"><em>Varieties of Spoken French.</em></a> Oxford: Oxford University Press, pp. 131, 415.</li></ul>
