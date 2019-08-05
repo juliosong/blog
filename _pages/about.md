@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-Welcome to my blog! I am Julio Song, a final-year PhD student in theoretical linguistics at University of Cambridge. My main research area is syntax.
+Welcome to my blog! I am Julio Song, a final-year PhD student in theoretical linguistics at University of Cambridge. My main research area is formal syntax.
 
 I regularly post short nonacademic articles here about languages and linguistics, including fun facts about world languages, introductions of components in my research, language learning notes, and so on. I occasionally also post nonlinguistic stuff about my life, such as books I read and movies I watch. You are welcome to suggest new topics to me too (check out my [suggestion](../suggestion) page).
 
