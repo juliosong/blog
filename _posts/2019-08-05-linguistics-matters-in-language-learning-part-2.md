@@ -22,7 +22,7 @@ What's more, with the extra linguistic knowledge you won't fear confusion across
 
 If you already know how case systems work in human language, however, all you need to do is check a few things for each new language you wish to learn, like this:
 
-{% include figure image_path="/assets/images/german-case.png" alt="A picture of German cases." caption="A linguistician's approach to learn cases" %}
+{% include figure image_path="/assets/images/german-case.png" alt="A picture of German cases." caption="A linguistician's approach to learning cases" %}
 
 And then the remaining work is simply to figure out how each case category is instantiated in the new language, which can be easily found in any textbook. In her [blog post](https://www.superlinguo.com/post/108769587915/will-learning-linguistics-help-me-with-learning) Lauren Gawne calls the kind of knowledge that enables a linguistician to quickly acquire new, exotic languages a "metalanguage," which is like a blueprint for human language as a whole and can be applied to any particular language one wants to learn.
 
