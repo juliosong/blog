@@ -53,7 +53,7 @@ Neither textbooks nor native speakers are likely to give out satisfactory answer
 
 A third scenario where linguistic knowledge can become helpful in language learning is when there are few good resources for the language you are learning (e.g., if you want to learn Inuktitut) or when there are plenty of good resources but you don't have enough time or money to access them (e.g., you can't attend language classes or travel abroad).
 
-The resource issue is less of a problem in big cities but can be a real obstacle for students in suburban or rural areas. For instance, [a recent news report](https://new.qq.com/omn/20190323/20190323A02QNO.html) (in Chinese) describes the English subject as "a mirror that reflects the gap between education in cities and in countrysides" in China.
+The resource issue is less of a problem in big cities but can be a real obstacle for students in suburban or rural areas. For instance, [a recent news report](https://new.qq.com/omn/20190323/20190323A02QNO.html) (in Chinese) describes the English subject as "a mirror that reflects the gap between education in cities and in the country" in China.
 
 **When all you have is a single textbook, how can you make best use of it?**
 {: .text-center .notice}
