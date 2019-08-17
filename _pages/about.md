@@ -9,4 +9,6 @@ I regularly post short nonacademic articles here about languages and linguistics
 
 Modern linguistics is a subject that lies at the crossroads of humanities and natural sciences. I am especially fascinated by the diverse grammatical rules and patterns employed by natural languages, which I believe are a window into the complexity and intricacy of the human mind. For my academic publications please visit my [home page](https://www.juliosong.com).
 
-I have named my blog I-Yuwen because _yu3wen2_ (語文) means "languages and scripts" in Mandarin Chinese, so I-Yuwen well reflects the theme of this blog: my personal stories with languages. Incidentally, the name also rhymes with the phrase _ai4yu3wen2_ (愛語文), which means "love languages and scripts." Hope you will love languages more after reading my blog!😃
+I have named my blog I-Yuwen because _yu3wen2_ (<span class="hanyu">語文</span>) means "languages and scripts" in Mandarin Chinese, so I-Yuwen well reflects the theme of this blog: my personal stories with languages. Incidentally, the name also rhymes with the phrase _ai4yu3wen2_ (<span class="hanyu">愛語文</span>), which means "love languages and scripts." Hope you will love languages more after reading my blog!😃
+
+(The Chinese font used in this blog is [I.Ming](https://github.com/ichitenfont/I.Ming) [<span class="hanyu">一點明體</span>], an open-source font for traditional Chinese characters.)

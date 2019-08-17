@@ -355,3 +355,9 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* =========== add Chinese font ================ */
+
+.hanyu {
+  font-family: "IMingCP", $global-font-family;
+}
