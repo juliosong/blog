@@ -13,7 +13,6 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* fallback font 'Open Sans' for android China */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i&display=swap&subset=latin-ext');
 /* latin */
 @font-face {
   font-family: 'Open Sans';
