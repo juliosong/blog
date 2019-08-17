@@ -34,10 +34,9 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* Chinese font */
-@font-face{
-  font-family: "IMingCP";
-  src: url(fonts/I.MingCP-6.10.ttf);
-}
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC&display=swap');
+
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
