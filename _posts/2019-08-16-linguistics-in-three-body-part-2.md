@@ -6,11 +6,11 @@ header:
   overlay_image: /assets/images/santif.jpg
   show_overlay_excerpt: false
   image_description: "My copy of the Three-Body trilogy."
-  caption: "My copy of the Three-Body trilogy."
+  caption: "My copy of the _Three-Body_ trilogy."
   teaser: /assets/images/santif.jpg
 ---
 
-In ["The linguistic view in _Three-Body_ (Part 1)"]({{ site.baseurl }}{% post_url 2019-08-15-linguistics-in-three-body-part-1 %}) I briefly introduced the phenomenal sci-fi trilogy [_Remembrance of Earth's Past_](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past), aka "Three-Body," written by the Chinese author [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin). I also recounted my impression of fictional languages in general and concluded that their designs are typically influenced by the authors' own linguistic background and experience. This equally applies to the (semi)fictional languages in _Three-Body_, which is what I'll write about in this post and [the next]({{ site.baseurl }}{% post_url 2019-08-17-linguistics-in-three-body-part-3 %}). My commentary covers five points in total:
+In ["The linguistic view in _Three-Body_ (Part 1)"]({{ site.baseurl }}{% post_url 2019-08-15-linguistics-in-three-body-part-1 %}) I briefly introduced the phenomenal sci-fi trilogy [_Remembrance of Earth's Past_](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past), aka "Three-Body," written by the Chinese author [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin). I also recounted my impression of fictional languages in general and concluded that their designs are typically influenced by the authors' own linguistic background and experience. This applies to the (semi)fictional languages in _Three-Body_ too, which are what I'll write about in this post and [the next]({{ site.baseurl }}{% post_url 2019-08-17-linguistics-in-three-body-part-3 %}). My commentary covers five points:
 
 This post:
 - Liu's future languages
@@ -47,18 +47,18 @@ Based on the above facts, personally I'd give Liu's envisioning of future langua
 Rating: &#9733;&#9734;&#9734;&#9734;&#9734;
 
 ## How do interstellar conversations happen?
-Unlike in many sci-fi novels and movies, where aliens automatically all speak English, in _Three-Body_ Liu makes the effort to describe how humans and aliens manage to communicate with each other. In this respect Three-Body and _Story of Your Life_ are similar, though unlike  _Story of Your Life_, in _Three-Body_ the human-alien communication is described as a much easier task.
+Unlike in many sci-fi novels and movies, where aliens automatically all speak English, in _Three-Body_ Liu makes the effort to describe how humans and aliens manage to communicate with each other. In this respect _Three-Body_ and _Story of Your Life_ are similar, though unlike  _Story of Your Life_, in _Three-Body_ the human-alien communication is described as a much easier task.
 
 ### Case 1: Red Coast Project (1960s)
 Apparently the necessary translation technologies were already available in the 1960s, which by the way was how the entire story got kick-started. In short, everything that happened later in the novel, including the early death of our Solar System, was ultimately caused by a brief interstellar chat. So, just as the _Arrival_ proverb goes: **Language is a weapon.**
 
 {% include figure image_path="/assets/images/language-weapon.jpg" alt="An illustration of language as weapon." caption="An illustration of language as weapon in interstellar contact" %}
 
-Liu's envisioning of interstellar communication is machine-based---or "machine translation" so to speak. In _The Three-Body Problem_ the Chinese military project dedicated to this purpose was called the Red Coast Project. It used "universal, basic mathematical and physical laws" to "construct an elemental linguistic code that can be understood by any civilization," which in turn was converted to a "full linguistic system" with the supplementation of "low-resolution images" (Ken Liu's translation).
+Liu's envisioning of interstellar communication is machine-based---or "machine translation" so to speak. In _The Three-Body Problem_ the Chinese military project dedicated to this purpose was called "Red Coast." It used "universal, basic mathematical and physical laws" to "construct an elemental linguistic code that can be understood by any civilization," which in turn was converted to a "full linguistic system" with the supplementation of "low-resolution images" (Ken Liu's translation).
 
 For some reason, this Red Coast translator only supported two Earth languages: Chinese and Esperanto. This surprised me a bit, but the elemental-code-to-full-linguistic-system technology itself is highly appealing. I've heard of nothing this powerful in our mundane world. [Machine translation](https://en.wikipedia.org/wiki/Machine_translation) is a thriving industry, but "a full linguistic system" sounds like a remote dream. <!--[Rule-based methods](https://en.wikipedia.org/wiki/Rule-based_machine_translation) require a fairly good understanding of the target language grammar, while [statistics-based methods](https://en.wikipedia.org/wiki/Statistical_machine_translation) rely on a large enough amount of parallel data. However, neither is procurable in the case of an alien language.-->
 
-It isn't clear in Liu's writing, but my understanding is that the human-alien translation he had in mind wasn't direct but was via a medium language (i.e., the elemental linguistic code). This is possible because in _The Three-Body Problem_ a Trisolaran functionary (called a "listener") deciphered the first message from Earth by utilizing the "self-interpreting code" in the radio signal. He then translated a Trisolaran message into Chinese via the same self-interpreting code and sent it back to Earth (I won't spoil what he sent but it was a super important message!).
+This isn't clear from Liu's writing, but I suppose the human-alien translation he had in mind wasn't direct but was via a medium language (i.e., the elemental linguistic code). That's possible because in _The Three-Body Problem_ a Trisolaran functionary (called a "listener") deciphered the first message from Earth by utilizing the "self-interpreting code" in the radio signal. He then translated a Trisolaran message into Chinese via the same self-interpreting code and sent it back to Earth (I won't spoil what he sent but it was a super important message!).
 
 However, in order for the rich information that can be expressed in natural languages, from cutting-edge sciences to everyday gossips, to be accurately encoded into and decoded from such a medium language, it must be super powerful---or really be a natural language itself! I doubt the "basic mathematical and physical laws" we know today have this kind of capacity.
 
@@ -70,14 +70,14 @@ What also surprised me was Liu's description that this was "the first time" Tris
 
 {% include figure image_path="/assets/images/dark-forest.jpg" alt="A dark forest." caption="A dark forest (Photo by [Rosie Fraser](https://unsplash.com/@rosiefraser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/dark-forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))" %}
 
-Of course, it may also be possible that Trisolaris is only more advanced compared to Earth but still too naive compared to other cosmic civilizations. In _Death's End_ the most advanced, "God-like" civilizations have long mastered the technology of deciphering any language in the universe and can also easily carry out cosmic broadcasting via supermembrane. Such broadcasting only happened once in the trilogy (around the 189027th century) and Liu only allocated each civilization a single slot in the "multilingual" message ("Trisolaran" for Trisolaris and "Earth" for Earth).
+Of course, it may also be possible that Trisolaris is only more advanced compared to Earth but still too naive compared to other cosmic civilizations. In _Death's End_ the most advanced, "God-like" civilizations had long mastered the technology of deciphering any language in the universe and could also easily carry out cosmic broadcasting via supermembrane.
 
-But even with this maximal simplification there were still 1.57 million languages in the broadcast, which Liu deems as "a tiny number" because it only included languages of civilizations that hadn't completely gone extinct (well, at the time of the broadcasting there were only two humans left...). According to [Ethnologue](https://www.ethnologue.com/guides/how-many-languages), **as of 2019 there are 7111 languages being actively spoken on Earth alone.** Considering there are planets much larger than Earth, the diversity of cosmic languages must be much more immense than we can imagine.
+Such broadcasting only happened once in the novel (around the 189027th century) and Liu has only allocated each civilization a single slot in the "multilingual" message ("Trisolaran" for Trisolaris and "Earth" for Earth). But even with this maximal simplification there were still 1.57 million languages in the broadcast, which Liu describes as "a tiny number" because it only included languages of civilizations that hadn't completely gone extinct (well, at the time of the broadcasting there were only two humans left...). According to [Ethnologue](https://www.ethnologue.com/guides/how-many-languages), **as of 2019 there are 7111 languages being actively spoken on Earth alone.** Considering there are planets much larger than Earth, the diversity of cosmic languages must be much more immense than we can imagine.
 
 ### Case 3: Rosetta System (23rd century)
 In _Death's End_ Liu describes a special database called the "Rosetta System," which was developed by humans to teach Trisolarans Earth languages. The basic method it used was drawing connections between linguistic symbols and images, which "an alien civilization could decode and study" (Ken Liu's translation).
 
-One concern I have had about such a method is not all linguistic symbols can be readily picturized. It's easy to picturize _apple_, _star_, and _walk_, but what about _subtle_, _sweet_, and _nostalgia_? Idioms are also be an obvious obstacle, because the picture associated with, say, _rain cats and dogs_, involves neither cats nor dogs. **However difficult second language learning is on Earth, the difficulty level would only exponentially escalate in space.**
+One concern I've had about this method is that not all linguistic symbols can be readily picturized. It's easy to picturize _apple_, _star_, and _walk_, but what about _subtle_, _sweet_, and _nostalgia_? Idioms are also an obvious obstacle, because the picture associated with, say, _rain cats and dogs_, involves neither cats nor dogs. **However difficult second language learning is on Earth, the difficulty level would only exponentially escalate in space.**
 
 The Rosetta System was presumably an improved version of the Red Coast System---also equipped with a natural-language-to-elemental-linguistic-code translation component---because in order to teach Trisolarans how to use the "software" there had to be some interface instructions. And those instructions obviously couldn't be written in an Earth language, or interstellar language teaching couldn't be bootstrapped.
 
@@ -94,7 +94,7 @@ I think the three cases above reveal **three hypothetical facts about interstell
 
 Though of course, 3 is a highly risky move according to the dark forest theory...
 
-Anyway, Liu's imagination of interstellar communication is dark but sensible, not entirely scientific but very thought-provoking, and the two amazing language tools (Red Coast and Rosetta) also give our machine translation industry a fancy goal to emulate. So, this time I'd give Liu 4 stars out of 5 (not 5 stars because I don't think math/physics provides a good medium language).
+Anyway, Liu's imagination of interstellar communication is dark but sensible, not entirely scientific but very thought-provoking, and the two amazing language tools (Red Coast and Rosetta) also give machine translation industry today a fancy goal to emulate. So, this time I'd give Liu 4 stars out of 5 (not 5 stars because I don't think math/physics provides a good medium language).
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
 
