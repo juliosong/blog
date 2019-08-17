@@ -13,9 +13,12 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
+/* fallback font 'Open Sans' for android China */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i&display=swap&subset=latin-ext');
+
 $serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+  "Helvetica Neue", "Lucida Grande", "Open Sans", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -32,9 +35,6 @@ $garamond: Garamond, serif !default;
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
-
-/* Chinese font */
-
 
 
 /* type scale */
