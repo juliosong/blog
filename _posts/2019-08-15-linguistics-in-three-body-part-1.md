@@ -55,7 +55,7 @@ Elvish and Klingon additionally have specially invented writing systems. See bel
 
 However, these exotic-looking scripts are actually as "ourworldly" as their corresponding spoken languages. Between the two, the Elvish script (called [Tengwar](https://en.wikipedia.org/wiki/Tengwar)) is more finished, but both systems are still [phonemically oriented](https://en.wikipedia.org/wiki/Phonemic_orthography)---that is, they try to write down the individual _sounds_ that make up words. In this respect, they aren't that different from real alphabets used on Earth, and their exotic appearance probably has more to do with their deliberately calligraphic font styles and their [non-Phoenician](https://en.wikipedia.org/wiki/Alphabet#Asian_alphabets) (especially non-Latin) nature. In fact real non-Phoenician alphabets---such as [Hangul](https://en.wikipedia.org/wiki/Hangul) for Korean and [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo) for Chinese (traditional)---may look no less exotic to someone accustomed to reading familiar Phoenician alphabets (e.g., Latin, Greek, Cyrillic). See below for a comparative illustration.
 
-<table style="width: 450px; margin: 5px auto 20px auto; border: 0;">
+<table style="width: 450px; margin: 5px auto 20px; border: 0;">
 <tr style="background-color: #ECEBE6; border: 0;">
 <th style="background-color: #ECF9B5; border: none; text-align: center; vertical-align: middle;" rowspan="4">Real</th>
 <th style="border: none; text-align: center; vertical-align: middle;" rowspan="2">Phoenician</th>
