@@ -19,9 +19,11 @@ $indent-var: 1.3em !default;
   font-style: normal;
   font-weight: 400;
   font-display: swap;
+  src: url('/fonts/OpenSans.eot');
   src: url('/fonts/OpenSans-Regular.ttf') format('truetype')，
        url('/fonts/OpenSans.woff2') format('woff2'),
-       url('/fonts/OpenSans.woff') format('woff');
+       url('/fonts/OpenSans.woff') format('woff'),
+       url('/fonts/OpenSans.eot?#iefix') format('embedded-opentype');
 }
 /* italic */
 @font-face {
@@ -29,9 +31,11 @@ $indent-var: 1.3em !default;
   font-style: italic;
   font-weight: 400;
   font-display: swap;
+  src: url('/fonts/OpenSans-It.eot');
   src: url('/fonts/OpenSans-RegularItalic.ttf') format('truetype'),
        url('/fonts/OpenSans-It.woff2') format('woff2'),
-       url('/fonts/OpenSans-It.woff') format('woff');
+       url('/fonts/OpenSans-It.woff') format('woff')
+       url('/fonts/OpenSans-It.eot?#iefix') format('embedded-opentype');
 }
 
 /* system typefaces */
