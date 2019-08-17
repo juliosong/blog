@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/santif.jpg
   show_overlay_excerpt: false
   image_description: "My copy of the Three-Body trilogy."
-  caption: "My copy of the _Three-Body_ trilogy."
+  caption: "My copy of the _Three-Body_ trilogy"
   teaser: /assets/images/santif.jpg
 ---
 
