@@ -15,7 +15,7 @@ So I ended up using category theory in my linguistics dissertation. How this hap
 ## Two positive messages
 But now that I've gone through the process, I can share two positive messages with my fellow linguisticians who are also from a purely language/humanities background:
 1. If there's _one_ branch of math that isn't philosophically alien to linguisticians, at least on a big-picture level, it's category theory.
-2. Category theory is learnable even if you knowing nothing about the usual university math topics (calculus, linear algebra, etc.). All you need is readiness for abstract thinking, which linguisticians are pretty good at.
+2. Category theory is learnable even if you know nothing about the usual university math topics (calculus, linear algebra, etc.). All you need is readiness for abstract thinking, which linguisticians are pretty good at.
 
 A bonus of learning category theory is that once you know it, many other mathematical branches as well as some nonmathematical subjects---such as abstract algebra, type theory, and functional programming---become a lot less formidable. In other words, **category theory is like a "shortcut" to understanding complex stuff.** On the one hand, it's so abstract that everything else just looks, well, less abstract. On the other hand, it successfully demonstrates that many complex conceptual constructs are actually complex in the same way.
 
