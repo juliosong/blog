@@ -61,7 +61,7 @@ Besides, an interesting point in my confusion is the realization that "the categ
 
 In particular, this means that every category object is a monoid, even if it only has one loop arrow (i.e., the id arrow). Algebraically this is just the [_trivial monoid_](https://en.wikipedia.org/wiki/Trivial_group) $\\{e\\}$, where $e$ is the identity element.
 
-There's still much more to say about monoid. In fact the concept of category itself is sort of like a generalized monoid. But that's way beyond the scope of this post.
+There's still much more to say about monoid. In fact the concept of category itself is sort of like a generalized monoid (see, e.g., Awodey 2010, p.&nbsp;12). But that's way beyond the scope of this post.
 
 ## My wish
 I wish that future category theory textbooks targeting nonmathematician beginners can make the various disciplinary assumptions and conventions more explicit. Sometimes something that is too obvious for a mathematician to bother spelling out can cause much struggle to an interested layman. It's not necessarily because the mathematical concepts themselves are hard to understand but rather due to the fact that people with different levels of mathematical experience or "maturity" don't share the same "background discourse," to borrow a linguistic term. The same applies to introductory textbooks in other disciplines, of course.
