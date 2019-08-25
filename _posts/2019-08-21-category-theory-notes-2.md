@@ -57,7 +57,7 @@ In the above we have actually seen two angles to characterize the mathematical c
 
 The more big-picture-oriented remark from Goldblatt, on the other hand, is an *outsider's characterization;* namely, the definition one gets when jumping out of the box termed mathematics and perceiving the matter from a general epistemic height.
 
-I personally have found it easier for the mathematically uninitiated (aka myself) to approach category theory with an outsider's mindset, at least at first. Even after one becomes versed enough to deal with the technical details, it's still helpful to think about the big picture from time to time.
+I personally have found it easier for the mathematically uninitiated (aka myself) to approach category theory with an outsider's mindset, at least at first. But again, even after one becomes versed enough to deal with the technical details, it's still helpful to think about the big picture from time to time.
 
 ## Conclusion
 In this post I have noted down my thoughts on why the mathematical category is called _category_.
