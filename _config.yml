@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "I-Yuwen"
 title_separator          : "|"
 subtitle                 : "A blog about language" # site tagline that appears below site title in masthead
-name                     : "Julio Song"
+name                     : "Chenchen Song"
 description              : "This is the blog of Julio Song (Chenchen Song), a PhD student in linguistics at University of Cambridge."
 url                      : "https://blog.juliosong.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
