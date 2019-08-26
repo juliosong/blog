@@ -60,7 +60,7 @@ I can't remember when or how I eventually understood the categorical conception 
 Besides, an interesting point in my confusion is the realization that "the category termed 'monoid' is fundamentally different from the usual categories." It turns out that **monoid is a much more general concept in category theory than categories with specific object types.** As Mac Lane states in _CWM_:
 >For any category $C$ and any object $a\in C$, the set $hom(a,a)$ of all arrows $a\rightarrow a$ is a monoid. (p.&nbsp;11)
 
-In particular, this means that every category object is a monoid, even if it only has one loop arrow (i.e., the id arrow). Algebraically this is just the [_trivial monoid_](https://en.wikipedia.org/wiki/Trivial_group) $\\{e\\}$, where $e$ is the identity element.
+In particular, this means that every category object is a monoid, even if it has only one loop arrow (i.e., the id arrow)---algebraically that is just the [_trivial monoid_](https://en.wikipedia.org/wiki/Trivial_group) $\\{e\\}$, with $e$ being the identity element.
 
 There's still much more to say about monoid. In fact the concept of category itself is sort of like a generalized monoid (see, e.g., Awodey 2010, p.&nbsp;12). But that's way beyond the scope of this post.
 
