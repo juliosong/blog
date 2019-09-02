@@ -48,7 +48,7 @@ if $g \circ f = i \circ h,$ then the diagram is _commutative_. Commutative diagr
 
 Normally one wouldn't expect something as clearly defined as commutative diagrams to be confusing, but the notion---or more exactly what's left implicit of it---did confuse me for a while. My confusion was, **How can we tell whether two paths are equivalent or not?**
 
-Initially I had thought two paths sharing the same source and target were equivalent---all roads lead to Rome! But soon I realized there must be something wrong in this idea, because if it were true then all parallel arrows would end up being equivalent; in other words, all diagrams would be commutative. But if that were the case, why would mathematicians bother coming up with a notion of commutativity at all, let alone cherishing it so much? If that were the case, saying a diagram is commutative would be like saying a forest has trees!
+Initially I had thought two paths sharing the same source and target were equivalent---all roads lead to Rome! But soon I realized there must be something wrong with this idea, because if it were true then all parallel arrows would end up being equivalent; in other words, all diagrams would be commutative. But if that were the case, why would mathematicians bother coming up with a notion of commutativity at all, let alone cherishing it so much? If that were the case, saying a diagram is commutative would be like saying a forest has trees!
 
 In hindsight, **a major cause of my confusion was that the introductory texts I used only illustrated _commutative_ diagrams but not _noncommutative_ ones,** which gave me the false impression, perhaps subconsciously, that commutativity came for free, or at least at a very low price---as if to make a diagram commute all we needed to do was draw parallel paths between objects.
 
@@ -71,7 +71,7 @@ Adapting Bradley's example, we can construct a commutative diagram as follows:
 
 ![a commutative diagram adapted from Bradley](/assets/images/adapted-bradley.png)
 
-Since for any real number argument $(+5)\circ(+3)$ and $(+6)\circ(+2)$ return the same value, they are equal functions and equivalent paths, whence the diagram commutes. Admittedly, not all diagrams can be checked for commutativity in this way, because many categories have nothing to do with sets and functions. But the idea remains the same: **we can't declare a diagram commutative on a whim but can only verify (or falsify) commutativity via a proof.**
+Since for any real number argument $(+5)\circ(+3)$ and $(+6)\circ(+2)$ return the same value, they are equal functions and equivalent paths, whence the diagram commutes. Admittedly, not all diagrams can be checked for commutativity in this way, because many categories have nothing to do with sets and functions. But the caveat remains the same: **we can't declare a diagram commutative on a whim but can only verify (or falsify) commutativity via a proof.**
 
 ## Takeaway
 - There can be multiple parallel arrows between a pair of categorial objects. Textbooks don't depict all of them in diagrams because many are irrelevant to the topic(s) under discussion.
