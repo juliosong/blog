@@ -47,7 +47,7 @@ At the $\mathbf{CAT}$ scale our initial sand set $A$ is already too minuscule to
 {% include video id="i93Z7zljQ7I" provider="youtube" %}
 
 ## Ladder of abstraction
-**What good do the size-related concepts in category theory do to us nonmathematicians?** In my own experience, a most important benefit I've got is the "ladder of abstraction" mind-set. Given a particular system, there may be multiple angles to view it. The categorical mindset guides us to organize those angles into ascending levels of abstraction, with constructs at lower levels "feeding" constructs at higher levels.
+**What good do the size-related concepts in category theory do to us nonmathematicians?** In my own experience, a most important benefit I've got is the "ladder of abstraction" mind-set. Given a particular system, there may be multiple angles to view it. The categorical mind-set guides us to organize those angles into ascending levels of abstraction, with constructs at lower levels "feeding" constructs at higher levels.
 
 {% include figure image_path="/assets/images/ladder.jpg" alt="A ladder carved with Chinese characters" caption="A ladder carved with five Chinese characters and showing their gradual abstraction" %}
 

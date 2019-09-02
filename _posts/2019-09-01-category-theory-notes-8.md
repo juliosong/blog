@@ -28,7 +28,7 @@ So, a functor sort of creates an "image" of its source inside its target. Specif
 {% include figure image_path="/assets/images/functors.png" alt="Three good candidates and a bad candidate for functors" caption="Three good candidates ($F, G, H$) and a bad candidate ($I$) for functors" %}
 
 ## A functor is two mappings
-Functoriality is a highly compact notion. When we say $F\colon\mathbb{C}\rightarrow\mathbb{D}$ is a functor, we mean that $F$ maps all of the above-specified data from $\mathbb{C}$ to $\mathbb{D}$. In other words, $F$ is not a single mapping but a "bundle" of mappings. In Mac Lane's words:<a id="maclane"></a>
+Functoriality is a highly compact notion. When we say $F\colon\mathbb{C}\rightarrow\mathbb{D}$ is a functor, we mean that $F$ maps all the above-specified data from $\mathbb{C}$ to $\mathbb{D}$. In other words, $F$ is not a single mapping but a "bundle" of mappings. In Mac Lane's words:<a id="maclane"></a>
 > [A] functor $T$ ... consists of two suitably related functions: The object function $T$ ... and the arrow function (also written $T$) .... (_CWM_, p.&nbsp;13)
 
 Mathematicians habitually write the object and the arrow functions both with the same letter (e.g., $T$). By contrast, the two functions have separate notations in some applied areas such as functional programming. Take Haskell for example. Its type class [Functor](https://en.wikibooks.org/wiki/Haskell/The_Functor_class) is defined as follows:
@@ -45,7 +45,7 @@ As the definition shows, the `Functor` class in Haskell has a single method `fma
 Comparing the definition of the Haskell Functor with that of the mathematical functor (see <a href="#functordef">above</a>), we can easily find that the two are essentially the same: `fmap` is just the arrow function, and `f` is the categorical object function. As such, the Haskell Functor class itself is merely half of a mathematical functor, while the other half is defined as a method of the class. For those who want to learn more about the categorical nature of Haskell I recommend Bartosz Milewski's 2018 book [_Category Theory for Programmers_](https://books.google.co.uk/books/about/Category_Theory_for_Programmers.html?id=ZaP-swEACAAJ&source=kp_book_description&redir_esc=y).
 
 ## Functor jectivity
-<a href="#maclane">Above</a> I cited Mac Lane's statement that a functor consists of two _functions_. An important property of functions is _jectivity_: in set-theory a function can be [injective](https://en.wikipedia.org/wiki/Injective_function) (one-to-one), [surjective](https://en.wikipedia.org/wiki/Surjective_function) (onto), or [bijective](https://en.wikipedia.org/wiki/Bijection) (one-to-one correspondence).
+<a href="#maclane">Above</a> I cited Mac Lane's statement that a functor consists of two _functions_. An important property of function is _jectivity_: in set-theory a function can be [injective](https://en.wikipedia.org/wiki/Injective_function) (one-to-one), [surjective](https://en.wikipedia.org/wiki/Surjective_function) (onto), or [bijective](https://en.wikipedia.org/wiki/Bijection) (one-to-one correspondence).
 
 The jectivity-based classification also makes sense in category theory---and at different abstraction levels. At the category-internal level, arrows are classified into monomorphisms, epimorphisms, and isomorphisms (see [this blog post](https://dkalemis.wordpress.com/2014/08/18/how-jectivity-corresponds-to-morphisms/) for an introduction); and at the functorial level, functors are classified as full, faithful, and so on. Here I won't comment on arrow jectivity but will focus on functor jectivity, because I had only found the latter confusing.
 
@@ -82,7 +82,7 @@ Taking isomorphic objects into account, we can also define the following "essent
 Two places I've seen these "essentially" notions<sup><a href="#fn1" id="ref1">1</a></sup> are the definition of [_categorical embedding_](https://en.wikipedia.org/wiki/Subcategory#Embeddings) (full + faithful + essentially injective on objects) and that of [_categorical equivalence_](https://en.wikipedia.org/wiki/Equivalence_of_categories) (full + faithful + essentially surjective on objects). I do have notes on both, but I'll leave them to future posts.
 
 ### 3. Jectivity based on arrow collection
-I haven't met functor classes in this subdimension in use in my limited experience but list them anyway for completeness. A functor is
+I haven't met functor classes in this subdimension in my limited experience but list them anyway for completeness. A functor is
 - [_injective on arrows_](https://proofwiki.org/wiki/Definition:Injective_on_Morphisms) if its arrow function is injective,
 - [_surjective on arrows_](https://proofwiki.org/wiki/Definition:Surjective_on_Morphisms) if its arrow function is surjective, and
 - _bijective on arrows_ if its arrow function is bijective.

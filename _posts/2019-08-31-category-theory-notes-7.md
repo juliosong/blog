@@ -21,9 +21,9 @@ Idioms and slangs are an important part of human language. They are short, expre
 
 {% include figure image_path="/assets/images/metaphor.jpg" alt="The cover of the book Metaphors We Live By" caption="The cover of Lakoff &amp; Johnson's monograph [_Metaphors We Live By_](https://books.google.co.uk/books?id=m8Sp5m9vZcwC&source=gbs_book_other_versions) (source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Metaphors_We_Live_By_book_cover.jpg))" %}
 
-Due to their unpredictable meanings, idioms require extra efforts in language acquisition. Sadly, unlike language textbooks, mathematical textbooks rarely specify which phrases are idiomatic, let alone explicitly explain their meanings. This is not ideal, because it means that **readers can only grasp idiomatic terms through experience, which total beginners don't have any of.**
+Due to their unpredictable meanings, idioms require extra efforts in language acquisition. Sadly, unlike language textbooks, mathematical textbooks rarely specify which phrases are idiomatic, let alone explicitly explain their meanings. This is not ideal, because it means that **readers can only grasp idiomatic terms through experience, which total beginners don't have any.**
 
-What's worse, a large number of math learners aren't native speakers of English, who might have difficulty in understanding even everyday English idioms, let alone scholarly ones. Therefore, I generally object to the coinage or standardization of idiomatic terms in academic contexts, especially when the relevant phrases can also be understood literally (though falsely).
+What's worse, a large number of math learners aren't native speakers of English, who might have difficulty in understanding even everyday English idioms, let alone scholarly ones. Therefore, I generally object to the coinage or standardization of idiomatic terms in academic contexts, especially when the relevant phrases can also be understood literally (that is, falsely).
 
 **To avoid unnecessary linguistic barriers, academic terms should be maximally compositional.**
 {: .text-center .notice}
@@ -43,7 +43,7 @@ As a linguistician, when I see a word or phrase I don't understand, the first th
 
 However, neither dictionary definition fits in the mathematical phrase in any self-evident way. Isomorphism surely isn't "a specified place" like knees, but nor does it sound like "a limit or boundary." So, there must be something left implicit---that is, hidden behind the words---by the inventor of the phrase.
 
-As it turned out, **the phrase actually means "as far as isomorphism allows" or "by way of isomorphism."** It's usually used to modify propositions of the pattern
+As it turns out, **the phrase actually means "as far as isomorphism allows" or "by way of isomorphism."** It's usually used to modify propositions of the pattern
 - _X and Y are the same **up to isomorphism**,_
 
 which means that _X_ and _Y_ aren't exactly the same but can be taken as the same in category theory because they are isomorphic. In other words, **_up to isomorphism_ is an adverbial specifying a condition under which the proposition is true.** So, the above pattern can be paraphrased as _X and Y, being isomorphic, are the same if we treat isomorphic constructs as the same._ In category theory two constructs that are isomorphic behave identically in whatever way that matters to the theory. In [Bradley's words](https://www.math3ma.com/blog/up-to-isomorphism):
