@@ -24,14 +24,17 @@ Crucially, here "small" and "large" shouldn't be understood in the everyday sens
 
 ![relative sizes of categories](/assets/images/relative-size.png)
 
-We linguisticians love cross classifications. To cross-classify category sizes we need two binary features: `[object-collection (oc): ±set]` and `[arrow-collection (ac): ±set]`.
+We linguisticians love cross classifications. To cross-classify category sizes we need three binary features: `[object-collection (oc): ±set]` (whether the object collection is a set), `[arrow-collection (ac): ±set]` (whether the arrow collection is a set), and `[hom: ±set]` (whether the hom-collections are sets).
 
-|           | [ac:+set] | [ac:-set]       |
-|:---------:|:---------:|:---------------:|
-| [oc:+set] |  small    | locally small   |
-| [oc:-set] | -         | (properly) large|
+|                 | [oc:±set] | [ac:±set]       | [hom:±set]  |
+|:---------------:|:---------:|:---------------:|:-----------:|
+| small           |  +        | +               |  +          |
+| locally small   | -         | -               |  +          |
+| (properly) large| -         | -               |  -          |
+| ?               | +         | -               | ±           |
 
-As the table shows, the two binary features cross-classify categories into four sizes, among which three are officially recognized. What's the `[[oc:-set],[ac:+set]]` size? I don't know.🤷‍♂️
+
+As the table shows, the three features cross-classify categories into five licit sizes,<sup><a href="#fn1" id="ref1">1</a></sup> among which three are officially recognized. What are the `[[oc:+set],[ac:-set],[hom:±set]]` sizes? I don't know.🤷‍♂️
 
 Beyond the above cross classification, some people also speak of a fourth category size, _very large_ (see [this](https://ncatlab.org/nlab/show/CAT) nLab page), which describes a category whose objects are all categories, including the properly large ones (this is what Mac Lane means by [_metacategory_](https://ncatlab.org/nlab/show/metacategory) in _CWM_). But nowadays that concept is not often used and certainly not mentioned in many introductory textbooks.
 
@@ -63,3 +66,8 @@ At an even higher level of abstraction, the numerous syntactic types can be divi
 - There are three standardly recognized sizes of categories: small, large, and locally small.
 - Most categories in mathematics per se are locally small, while most categories outside mathematics are small.
 - Understanding the size-related concepts in category theory can help us form a highly useful ladder-of-abstraction mind-set.
+
+<hr>
+<div style="font-family: serif; font-size: 0.8em;">
+<a id="fn1">1.</a><sup><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> The three features in theory give rise to eight combinations. However, only five of them (i.e., those shown in the table) are licit in practice, because if the arrow collection is a set (i.e., [ac:+set]), the hom-collections are necessarily also sets (i.e., [hom:+set]), hence the absence of the [[oc:±set], [ac:+set], [hom:-set]] combinations. Similarly, if the object collection isn't a set (i.e., [oc:-set]), then the arrow collection can't be a set either (i.e., [ac:-set]), for each object brings about at least an identity arrow, and so there are at least as many arrows as objects in a category; hence the absence of the [[oc:-set], [ac:+set], [hom:±set]] combinations.
+</div>
