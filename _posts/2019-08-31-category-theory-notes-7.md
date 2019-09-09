@@ -27,6 +27,7 @@ What's worse, a large number of math learners aren't native speakers of English,
 
 **To avoid unnecessary linguistic barriers, academic terms should be maximally compositional.**
 {: .text-center .notice}
+<a id="catido"></a>
 
 ## Two categorical idioms
 Nevertheless, since all human knowledge---including mathematics---must be recorded and passed on in human tongues, convention frequently overpowers rationality in verbal communication. This is just part of human nature. Since we can hardly do anything about it, we'd better be more sensitive and learn idioms in the idiomatic way; namely, by rote. In particular, I've found the following two idiomatic expressions useful to know at the beginning stage of category theory learning.

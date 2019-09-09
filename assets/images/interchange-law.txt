@@ -1,0 +1,6 @@
+% the latex code for interchange-law.png
+
+\definecolor{bg}{HTML}{e8d5b7} % the background color of my blog
+\begin{tikzcd}[sep=large]
+\mathbb{C} \ar[r,bend left=40,"F" near start,outer sep=-2pt,""{name=UL,below}] \ar[r,"G" pos=.1,outer sep=-1pt,""{name=DL},""{name=ML,below}] \ar[r,bend right=40,"H" pos=.1, outer sep=-2pt,""{name=DDL}] & \mathbb{D} \ar[r,bend left=40,"{F^\prime}" near start,outer sep=-2pt,""{name=UR,below}] \ar[r,"{G^\prime}" pos=.1,outer sep=-1pt,""{name=DR},""{name=MR,below}] \ar[r,bend right=40,"{H^\prime}" pos=.1,outer sep=-2pt,""{name=DDR}] & \mathbb{E} \ar[Rightarrow,background color=bg,from=UL,to=DL,start anchor={[yshift=-0.2ex]},"\alpha"] \ar[Rightarrow,background color=bg,from=UR,to=DR,start anchor={[yshift=-0.2ex]},"{\alpha^\prime}"] \ar[Rightarrow,background color=bg,from=ML,to=DDL,end anchor={[yshift=0.2ex]},"\beta"] \ar[Rightarrow,background color=bg,from=MR,to=DDR,end anchor={[yshift=0.2ex]},"{\beta^\prime}"]
+\end{tikzcd}

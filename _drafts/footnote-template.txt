@@ -1,0 +1,11 @@
+<!-- footnote template -->
+
+<!-- withing post -->
+<sup><a href="#fn1" id="ref1">1</a></sup>
+
+<!-- at end of post -->
+<hr>
+<div style="font-family: serif; font-size: 0.8em;">
+<a id="fn1">1.</a><sup><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> FIRST FOOTNOTE <br>
+<a id="fn2">2.</a><sup><a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> SECOND FOOTNOTE
+</div>

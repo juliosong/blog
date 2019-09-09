@@ -1,5 +1,5 @@
 ---
-title: "Category theory notes 9: Half inverses"
+title: "Category theory notes 15: Triangle equations"
 categories: [linguistics, mathematics]
 tags: [category theory]
 header:
@@ -10,4 +10,4 @@ header:
   teaser: /assets/images/sky.jpg
 ---
 
-In this post I discuss half inverses.
+In this post I discuss the triangle equations.

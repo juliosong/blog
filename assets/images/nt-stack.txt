@@ -1,0 +1,5 @@
+% latex code for nt-stack.png
+\definecolor{bg}{HTML}{e8d5b7} % this is the color code for my blog background
+\begin{tikzcd}
+\mathbb{C} \ar[rr,bend left=40,"F" near start,outer sep=-2pt,""{name=U,below}] \ar[rr,"G" pos=.15,outer sep=0pt,""{name=MD},""{name=MU,below}] \ar[rr,bend right=40,"H" pos=.1,outer sep=-2pt,""{name=D}] & & \mathbb{D} \ar[Rightarrow,from=U,to=MD,start anchor={[yshift=-0.3ex]},end anchor={[yshift=-0.3ex]},background color=bg,"\alpha"'] \ar[Rightarrow,from=MU,to=D,start anchor={[yshift=0.3ex]},end anchor={[yshift=0.3ex]},background color=bg,"\beta"'] \ar[Rightarrow,bend left=30,from=U,to=D,start anchor={[xshift=0.7ex,yshift=-0.5ex]south east},end anchor={[xshift=0.7ex,yshift=0.5ex]north east},background color=bg,"{\scriptscriptstyle\beta\cdot\alpha}" pos=.45,outer sep=-1pt]
+\end{tikzcd}
