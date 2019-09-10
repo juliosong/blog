@@ -27,10 +27,10 @@ The formal definition of a natural transformation is as follows (from [Wikipedia
 >
 >    <img src="/assets/images/naturality.png" alt="naturality square" width="300"/>
 
-The above diagram is called a **naturality square**. In the picture <a href="#nt">above</a> there's also such a square, and I've explicitly indicated its commutativity with a round arrow (blue).
+The above diagram is called a **naturality square**. In my hand-drawn picture <a href="#nt">above</a> there's also such a square, and I've explicitly indicated its commutativity with a round arrow (blue).
 
 ## Vertical composition
-While natural transformations themselves are not difficult to understand, a point that I did find challenging is their composition. There are two ways to compose natural transformations: **vertical** composition ($\cdot$) and **horizontal** composition ($\circ$). **Composing natural transformations vertically just means stacking them one above another to get a bigger natural transformation.**
+While natural transformations themselves are not difficult to understand, a point that I did find challenging was their composition. There are two ways to compose natural transformations: **vertical** composition ($\cdot$) and **horizontal** composition ($\circ$). **Composing natural transformations vertically just means stacking them one above another to get a bigger natural transformation.**
 
 ![vertical stacking of natural transformations](/assets/images/nt-stack.pdf)
 
@@ -52,25 +52,25 @@ If the vertical composition of natural transformations is still easy to understa
 
 Here the intended composition is $\beta\circ\alpha.$ But how is this composition possible? The target of $\alpha$ (i.e., $G$) and the source of $\beta$ (i.e., $F^\prime$) don't overlap after all!
 
-It took me quite some time to get used to this, but **the so-called horizontal composition is not really composition in the ordinary sense**---it's composition in a [higher category](https://ncatlab.org/nlab/show/higher+category+theory) (a [2-category](https://ncatlab.org/nlab/show/2-category)) instead. Higher categories are quite fashionable among categorists. If you go to nLab you'll find that almost every page mentions it...😝 But since we are nonmathematician beginners, we don't want to dive into higher category theory immediately and feel like idiots there. The good news is that the horizontal composition of natural transformations can be perfectly expressed in ordinary (i.e., 1-category) terms. (But if you want a peek into the 2-category perspective, I recommend Milewski's [_Category Theory for Programmers_](https://books.google.co.uk/books?id=5F86vgEACAAJ&source=gbs_book_other_versions), §10.4.)
+It took me quite some time to get used to this, but **the so-called horizontal composition is not really composition in the ordinary sense**---it's composition in a [higher category](https://ncatlab.org/nlab/show/higher+category+theory) (a [2-category](https://ncatlab.org/nlab/show/2-category)) instead. Higher categories are quite fashionable among categorists. If you go to [nLab](https://ncatlab.org/nlab/show/HomePage) you'll find that almost every page mentions it...😝 But since we are nonmathematician beginners, we don't want to dive into higher category theory immediately and feel like idiots there. The good news is that the horizontal composition of natural transformations can be perfectly expressed in ordinary (i.e., 1-category) terms. (But if you want a peek into the 2-category perspective, I recommend Milewski's [_Category Theory for Programmers_](https://books.google.co.uk/books?id=5F86vgEACAAJ&source=gbs_book_other_versions), §10.4.)
 
 Long story short, the "composition" of $\alpha\colon F\Rightarrow G$ and $\beta\colon F^\prime\Rightarrow G^\prime$ in the above diagram is essentially **a natural transformation between the two composite functors $F^\prime\circ F$ and $G^\prime\circ G,$** diagrammatically
 
 ![horizontal composition of natural transformations](/assets/images/nt-horizontal-simple.png)
 
-And this bigger natural transformation is called a "composition of $\alpha$ and $\beta$" simply because it can be expressed (and hence determined) by them. To see how, let's draw a picture.
+And this bigger natural transformation is called a "composition of $\alpha$ and $\beta$" simply because it can be expressed (and hence determined) by $\alpha$ and $\beta.$ To see how, let's draw a picture.
 
 {% include figure image_path="/assets/images/horizontal-composition.png" alt="the horizontal composition of natural transformations" caption="Horizontal composition &#8220;lifts the dimension of&#8221; objects and morphisms." %}
 
-In the above picture, the effect of the consecutive application of the two natural transformations $\alpha$ and $\beta$ on the $\mathbb{C}$-morphism $f\colon A\rightarrow B$ is sort of like dimension lifting---**the edge in $\mathbb{C}$ becomes a face in $\mathbb{D}$ and a cube in $\mathbb{E}.$** This is the case because each functor (e.g., $F$) maps a morphism to a morphism and each pair of natural transformation components (e.g., $\alpha\_A,\alpha\_B$) connect two such morphisms into a square. And since natural transformation components themselves are also morphisms, they also get mapped by further functors and connected by further natural transformations.
+In the above picture, the effect of the consecutive application of the two natural transformations $\alpha$ and $\beta$ on the $\mathbb{C}$-morphism $f\colon A\rightarrow B$ is sort of like dimension lifting---**an edge in $\mathbb{C}$ becomes a face in $\mathbb{D}$ and a cube in $\mathbb{E}.$** This is the case because each functor (e.g., $F$) maps a morphism to a morphism and each pair of natural transformation components (e.g., $\alpha\_A,\alpha\_B$) connect two such morphisms into a square. And since natural transformation components themselves are also morphisms, they also get mapped by further functors and connected by further natural transformations.
 
-Thus, the naturality square in $\mathbb{D}$ is mapped twice into $\mathbb{E},$ once by $F^\prime$ and once by $G^\prime,$ which are the front and back faces of a cube. The remaining four faces of the cube are formed by natural transformation components (orange). Once we have this cube, we can easily see that it has a rectangular cross section $F^\prime FA - F^\prime FB - G^\prime GB - G^\prime GA$ (green). The nice thing about this cross section is that its four vertices can be viewed as the $A$ and $B$ lifted by the two composite functors $F^\prime F$ and $G^\prime G$:
+Thus, the naturality square in $\mathbb{D}$ is mapped twice into $\mathbb{E},$ once by $F^\prime$ and once by $G^\prime,$ which are the front and back faces of a cube. The remaining four faces of the cube are formed by natural transformation components (orange). Once we have this cube, we can easily see that it has a rectangular cross section $F^\prime FA - F^\prime FB - G^\prime GB - G^\prime GA$ (green). The nice thing about this cross section is that its four vertices can be viewed as $A$ and $B$ lifted by the two composite functors $F^\prime F$ and $G^\prime G$:
 \\[ F^\prime FA - F^\prime FB - G^\prime GB - G^\prime GA = (F^\prime\circ F)A - (F^\prime\circ F)B - (G^\prime\circ G)B - (G^\prime\circ G)A. \\]
 Similarly, the two vertical edges $F^\prime FA - F^\prime FB$ and $G^\prime GA - G^\prime GB$ can be viewed as the functorial lifting of the $\mathbb{C}$-morphism $f\colon A\rightarrow B.$ The two horizontal edges $F^\prime FA - G^\prime GA$ and $F^\prime FB - G^\prime GB,$ on the other hand, are just two components of the composite natural transformation $\beta\circ\alpha.$
 
 In other words, the green cross section above is precisely the naturality square for $\beta\circ\alpha.$ Letting $\langle A,B,f\rangle$ vary in $\mathbb{C},$ we get a family of such cross section squares, which demonstrates the naturality of $\beta\circ\alpha.$
 
-**The _natural_ in natural transformation simply means that naturality squares always commute whichever objects and morphisms in the source category we choose to map.**
+**The _natural_ in natural transformation simply means that naturality squares _always_ commute whichever objects and morphisms in the source category we choose to map.**
 {: .text-center .notice}
 
 Just like vertical composition, horizontal composition is also associative and unital:

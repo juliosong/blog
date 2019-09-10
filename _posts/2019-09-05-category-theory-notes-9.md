@@ -18,10 +18,10 @@ That being said, it's undeniable that set theory has provided much inspiration f
 <a id="fullin"></a>
 
 ## Inverse
-The topic of this post, _inverse_, has a set-theoretic origin too. The following definition is from [Wikipedia](https://en.wikipedia.org/wiki/Inverse_function#Definitions):
+The topic of this post, inverse, has a set-theoretic origin too. The following definition is from [Wikipedia](https://en.wikipedia.org/wiki/Inverse_function#Definitions):
 >Let $f$ be a function whose domain is the set $X,$ and whose image (range) is the set $Y.$ Then $f$ is **invertible** if there exists a function $g$ with domain $Y$ and image $X,$ with the property $f(x)=y \Leftrightarrow g(y)=x.$ If $f$ is invertible, the function $g$ is unique, ... called the **inverse** of $f$ [and] usually denoted as $f^{-1}.$
 
-The category-theoretic definition of _inverse_ is similar, as follows:<a id="inverse"></a>
+The category-theoretic definition of inverse is similar, as follows:<a id="inverse"></a>
 >An **inverse** of a morphism $f\colon X\rightarrow Y$ in a category ... is another morphism $f^{-1}\colon Y\rightarrow X$ which is both a left-inverse (a retraction) as well as a right-inverse (a section) of $f$, in that $f\circ f^{-1}\colon Y\rightarrow Y$ equals the identity morphism on $Y$ and $f^{-1}\circ f\colon X\rightarrow X$ equals the identity morphism on $X.$ ([nLab](https://ncatlab.org/nlab/show/inverse))
 
 In particular, **an inverse is also called an _isomorphism_ in category theory,** though isomorphism is a broader concept. When $a$ and $b$ are isomorphic to each other, they are literally the same from a categorical perspective (hence the esoteric idiom "up to isomorphism"; see my [Aug 31 post]({{ site.baseurl }}{% post_url 2019-08-31-category-theory-notes-7 %}#catido)). To illustrate, if I take the bus to school, the "I" in the bus and the "I" at school are obviously the same person. More precisely, even though "we" are not completely identical given environmental and biological changes (e.g., my cells keep updating and my thoughts are dynamic too), "we" can be treated as the same person in all but the highly philosophical contexts; hence, Me-in-Bus $\cong$ Me-at-School ($\cong$ is the symbol for isomorphism).
@@ -32,9 +32,9 @@ In particular, **an inverse is also called an _isomorphism_ in category theory,*
 ## Half inverses
 Perhaps because the notion of isomorphism, or full inverse, is too strict, mathematicians have invented two **half inverses** as mentioned <a href="#inverse">above</a>. Starting with a full inverse
 
-![full inverse](/assets/images/full-inverse.pdf)
+![full inverse](/assets/images/full-inverse.pdf)$,$
 
-Take either of its two equations, say $f\circ g = 1\_Y$, and discard the other (here $g\circ f=1\_X$), and we obtain a half inverse. In this situation, $f$ is called a **left inverse** of $g$ because it's on the left of the small circle $\circ$, and $g$ is said to be a **right inverse** of $f$ because it's on the right of $\circ$.
+take either of its two equations, say $f\circ g = 1\_Y$, and discard the other (here $g\circ f=1\_X$), and we obtain a half inverse. In this situation, $f$ is called a **left inverse** of $g$ because it's on the left of the small circle $\circ$, and $g$ is said to be a **right inverse** of $f$ because it's on the right of $\circ$.
 
 I must admit that these half-inverse notions gave me a real headache in the beginning, not because of their conceptual complexity---they aren't that complex---but because of their names. **The two half inverses each have three alternative names!**
 - left inverse and right inverse
@@ -55,7 +55,7 @@ In particular, there are two legitimate reference points for left and right in c
 <a id="leftright"></a>Apparently **the inventors of the terms "left/right inverse" have used the syntactic reference point,** as is the case with most left/right terms in category theory (e.g., left/right-cancelable, left/right adjoint), but since this choice is more arbitrary than principled, and considering syntactic thinking is much less intuitive than diagrammatic thinking in category theory, it makes the two half-inverse concepts harder to grasp than necessary for beginners.
 
 ## 2. I didn't know why the terms _section_ and _retraction_ had been chosen
-And I still don't know why today. The terms may well have been borrowed from other mathematical areas, but without a note on their etymology few nonmathematician learners can see the motivation for choosing these names. In my case I had to memorize them by rote, and the diagrammatic visualization helped a lot---I just associated section with the left-hand arrow and retraction with the right-hand arrow:
+And I still don't know why today. The terms may well have been borrowed from other mathematical areas, but without a note on their etymology few nonmathematician learners can see the motivation for choosing these names. In my case I had to memorize them by rote, and the diagrammatic visualization helped a lot---I just associated section with the left-hand arrow and retraction with the right-hand arrow in the diagram
 
 ![an illustration of section and retraction](/assets/images/sec-retrac.png)
 
@@ -82,13 +82,12 @@ The word _split_ is used in two difference ways in the above four quotes. In Law
 - _An idempotent map **splits** into a section and a retraction._ and
 - _A section-retraction pair together form a **splitting** of an idempotent map._
 
-Basically an [idempotent](https://ncatlab.org/nlab/show/idempotent) map here is just the section and retraction maps composed in the other direction; that is, $\text{section}\circ\text{retraction}$ in the following diagram:
+In the second sentence above _split_ is nominalized but its logical subject is still the idempotent map. Basically an [idempotent](https://ncatlab.org/nlab/show/idempotent) map here is just the section and retraction maps composed in the other direction; that is, $\text{section}\circ\text{retraction}$ in the following diagram:
 
 ![an illustration of idempotent map](/assets/images/idem.png)
 
 The idempotent map doesn't equal $1\_X$ but has another nice property:
-\\[ \text{section}\circ\text{retraction}(\text{section}\circ\text{retraction})=\text{section}\circ\text{retraction}. \\]
-In the second sentence above _split_ is nominalized but its logical subject is still the idempotent map.
+\\[ \text{section}\circ\text{retraction}\circ(\text{section}\circ\text{retraction})=\text{section}\circ\text{retraction}. \\]
 
 By comparison, Awodey (2010) uses _split_ as **a transitive verb whose subject and object are respectively a section and a retraction (or vice versa).** That is, Awodey lets the section and the retraction split each other!
 
