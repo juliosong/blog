@@ -1,0 +1,15 @@
+% latex code for adjunction-co-iso.pdf
+
+% The following tikzset is needed to render the adjunction symbol in the commutative diagram
+\tikzset{%
+    symbol/.style={%
+        draw=none,
+        every to/.append style={%
+            edge node={node [sloped, allow upside down, auto=false]{$#1$}}}
+    }
+}
+\begin{tikzcd}%[column sep=large]
+\mathbb{C} \ar[r, bend left, "F", ""'{name=U}]  & \mathbb{D} \ar[l, bend left, "G", ""'{name=D}] \ar[from=U, to=D, symbol=\dashv] \\ [-15pt]
+{\color{red}GX} \ar[d, red, "Gf"'] & X \ar[d, "f"'] & {\color{red}FGX} \ar[l,"{\varepsilon_X}"'] \ar[ld, red, "{f\circ{\varepsilon_X}}"] \\
+{\color{red}GY} & {\color{red}Y} &
+\end{tikzcd}

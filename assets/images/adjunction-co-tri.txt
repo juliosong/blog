@@ -1,0 +1,6 @@
+% latex code for adjunction-co-tri.pdf
+
+\begin{tikzcd}
+\mathbb{D}(X, Y) \ar[rd,"{{\varepsilon_X}^*}"'] \ar[r,"{G_{X,Y}}"] & \mathbb{C}(GX, GY) \ar[d,"\cong"] \\
+& \mathbb{D}(FGX, Y)
+\end{tikzcd}

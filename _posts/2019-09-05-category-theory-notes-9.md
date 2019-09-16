@@ -28,6 +28,7 @@ In particular, **an inverse is also called an _isomorphism_ in category theory,*
 
 **An isomorphism is a full (i.e., two-sided) inverse.**
 {: .text-center .notice }
+<a id="hi"></a>
 
 ## Half inverses
 Perhaps because the notion of isomorphism, or full inverse, is too strict, mathematicians have invented two **half inverses** as mentioned <a href="#inverse">above</a>. Starting with a full inverse

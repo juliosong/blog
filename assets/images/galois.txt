@@ -1,0 +1,14 @@
+% latex code for galois.pdf
+
+\tikzset{%
+    symbol/.style={%
+        draw=none,
+        every to/.append style={%
+            edge node={node [sloped, allow upside down, auto=false]{$#1$}}}
+    }
+}
+\begin{tikzcd}
+\mathbb{P}_\le \ar[r,bend left,"f",""'{name=U}] & \mathbb{Q}_\sqsubseteq \ar[l,bend left,"g",""'{name=D}] \ar[from=U,to=D,symbol=\dashv] \\[-10pt]
+p \ar[d] & f(p) \ar[d] \\
+g(q) & q
+\end{tikzcd}

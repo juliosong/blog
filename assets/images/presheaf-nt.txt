@@ -1,0 +1,8 @@
+% latex code for presheaf-nt.pdf
+
+\definecolor{bg}{HTML}{e8d5b7}
+\begin{tikzcd}
+\mathbb{C}^\mathrm{op} \ar[r,bend left,start anchor=north east,end anchor=north west,"{y(C)}" pos=0.5,""'{name=U}] \ar[r,bend right,start anchor=south east,end anchor=south west,"F"' pos=0.5,""{name=D}] & \mathbf{Sets} \\
+X & y(C)(X) \ar[r,"\rho_X"] & F(X) \\
+C & y(C)(C) \ar[r,"\rho_C"] & F(C) \ar[from=U,to=D,Rightarrow,background color=bg,"\rho"]
+\end{tikzcd}

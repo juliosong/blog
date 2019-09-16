@@ -15,6 +15,7 @@ Fong &amp; Spivak refer to category, functor, and natural transformation as the 
 The definition of a functor is straightforward. It's just an arrow between two categories. Unlike arrows between objects (i.e., "arrows" when the word is used alone), **functors map two types of data at once: objects and (inter-object) arrows.** This is because at the functorial level the internal structures of the source and target categories are visible---recall that at the category-internal level the source and target objects are opaque.
 
 {% include figure image_path="/assets/images/functor.jpg" alt="An illustration of a functor" caption="A functor $F$ between two categories $\mathbb{C}$ and $\mathbb{D}$ (the arrows are merely expository)" %}
+<a id="functorr"></a>
 
 ## Functor defined
 I mentioned the axiomatic definition of categories in my [Aug 28 post]({{ site.baseurl }}{% post_url 2019-08-28-category-theory-notes-5 %}). A category consists of a collection of _objects_ and a collection of _arrows_ (aka. _morphisms_), where each object is associated with an _identity arrow_ and every pair of composable arrows actually compose, with the _composition_ obeying _associativity_ and the _unit law_. **A functor maps all these data and their structures from one category to another.** In Awodey's words,<a id="functordef"></a>
@@ -43,6 +44,7 @@ class Functor f where
 As the definition shows, the `Functor` class in Haskell has a single method `fmap` that maps a function `a -> b` to another function `f a -> f b`, and this mapping must satisfy two laws: (i) it must preserve identity; (ii) it must preserve composition.
 
 Comparing the definition of the Haskell Functor with that of the mathematical functor (see <a href="#functordef">above</a>), we can easily find that the two are essentially the same: `fmap` is just the arrow function, and `f` is the categorical object function. As such, the Haskell Functor class itself is merely half of a mathematical functor, while the other half is defined as a method of the class. For those who want to learn more about the categorical nature of Haskell I recommend Bartosz Milewski's 2018 book [_Category Theory for Programmers_](https://books.google.co.uk/books/about/Category_Theory_for_Programmers.html?id=ZaP-swEACAAJ&source=kp_book_description&redir_esc=y).
+<a id="jec"></a>
 
 ## Functor jectivity
 <a href="#maclane">Above</a> I cited Mac Lane's statement that a functor consists of two _functions_. An important property of function is _jectivity_: in set-theory a function can be [injective](https://en.wikipedia.org/wiki/Injective_function) (one-to-one), [surjective](https://en.wikipedia.org/wiki/Surjective_function) (onto), or [bijective](https://en.wikipedia.org/wiki/Bijection) (one-to-one correspondence).

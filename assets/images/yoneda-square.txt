@@ -1,0 +1,7 @@
+\definecolor{bg}{HTML}{e8d5b7}
+\begin{tikzcd}
+\mathbf{Sets}^{\mathbb{C}^\mathrm{op}}_{[\bullet]}\times\mathbb{C}_{[-]} \ar[r,bend left,start anchor=north east,end anchor=north west,"{\mathrm{Hom}(y(-),\bullet)}" pos=0.45, ""'{name=U}] \ar[r,bend right,start anchor=south east,end anchor=south west,"{\bullet(-)}"' pos=0.45,""{name=D}] & \mathbf{Sets} & \\
+(F,C) \ar[dd,"{(\theta,h)}"'] & \mathrm{Hom}(y(C),F) \ar[r,leftrightarrow,"{\eta_{F,C}}"] \ar[dd,"{\mathrm{Hom}(y(h),\theta)}"'] & F(C) \ar[dd,"{\theta(h)}"] \\
+& & \\
+(G,D) & \mathrm{Hom}(y(D),G) \ar[r,leftrightarrow,"{\eta_{D,G}}"] & G(D) \ar[from=U,to=D,Leftrightarrow,background color=bg,"{\eta_{\bullet,-}}"]
+\end{tikzcd}

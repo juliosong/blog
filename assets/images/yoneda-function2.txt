@@ -1,0 +1,8 @@
+% latex code for yoneda-function2.pdf
+
+\definecolor{bg}{HTML}{e8d5b7}
+\begin{tikzcd}[column sep=huge]
+\mathbb{C}^\mathrm{op} \ar[r,bend left,start anchor=north east,end anchor=north west,"{y(C)}" pos=0.5,""'{name=U}] \ar[r,bend right,start anchor=south east,end anchor=south west,"F"' pos=0.5,""{name=D}] & \mathbf{Sets} \\
+C' & y(C)(C')  \ar[r,"{{\eta_{F,C}^{-1}(a)}_{C'}}"] & F(C')  \\
+C \ar[u,"f"] & y(C)(C) \ar[u,"{y(C)(f)}"] \ar[r,"{{\eta_{F,C}^{-1}(a)}_{C}}"] & F(C) \ar[u,"F(f)"'] \ar[from=U,to=D,Rightarrow,background color=bg,"{\eta_{F,C}^{-1}(a)}"]
+\end{tikzcd}

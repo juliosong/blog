@@ -1,0 +1,14 @@
+% latex code for galois-unit.pdf
+
+\tikzset{%
+    symbol/.style={%
+        draw=none,
+        every to/.append style={%
+            edge node={node [sloped, allow upside down, auto=false]{$#1$}}}
+    }
+}
+\begin{tikzcd}
+& \mathbb{P}_\le \ar[r,bend left,"f",""'{name=U}] & \mathbb{Q}_\sqsubseteq \ar[l,bend left,"g",""'{name=D}] &  \\[-10pt]
+& p \ar[dl,"{\eta_p}"'] \ar[d] & f(p) \ar[loop left, distance=7,"{1_{f(p)}}"] \ar[r] \ar[d] & f(g(q)) \ar[ld,"{\varepsilon_q}"] \\
+g(f(p)) \ar[r] & g(q) \ar[loop right,distance=7,"{1_{g(q)}}"] & q & \ar[from=U,to=D,symbol=\dashv]\\
+\end{tikzcd}

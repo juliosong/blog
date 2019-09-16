@@ -13,6 +13,7 @@ header:
 **Category theory is spectacularly big.** But exactly how big is it? Consider a set $A$. It can hold a huge number of elements, say, all grains of sand on Earth. That's already too humongous a size for my mundane brain to imagine, but in the category $\mathbf{Set}$ it just takes up the space of a single object, alongside many other sets $B, C, D,$ etc. For example, let $B$ be the set of all human beings that have ever existed on Earth, $C$ the set of all natural languages that have ever been spoken, and $D$ the set of all puli dogs. I guess none of the four sets can be considered "big" in a mathematical sense---they all have a finite number of members and can be easily compared for cardinality (presumably $D<C<B<A$).
 
 {% include figure image_path="/assets/images/category-set.jpg" alt="A set as an object in the category Set" caption="A set is an object in the category $\mathbf{Set}$ (the arrows are merely expository)." %}
+<a id="sizes"></a>
 
 ## Category sizes
 $\mathbf{Set}$ is the category of all sets and functions, which surely is enormous. Yet in the world of categories it's just a single category, and a _locally small_ one (see [this](https://www.quora.com/Why-is-the-category-Sets-locally-small) Quora page for a beginner-friendly explanation). In category theory **there are three conventional sizes of categories.** A category is
@@ -24,7 +25,7 @@ Crucially, here "small" and "large" shouldn't be understood in the everyday sens
 
 ![relative sizes of categories](/assets/images/relative-size.png)
 
-We linguisticians love cross classifications. To cross-classify category sizes we need three binary features: `[object-collection (oc): ±set]` (whether the object collection is a set), `[arrow-collection (ac): ±set]` (whether the arrow collection is a set), and `[hom: ±set]` (whether the hom-collections are sets).
+We linguisticians love cross classifications. <a id="los"></a>To cross-classify category sizes we need three binary features: `[object-collection (oc): ±set]` (whether the object collection is a set), `[arrow-collection (ac): ±set]` (whether the arrow collection is a set), and `[hom: ±set]` (whether the hom-collections are sets).
 
 |                 | [oc:±set] | [ac:±set]       | [hom:±set]  |
 |:---------------:|:---------:|:---------------:|:-----------:|
