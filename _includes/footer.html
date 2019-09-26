@@ -13,6 +13,8 @@
     {% endif %}
 
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+
+    <li><a href="{{ site.baseurl }}/suggestion/index.html#mc_embed_signup"><i class="fas fa-envelope-open-text" aria-hidden="true" style="margin-right:3px;"></i> Subscribe</a></li>
   </ul>
 </div>
 
