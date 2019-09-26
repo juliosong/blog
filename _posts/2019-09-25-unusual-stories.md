@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/tianwen.jpg
   show_overlay_excerpt: false
   image_description: "some ghost characters"
-  caption: "Some characters in the &#8220;language for ghosts&#8221; (source: <a href='https://commons.wikimedia.org/wiki/File:Li%C3%B9ji%C7%8E_F%C7%8Ensh%C5%AB,_Page_3.JPG'>Wikimedia Commons</a>)"
+  caption: "Some characters in the &#8220;ghost script&#8221; (source: <a href='https://commons.wikimedia.org/wiki/File:Li%C3%B9ji%C7%8E_F%C7%8Ensh%C5%AB,_Page_3.JPG'>Wikimedia Commons</a>)"
   teaser: /assets/images/sky.jpg
 ---
 
