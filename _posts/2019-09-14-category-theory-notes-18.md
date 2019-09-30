@@ -36,13 +36,13 @@ Anyway, for our current purpose let's just accept it that Lemma 1 is an ingredie
 
 Now consider the adjunction below
 
-![an adjunction with a fully faithful right adjoint](/assets/images/adjunction-co-iso.pdf)  
+![an adjunction with a fully faithful right adjoint](/assets/images/adjunction-co-iso.png)  
 
 where $F$ is the left adjoint and $G$ is the right adjoint. We start with an arrow $f\colon X\rightarrow Y$ in $\mathbb{D}$ and **lift** it via $G$ into $\mathbb{C}$ (i.e., mapping it to $Gf\colon GX\rightarrow GY$). Next, we use the adjunction isomorphism to **flip** $Gf$ into $\mathbb{D}$ (i.e., mapping it to $FGX\rightarrow Y$). Notice that by arrow composition in $\mathbb{D}$ this new arrow $FGX\rightarrow Y$ is just $f\circ\varepsilon\_X.$ As such, we've successfully established a "tight relationship" among three arrows:
 \\[ (X\rightarrow Y) \xrightarrow{G} (GX\rightarrow GY) \cong (FGX\rightarrow Y). \\]
 Considering this relationship doesn't depend on the particular choice of $f$---that is, any arrow from $X$ to $Y$ would work---we can reformulate it in terms of hom-sets:
 
-![a particular hom-set-based commutative diagram of an adjunction](/assets/images/adjunction-co-tri.pdf)
+![a particular hom-set-based commutative diagram of an adjunction](/assets/images/adjunction-co-tri.png)
 
 N.b. the upper asterisk on ${\varepsilon\_X}^\*$ is just the upper asterisk in my [Sep 13 post]({{ site.baseurl }}{% post_url 2019-09-13-category-theory-notes-16 %}#astr). It means that the function symbol and the argument symbol should be syntactically swapped in the result of the function application; so ${\varepsilon\_X}^\*(f)=f\circ{\varepsilon\_X}.$
 <a id="question2"></a>
@@ -72,11 +72,11 @@ This part is a bit tricky because it involves some tedious calculation, so pay c
 
 Anyway, after replacing $Y$ with $FGX,$ we need to make some updates to the adjunction configuration, as follows:
 
-![an adjunction with a fully faithful right adjoint - modified](/assets/images/adjunction-co-iso2.pdf)
+![an adjunction with a fully faithful right adjoint - modified](/assets/images/adjunction-co-iso2.png)
 
 So we've replaced all occurrences of $Y$ with $FGX$ in the diagram, and everything still works. Accordingly, we also need to update our hom-set-based commutative diagram (i.e., the hom-set triangle).
 
-![a particular hom-set-based commutative diagram of an adjunction - modified](/assets/images/adjunction-co-tri2.pdf)
+![a particular hom-set-based commutative diagram of an adjunction - modified](/assets/images/adjunction-co-tri2.png)
 
 Observe what has just happened: the hom-set $\mathbb{D}(FGX,FGX)$ is just the set of endomorphisms on $FGX$! Now we can ask what the surjectivity of ${\varepsilon\_X}^\*$ means in this situation. Well, it by [definition](https://en.wikipedia.org/wiki/Surjective_function) means that **all** elements in $\mathbb{D}(FGX,FGX)$ are hit by the function ${\varepsilon\_X}^\*$; namely, for every arrow from $FGX$ to itself there must be a corresponding arrow from $X$ to $FGX.$ In particular, this means that the identity arrow on $FGX$ is also hit, whence
 \\[ \exists g\colon X\rightarrow FGX, {\varepsilon\_X^\*}(g) = 1\_{FGX}. \\]
@@ -84,7 +84,7 @@ After getting rid of the upper asterisk we have
 \\[ \exists g\colon X\rightarrow FGX, g\circ\varepsilon\_X = 1\_{FGX}. \\]
 But this equation just means $\varepsilon\_X$ is a split monomorphism (i.e., section)!---because of the following diagram:
 
-![co-unit split mono](/assets/images/adjunction-co-split-mono.pdf)
+![co-unit split mono](/assets/images/adjunction-co-split-mono.png)
 
 Therefore, we have started with the assumption that $G$ is full and arrived at the conclusion that $\varepsilon\_X$ is a split monomorphism. Since we have randomly picked $X,$ we can extend the conclusion from the $X$-component to the entire co-unit:
 

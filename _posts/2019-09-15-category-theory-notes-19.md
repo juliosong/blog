@@ -47,7 +47,7 @@ The history of Galois connection is just as legendary as its name. Its inventor,
 ### The connection
 Since nowadays when people say "Galois connection," especially in category theory, they usually mean the monotone one, hereafter I'll just follow this convention and restrict the term Galois connection to its monotone case. A Galois connection between two poset categories $\mathbb{P}\_\le$ and $\mathbb{Q}\_\sqsubseteq$ can be displayed as follows:
 
-![a galois connection diagram](/assets/images/galois.pdf)
+![a galois connection diagram](/assets/images/galois.png)
 
 The adjunction-induced hom-set isomorphism in the case of Galois connection simply says that the following two inequalities are in a one-to-one correspondence:
 \\[ \forall p\in\mathbb{P}, q\in\mathbb{Q},\; f(p) \sqsubseteq q\; \mathrm{ iff }\; p\le g(q). \\]
@@ -60,7 +60,7 @@ The unit and co-unit in a Galois connection can be straightforwardly specified b
 
 For example, in the following diagram by setting $f(p)\rightarrow q$ as $f(p)\rightarrow f(p)$ (i.e., by setting $q$ as $f(p)$) we get a $\mathbb{P}$-arrow $p\rightarrow g(f(p)),$ which is precisely the adjunction's unit component at $p.$ By the same token, we can get a co-unit component of the adjunction at $q$ (by setting $p$ as $g(q)$ and flipping $1\_{g(q)}$ into $\mathbb{Q}$).
 
-![galois connection with unit and co-unit](/assets/images/galois-unit.pdf)
+![galois connection with unit and co-unit](/assets/images/galois-unit.png)
 
 What do the unit and co-unit of a Galois connection mean? In my experience it's most intuitive to perceive them as results of functorial round trips (I've wrote about this round-trip method in my [Sep 8 post]({{ site.baseurl }}{% post_url 2019-09-08-category-theory-notes-12 %})). Once we replace the arrows with less-than-or-equal-to signs, it becomes self-evident that the unit component $\eta\_p$ simply says $p$ "enlarges" (or more precisely "doesn't shrink") after the functorial round trip $g\circ f$, and the co-unit component $\varepsilon\_q$ says $q$ "shrinks" (or more precisely "doesn't enlarge") after the functorial round trip $f\circ g$.
 

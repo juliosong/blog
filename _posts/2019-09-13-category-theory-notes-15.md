@@ -58,7 +58,7 @@ Having realized the specialness of the "Yoneda natural transformation," if I may
 
 In sum, the Yoneda natural transformation is just a transformation between two ways to utilize the two arguments of an evaluation function. Of course, only one way is the actual evaluation map, while the other way is just a "creative" exploitation of the two arguments involved in the evaluation map. <a id="yonedasq"></a>Below I display the naturality square (I use subscript square brackets on the left-hand side to indicate argument types in case they become easy to forget):
 
-![naturality square of Yoneda transformation](/assets/images/yoneda-square.pdf)
+![naturality square of Yoneda transformation](/assets/images/yoneda-square.png)
 
 Now the assembly-language-like Yoneda lemma should be clear, at least on the conceptual level. It just says that the above-displayed natural transformation is a natural isomorphism (which I've indicated by the two-sided arrows). And that's it!😃
 

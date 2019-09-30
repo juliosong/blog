@@ -32,7 +32,7 @@ The above diagram is called a **naturality square**. In my hand-drawn picture <a
 ## Vertical composition
 While natural transformations themselves are not difficult to understand, a point that I did find challenging was their composition. There are two ways to compose natural transformations: **vertical** composition ($\cdot$) and **horizontal** composition ($\circ$). **Composing natural transformations vertically just means stacking them one above another to get a bigger natural transformation.**
 
-![vertical stacking of natural transformations](/assets/images/nt-stack.pdf)
+![vertical stacking of natural transformations](/assets/images/nt-stack.png)
 
 There are three natural transformations in the diagram above: $\alpha, \beta,$ and $\beta\cdot\alpha.$ The vertical composition of natural transformations is **associative** and **unital**: given three vertically stacked natural transformations $\alpha\colon F\Rightarrow G, \beta\colon G\Rightarrow H,$ and $\gamma\colon H\Rightarrow I$ (please imagine $I$ and $\gamma$ in your head), we have
 \\[ \gamma\cdot(\beta\cdot\alpha) = (\gamma\cdot\beta)\cdot\alpha, \\]

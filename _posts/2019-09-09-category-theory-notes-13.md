@@ -48,11 +48,11 @@ Of course, we can also let the product category remain $\mathbb{C}\times\mathbb{
 
 **A note on the term _contravariant_:** it can sometimes be confusing for beginners (especially if you like rational terminology like me) because some people use it to mean either a truly contravariant functor like this
 
-![truly contravariant functor](/assets/images/contravariant-true.pdf)
+![truly contravariant functor](/assets/images/contravariant-true.png)
 
 or a de facto covariant functor with an opposite category as its source like this
 
-![fake contravariant functor](/assets/images/contravariant-fake.pdf)
+![fake contravariant functor](/assets/images/contravariant-fake.png)
 
 I personally prefer only calling truly contravariant functors "contravariant," because if a functor is covariant, it doesn't make much sense to call it contravariant, at least linguistically. If we really need a term for the "covariantly presented contravariant functor," so to speak, I prefer describing the entire configuration as a **contravariant situation.**
 

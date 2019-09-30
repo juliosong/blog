@@ -43,7 +43,7 @@ First, let's find a function from $\mathrm{Hom}(y(C),F)$ to $F(C);$ that is, a m
 
 To flesh out the above "coincidence"---though it's really not a coincidence but firmly built into the design of the Yoneda configuration---let's zoom in on the set of natural transformations $\mathrm{Hom}(y(C),F).$ Recall from [above]({{ site.baseurl }}{% post_url 2019-09-13-category-theory-notes-15 %}#presheaves) that both $y(C)$ and $F$ are presheaves (i.e., functors from $\mathbb{C}^\mathrm{op}$ to $\mathbf{Sets}$), so a natural transformation $\rho$ between them can be displayed as follows:
 
-![natural transformation between presheaves](/assets/images/presheaf-nt.pdf)
+![natural transformation between presheaves](/assets/images/presheaf-nt.png)
 
 As we can see, the target object of the $X$-component of $\rho$ for any $X$ in $\mathbb{C}^\mathrm{op}$ is just $F(X),$ and so the target object of the $C$-component of $\rho$ is $F(C).$ Therefore, as long as we can express a unique element in $F(C)$ deterministically in terms of any $\rho$ we are given, our task is completed. And the choice of the function $\alpha \mapsto \alpha\_C(1\_C)$ (where $\rho$ is replaced with $\alpha$) is precisely based on this "isomorphism between tasks"!😎
 
@@ -54,7 +54,7 @@ In sum, whichever $\rho$ and $C$ we are given, we can always use these data to "
 ### Second function
 The second function we want is in the opposite direction from the first one; namely, from $F(C)$ to $\mathrm{Hom}(y(C), F).$ This means that for each element $a$ in $F(C)$ we need to be able to express a natural transformation in $\mathrm{Hom}(y(C), F)$ solely in terms of $a$ (together with any pre-fixed constants). But as above-mentioned, there's no way to specify a natural transformation without specifying its components. Therefore, to complete this task we need to be able to use $a$ to express the result of applying a random component of the desired natural transformation to a random element in the source object of that component. Suppose the random component is at $C'$ and given fixed $F$ and $C,$ the natural transformation $\eta\_{F,C}^{-1}(a)$ is displayed below:
 
-![second function in the yoneda isomorphism](/assets/images/yoneda-function2.pdf)
+![second function in the yoneda isomorphism](/assets/images/yoneda-function2.png)
 
 See the solution? It's readily in the diagram! Since the action of the Yoneda functor $y$ is to map an objects $X$ in $\mathbb{C}$ to the hom-functor $\mathbb{C}(-,X)$ (or written $\mathrm{Hom}\_\mathbb{C}(-,X)$), applying such a hom-functor to another $\mathbb{C}$-object $Y$ yields a hom-set $\mathrm{Hom}\_\mathbb{C}(Y,X).$ In other words, $y(X)(Y) = \mathrm{Hom}\_\mathbb{C}(Y,X),$ and so $y(C)(C')=\mathrm{Hom}\_\mathbb{C}(C',C),$ which is the hom-set from $C'$ to $C$ in $\mathbb{C}.$ But that's just the hom-set from $C$ to $C'$ in $\mathbb{C}^\mathrm{op},$ namely the set $f$ lives in! Since our $f$ is defined **randomly**---that is, it stands for any arrow from $C$ to $C'$ in $\mathbb{C}^\mathrm{op}$---we can feel free to use it to formulate our desired element in $F(C').$
 
@@ -84,7 +84,7 @@ I won't present the proofs of the two corollaries here as they're usually given 
 
 What I'd like to comment on is how the Yoneda lemma becomes the Yoneda philosophy via the Yoneda corollaries. Observe the Yoneda embedding:
 
-![yoneda embedding](/assets/images/yoneda-embedding.pdf)
+![yoneda embedding](/assets/images/yoneda-embedding.png)
 
 Via $y(C)$ a random $\mathbb{C}$-object $C$ is lifted to the set of arrows from all other $\mathbb{C}$-objects to itself. If we conceive a categorical arrow as sort of a relationship between objects, then the hom-set in question can be conceived as **the set of all relationships established from other objects to $C,$** or in more fashionable terms, the set of all the ways other objects view $C.$ This is somewhat reminiscent of [Marx's theory of human nature](https://en.wikipedia.org/wiki/Marx%27s_theory_of_human_nature):
 >Aber das menschliche Wesen ist kein, dem einzelnen Individuum innewohnendes Abstraktum. In seiner Wirklichkeit ist es das Ensemble der gesellschaftlichen Verhältnisse.<br>

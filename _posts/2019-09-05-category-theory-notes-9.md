@@ -33,7 +33,7 @@ In particular, **an inverse is also called an _isomorphism_ in category theory,*
 ## Half inverses
 Perhaps because the notion of isomorphism, or full inverse, is too strict, mathematicians have invented two **half inverses** as mentioned <a href="#inverse">above</a>. Starting with a full inverse
 
-![full inverse](/assets/images/full-inverse.pdf)$,$
+![full inverse](/assets/images/full-inverse.png)$,$
 
 take either of its two equations, say $f\circ g = 1\_Y$, and discard the other (here $g\circ f=1\_X$), and we obtain a half inverse. In this situation, $f$ is called a **left inverse** of $g$ because it's on the left of the small circle $\circ$, and $g$ is said to be a **right inverse** of $f$ because it's on the right of $\circ$.
 
