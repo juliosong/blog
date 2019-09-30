@@ -19,7 +19,7 @@ Now that I'm past the learning curve, let me try to explain adjunction in an int
 
 Given two categories, what's the strongest level of similarity they can enjoy? An isomorphism. Indeed, in category theory if two categories are isomorphic to each other, then they can be treated as the same in all aspects that matter. Remember that a categorical [isomorphism](https://en.wikipedia.org/wiki/Isomorphism_of_categories) is defined as a two-sided or full inverse (see my [Sep 5 post]({{ site.baseurl }}{% post_url 2019-09-05-category-theory-notes-9 %}#fullin)): given two categories $\mathbb{C}$ and $\mathbb{D},$ they are isomorphic iff there exist functors $F\colon\mathbb{C}\rightarrow\mathbb{D}$ and $G\colon\mathbb{D}\rightarrow\mathbb{C}$ such that $G\circ F=1\_\mathbb{C}$ and $F\circ G=1\_\mathbb{D}.$
 
-   ![category-level isomorphism](/assets/images/iso-cat.svg)
+   ![category-level isomorphism](/assets/images/iso-cat.png)
 
 In other words, if two categories are isomorphic, then any object in either of them would return to itself following a functorial round trip. For example, if $C$ is in $\mathbb{C},$ then $G(F(C))=C.$
 
