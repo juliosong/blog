@@ -33,7 +33,7 @@ In particular, **an inverse is also called an _isomorphism_ in category theory,*
 ## Half inverses
 Perhaps because the notion of isomorphism, or full inverse, is too strict, mathematicians have invented two **half inverses** as mentioned <a href="#inverse">above</a>. Starting with a full inverse
 
-![full inverse](/assets/images/full-inverse.png)$,$
+![full inverse](/assets/images/full-inverse.svg)$,$
 
 take either of its two equations, say $f\circ g = 1\_Y$, and discard the other (here $g\circ f=1\_X$), and we obtain a half inverse. In this situation, $f$ is called a **left inverse** of $g$ because it's on the left of the small circle $\circ$, and $g$ is said to be a **right inverse** of $f$ because it's on the right of $\circ$.
 
@@ -58,7 +58,7 @@ In particular, there are two legitimate reference points for left and right in c
 ## 2. I didn't know why the terms _section_ and _retraction_ had been chosen
 And I still don't know why today. The terms may well have been borrowed from other mathematical areas, but without a note on their etymology few nonmathematician learners can see the motivation for choosing these names. In my case I had to memorize them by rote, and the diagrammatic visualization helped a lot---I just associated section with the left-hand arrow and retraction with the right-hand arrow in the diagram
 
-![an illustration of section and retraction](/assets/images/sec-retrac.png)
+![an illustration of section and retraction](/assets/images/sec-retrac.svg)
 
 though obviously this added to the difficulty of remembering the "left/right inverses"... because the **left-hand** arrow is the **right** inverse!😓
 
@@ -85,7 +85,7 @@ The word _split_ is used in two difference ways in the above four quotes. In Law
 
 In the second sentence above _split_ is nominalized but its logical subject is still the idempotent map. Basically an [idempotent](https://ncatlab.org/nlab/show/idempotent) map here is just the section and retraction maps composed in the other direction; that is, $\text{section}\circ\text{retraction}$ in the following diagram:
 
-![an illustration of idempotent map](/assets/images/idem.png)
+![an illustration of idempotent map](/assets/images/idem.svg)
 
 The idempotent map doesn't equal $1\_X$ but has another nice property:
 \\[ \text{section}\circ\text{retraction}\circ(\text{section}\circ\text{retraction})=\text{section}\circ\text{retraction}. \\]

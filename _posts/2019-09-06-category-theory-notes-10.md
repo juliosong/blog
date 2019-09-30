@@ -32,7 +32,7 @@ The above diagram is called a **naturality square**. In my hand-drawn picture <a
 ## Vertical composition
 While natural transformations themselves are not difficult to understand, a point that I did find challenging was their composition. There are two ways to compose natural transformations: **vertical** composition ($\cdot$) and **horizontal** composition ($\circ$). **Composing natural transformations vertically just means stacking them one above another to get a bigger natural transformation.**
 
-![vertical stacking of natural transformations](/assets/images/nt-stack.png)
+![vertical stacking of natural transformations](/assets/images/nt-stack.svg)
 
 There are three natural transformations in the diagram above: $\alpha, \beta,$ and $\beta\cdot\alpha.$ The vertical composition of natural transformations is **associative** and **unital**: given three vertically stacked natural transformations $\alpha\colon F\Rightarrow G, \beta\colon G\Rightarrow H,$ and $\gamma\colon H\Rightarrow I$ (please imagine $I$ and $\gamma$ in your head), we have
 \\[ \gamma\cdot(\beta\cdot\alpha) = (\gamma\cdot\beta)\cdot\alpha, \\]
@@ -48,7 +48,7 @@ What does the vertical composition of natural transformations mean for objects a
 ## Horizontal composition
 If the vertical composition of natural transformations is still easy to understand, their horizontal composition is much less intuitive (at least for me). **Horizontal composition refers to the composition of two side-by-side natural transformations** in a configuration like
 
-![side-by-side natural transformations](/assets/images/nt-side-by-side.png)
+![side-by-side natural transformations](/assets/images/nt-side-by-side.svg)
 
 Here the intended composition is $\beta\circ\alpha.$ But how is this composition possible? The target of $\alpha$ (i.e., $G$) and the source of $\beta$ (i.e., $F^\prime$) don't overlap after all!
 
@@ -56,7 +56,7 @@ It took me quite some time to get used to this, but **the so-called horizontal c
 
 Long story short, the "composition" of $\alpha\colon F\Rightarrow G$ and $\beta\colon F^\prime\Rightarrow G^\prime$ in the above diagram is essentially **a natural transformation between the two composite functors $F^\prime\circ F$ and $G^\prime\circ G,$** diagrammatically
 
-![horizontal composition of natural transformations](/assets/images/nt-horizontal-simple.png)
+![horizontal composition of natural transformations](/assets/images/nt-horizontal-simple.svg)
 
 And this bigger natural transformation is called a "composition of $\alpha$ and $\beta$" simply because it can be expressed (and hence determined) by $\alpha$ and $\beta.$ To see how, let's draw a picture.
 

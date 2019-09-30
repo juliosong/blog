@@ -35,7 +35,7 @@ This association seems to be an important facet of natural transformation compos
 ## Interchange law
 Anyway, even if we don't fully understand the relationship between horizontal and vertical identities, we can still successfully understand another important correlation between the two ways to compose natural transformations---the **interchange law.** The law says that in the following configuration, where $\mathbb{C}, \mathbb{D}, \mathbb{E}$ are categories, $F, F',$ etc. are functors, and $\alpha, \alpha',$ etc. are natural transformations,
 
-![interchange law](/assets/images/interchange-law.png)
+![interchange law](/assets/images/interchange-law.svg)
 
 we get **the same** composite natural transformation whichever way we choose to do the composition; that is, either **vertically before horizontally** or **horizontally before vertically.** In formal notation:
 \\[ (\beta^\prime\cdot\alpha^\prime)\circ(\beta\cdot\alpha) = (\beta^\prime\circ\beta)\cdot(\alpha^\prime\circ\alpha). \\]

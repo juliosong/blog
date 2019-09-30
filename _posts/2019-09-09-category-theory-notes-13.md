@@ -31,7 +31,7 @@ Now I turn to explain why the first component of the product category needs to b
 
 Anyway, here's the trick, which I managed to understand after carefully reading many resources. First, we should realize that whether we choose to use the original $\mathbb{C}$ or the opposite $\mathbb{C}^{op}$ doesn't affect our choice of arguments for the bifunctors, because $\mathbb{C}$ and $\mathbb{C}^{op}$ have **exactly the same** objects---a $C$ in $\mathbb{C}$ is also a $C$ in $\mathbb{C}^{op}.$ What the op-trick does affect is **how arrows are mapped,** because an arrow in $\mathbb{C}^{op}$ is opposite in direction to the corresponding arrow in $\mathbb{C},$ like this:
 
-![opposite category](/assets/images/op.png)
+![opposite category](/assets/images/op.svg)
 
 And this is exactly the trick we need, because of the configuration below:
 
@@ -48,11 +48,11 @@ Of course, we can also let the product category remain $\mathbb{C}\times\mathbb{
 
 **A note on the term _contravariant_:** it can sometimes be confusing for beginners (especially if you like rational terminology like me) because some people use it to mean either a truly contravariant functor like this
 
-![truly contravariant functor](/assets/images/contravariant-true.png)
+![truly contravariant functor](/assets/images/contravariant-true.svg)
 
 or a de facto covariant functor with an opposite category as its source like this
 
-![fake contravariant functor](/assets/images/contravariant-fake.png)
+![fake contravariant functor](/assets/images/contravariant-fake.svg)
 
 I personally prefer only calling truly contravariant functors "contravariant," because if a functor is covariant, it doesn't make much sense to call it contravariant, at least linguistically. If we really need a term for the "covariantly presented contravariant functor," so to speak, I prefer describing the entire configuration as a **contravariant situation.**
 
@@ -62,14 +62,14 @@ A last difficult point in the abstract theory of adjunction I'd like to comment 
 \\[ G\varepsilon \circ \eta G = 1\_G. \\]
 Diagrammatically
 
-![triangular identities](/assets/images/tri-id.png)
+![triangular identities](/assets/images/tri-id.svg)
 
 My first reaction on seeing these was "What the heck?! 🥴🙀..." In hindsight, a large part of my confusion was caused by the notation---in particular the horribly unreasonable convention to denote an identity natural transformation on a functor by the symbol for the functor itself (e.g., $F$ is either a functor or a natural transformation). On this point I highly agree with Harold Simmons:
 >You will also find in the literature that some people write $A$ for the arrow $id\_A.$ This is a notation so ridiculous that it should be laughed at in the street. (Simmons 2011, [_An Introduction to Category Theory_](https://books.google.co.uk/books/about/An_Introduction_to_Category_Theory.html?id=VOCQUC_uiWgC&source=kp_book_description&redir_esc=y), p.&nbsp;3)
 
 After a more rational change of notation, with all the ambiguous symbols disambiguated and all the omitted composition circles filled back, things become a lot easier to understand:<a id="triangle"></a>
 
-![prettified triangular identities](/assets/images/tri-id-pretty.png)
+![prettified triangular identities](/assets/images/tri-id-pretty.svg)
 
 I name these **prettified triangular identities.** 🙃 After the prettification, it's now clear that each triangle involves **two steps** of [horizontal natural transformation composition]({{ site.baseurl }}{% post_url 2019-09-06-category-theory-notes-10 %}#horizontal). For example, in the <a href="#triangle">left-hand triangle</a> the composite natural transformation $1\_F\circ\eta$ maps the functor $F$ to the functor $F\circ G\circ F,$ both of which go from $\mathbb{C}$ to $\mathbb{D},$ while the other composite natural transformation $\varepsilon\circ 1\_F$ maps $F\circ G\circ F$ back to $F.$ As I illustrate below, the two mapping steps are enabled by the associativity and unitality of functor composition: (i) (associativity) $F\circ (G\circ F)=(F\circ G)\circ F$; (ii) (unitality) $F\circ 1\_\mathbb{C} = 1\_\mathbb{D}\circ F = F.$
 
