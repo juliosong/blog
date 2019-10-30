@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julio Chenchen Song"
+  name             : "Chenchen (Julio) Song"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Final-year PhD student in linguistics at University of Cambridge"
+  bio              : "PhD, Linguistics, University of Cambridge"
   location         : "Cambridge, UK"
   email            :
   links:
