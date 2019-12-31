@@ -1,5 +1,5 @@
 ---
-title: "So long 2019, Hello 2020!"
+title: "Goodbye 2019, Hello 2020!"
 categories: [life]
 tags: [experience]
 header:
