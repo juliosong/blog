@@ -22,20 +22,19 @@ Some other events in my past year that are worth mentioning include:
 - I started blogging and haven't given up yet.
 - I stopped cycling.
 - I tried kayaking.
-- After completing my PhD dissertation I resumed my old hobby of language learning.
+- I resumed my old hobby of language learning.
 - I kept writing short movie/book reviews on Douban.
 - I had three wisdom teeth extracted.
 
 Speaking of teeth, I've been suffering from dental problems for long. During every vacation in the past five years I have had to abstain from meals and goodies due to some dental surgery. So, **my biggest wish for 2020 is: May God bless my teeth!**
 
-I can feel how much I've changed in the past five years, both as a student and as a person. And the change is even greater when I look back at myself ten years ago. It has been exactly ten years since I had left high school. As such, my past decade can be named "the decade of tertiary education"---I might use this as a chapter title in my autobiography later lol.
+I can feel how much I've changed in the past five years, both as a student and as a person. And the change is even greater when I look back at myself ten years ago. In fact it has been exactly ten years since I had left high school, so my past decade can be named "the decade of tertiary education"---I might use this as a chapter title in my autobiography later lol.
 
-I remember seeing two chicken-soup-for-the-soul-style sayings somewhere, which I paraphrase below (for I can't find the original sources):
+I remember seeing two chicken-soup-for-the-soul-style sayings somewhere. Since I can't remember the original sources, I'll try to paraphrase them below:
 1. If you constantly miss the good old days, your present is probably not that satisfactory. <br> (Hmm but according to [Charles Dickens](https://en.wikiquote.org/wiki/A_Tale_of_Two_Cities) "the best of times" and "the worst of times" are actually the same period.)
 2. Every time you realize you've done something stupid in the past, you've actually improved and become a better self. <br> (So [Aristotle](https://en.wikipedia.org/wiki/Aristotle) tells us "[Know yourself is the beginning of all wisdom](https://www.emiprotechnologies.com/blog/personnel-hacks-64/post/knowing-yourself-is-the-beginning-of-all-wisdom-363)" and [Laozi](https://en.wikipedia.org/wiki/Laozi) tells us <span class="hanyu">知人者智，自知者明</span> '[Knowing others is wisdom; knowing yourself is enlightenment](https://knowurtrueself.com/knowing-others-is-wisdom-knowing-yourself-is-enlightenment/)'.)
 
-
-I know I've done a lot of stupid things in the past decade (actually too many!), so I must have improved a lot by now. And I'm not really missing the past---I wouldn't want to relive any part of my earlier life---so I must be satisfied with my present. Fantastic!
+I know I've done a lot of stupid things in the past decade (actually too many!), so I must have improved a lot by now. And I'm not really missing the past either---I wouldn't want to relive any part of my earlier life---so I must be satisfied with my present. Fantastic!
 
 Earlier today I saw Barack Obama shared his 2019 favorite [songs](https://twitter.com/BarackObama/status/1211694118767738886?s=20), [movies](https://twitter.com/BarackObama/status/1211331851358494720?s=20), and [books](https://twitter.com/BarackObama/status/1211033245812441091?s=20) on Twitter. I haven't had much time for non-PhD-related stuff in 2019 but do plan to broaden my horizon a bit in 2020. Some of the books I'd like to start, keep, or finish reading are:
 - _The Cambridge World (Pre)History_
