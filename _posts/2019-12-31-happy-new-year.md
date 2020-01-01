@@ -32,7 +32,7 @@ I can feel how much I've changed in the past five years, both as a student and a
 
 I remember seeing two chicken-soup-for-the-soul-style sayings somewhere. Since I can't remember the original sources, I'll try to paraphrase them below:
 1. If you constantly miss the good old days, your present is probably not that satisfactory. <br> (Hmm but according to [Charles Dickens](https://en.wikiquote.org/wiki/A_Tale_of_Two_Cities) "the best of times" and "the worst of times" are actually the same period.)
-2. Every time you realize you've done something stupid in the past, you've actually improved and become a better self. <br> (So [Aristotle](https://en.wikipedia.org/wiki/Aristotle) tells us "[Know yourself is the beginning of all wisdom](https://www.emiprotechnologies.com/blog/personnel-hacks-64/post/knowing-yourself-is-the-beginning-of-all-wisdom-363)" and [Laozi](https://en.wikipedia.org/wiki/Laozi) tells us <span class="hanyu">知人者智，自知者明</span> '[Knowing others is wisdom; knowing yourself is enlightenment](https://knowurtrueself.com/knowing-others-is-wisdom-knowing-yourself-is-enlightenment/)'.)
+2. Every time you realize you've done something stupid in the past, you've actually improved and become a better self. <br> (So [Aristotle](https://en.wikipedia.org/wiki/Aristotle) tells us "[Knowing yourself is the beginning of all wisdom](https://www.emiprotechnologies.com/blog/personnel-hacks-64/post/knowing-yourself-is-the-beginning-of-all-wisdom-363)" and [Laozi](https://en.wikipedia.org/wiki/Laozi) tells us <span class="hanyu">知人者智，自知者明</span> '[Knowing others is wisdom; knowing yourself is enlightenment](https://knowurtrueself.com/knowing-others-is-wisdom-knowing-yourself-is-enlightenment/)'.)
 
 I know I've done a lot of stupid things in the past decade (actually too many!), so I must have improved a lot by now. And I'm not really missing the past either---I wouldn't want to relive any part of my earlier life---so I must be satisfied with my present. Fantastic!
 
@@ -47,11 +47,11 @@ I used to dislike history in school (partly due to exam pressure) but am now mor
 
 Also, my reading list is mostly nonfiction because for fiction I'd rather watch movies or TV series. I might finally (binge-)watch some of the renowned shows such as Game of Thrones, House of Cards, and Doctor Who---I'll also keep Time's selection of "[the 10 best TV shows of the 2010s](https://time.com/5722419/best-tv-shows-2010s-decade/)" in mind. I don't mind if they turn out to be boring. Now that I'm back in China, at least I'll get the chance to hone my English listening skills!
 
-I seldom make New Year's resolutions, partly because I know [they're pretty useless](https://www.theodysseyonline.com/why-new-years-resolutions-are-useless). But this year I'll make a few plans (if not resolutions):
+I seldom make New Year's resolutions because I know [they're often useless](https://www.theodysseyonline.com/why-new-years-resolutions-are-useless). But this year I'll make a few plans (if not resolutions):
 - Do some sports.
 - Keep learning the piano.
 - Keep learning cooking.
 
-The next two years is like a break for me, so I'd like to make some improvements as a person. The tarot says my future is bright, so I'd better have faith too.
+The next two years is like a career break for me, so I'd like to make some personal improvements. The tarot says my future is bright, so I'd better have faith too.
 
 **Happy New Year! May the world be peaceful, and may people be happy!**🙏
