@@ -1,0 +1,35 @@
+==Learning foreign languages can help prevent Alzheimer's disease==
+
+Big-name scholars tend to live long and dementia-free lives. That's an observation brought up by my mom in a recent family chat. She cited several names as examples, including two linguists/philologists, [JI Xianlin](https://en.wikipedia.org/wiki/Ji_Xianlin) and [ZHOU Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang), and a physicist, [QIAN Xuesen](https://en.wikipedia.org/wiki/Qian_Xuesen). The three scholars all lived across three successive periods in Chinese history: the Qing Empire, the ROC (mainland), and the PRC. 
+
+|Scholar | Age at death |
+|:--- | :---: |
+| JI Xianlin (1911–2009) | 98 |
+| ZHOU Youguang (1906–2017)  | 112 |
+| QIAN Xuesen (1911–2009)  | 97 |
+
+My mom also named a few long-lived scholars who are currently alive and still engaged in research, including two Nobel laureates, [YANG Chen-Ning](https://en.wikipedia.org/wiki/Yang_Chen-Ning) (physicist, aged 97) and [TU Youyou](https://en.wikipedia.org/wiki/Tu_Youyou) (pharmaceutical chemist, aged 89), and a world-renowned agronomist [YUAN Longping](https://en.wikipedia.org/wiki/Yuan_Longping) (aged 89). For my parents' generation such examples of quality old age can be both exciting and intimidating---exciting because they demonstrate that lifelong intellectual vitality is possible and intimidating because few people are lucky enough to make one of them. The more cruel part of the story is that for most senior citizens the risk of developing Alzheimer's disease (a predominant type of dementia) [doubles every 5 years after 65](https://www.cnn.com/2013/08/23/health/alzheimers-disease-fast-facts/index.html), and in China the average onset of the disease has [shifted from 65 to 55](https://m.sohu.com/n/472200115/?wscrid=95360_2) in recent years.
+
+Dementia, especially Alzheimer's disease, is a major health threat for older people, and as of 2019 there's no efficient cure for it---though China has just [approved a promising new drug](https://www.cnn.com/2019/11/03/health/china-alzheimers-drug-intl-hnk-scli/index.html) (see [this Nature paper](http://dx.doi.org/10.1038/s41422-019-0216-x) for a scientific report). According to [a recent paper](https://www.tandfonline.com/doi/full/10.1080/20016689.2019.1667195) published in _Journal of Market Access & Health Policy_, in 2015 there were approximately 46.8 million people suffering from dementia worldwide, among whom 9.5 million lived in China. The increasing prevalence of dementia---especially that of Alzheimer's disease---has to do with the general amelioration of living standards and, thence, the significantly enhanced life expectancy. The number of Alzheimer's disease patients in China soared from 1.93 million in 1990 to 3.71 million in 2000 and to 5.69 million in 2010 (Chan et al. 2013).**^2**
+
+**^2** Chan et al. (2013). [Epidemiology of Alzheimer's disease and other forms of dementia in China, 1990–2010: a systematic review and analysis.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)60221-4/fulltext) In _The Lancet_ 381, pp.2016–2023.
+
+Faced with such a looming picture, I can totally understand why my mom and her peers are so interested in phenomenon like the "scholarly longevity." Actually I myself am also very interested, for I believe in order to fight against something as heavy as Alzheimer's, one had better take preventive measures since young. Thus, if there's indeed something "anti-dementia" in distinguished scholars that one could realistically learn from, then there's no harm in doing it.
+
+**Scholarly longevity apparently doesn't affect all scholars;** it seems to favor certain cohorts instead. I couldn't find more recent statistics but noticed [a 1969 report](https://www.ncbi.nlm.nih.gov/pubmed/4980181) on the life expectancy of scientists around that time. According to that report, in 1958–1968 the average age at death for male scientists whose death notices appeared in _Science_ was 67.7 years, and that for female scientists was 68.1 years. Among all subjects that occurred in the survey, the subject with the highest life expectancy was archeology for men (76.7 years) and agriculture for women (84.0 years), and the subject with the lowest life expectancy was radiation for both men (61.8 years) and women (42.0 years). These figures are probably out of date now, but they do show that some subjects are more conducive to scholarly longevity than others.
+
+**Scholarly longevity doesn't seem to be a recent trend either but is evidently a phenomenon that can be looked at on a historical level.** Upon hearing my mom's observation I initially suspected that it might be no more than a contemporary coincidence, so I tried googling for further examples of long-lived scholars. To my surprise, scholarly longevity turned out to be a pretty regular pattern in Chinese history. For example, the table below shows information (from Wikipedia) of some well-known philosophers who lived in Eastern Zhou dynasty (770–256 BCE), when the average life span was 30–40 years.
+
+|Scholar | Age at death|
+|:--- | :---: |
+|[Confucius](https://en.wikipedia.org/wiki/Confucius) (551–479 BCE) | 73 |
+|[Mencius](https://en.wikipedia.org/wiki/Mencius) (372–289 BCE)  | 83 |
+|[Zhuangzi](https://en.wikipedia.org/wiki/Zhuang_Zhou) (369–286 BCE)  | 83 |
+| [Xunzi](https://en.wikipedia.org/wiki/Xun_Kuang) (310–235 BCE)  | 74 |
+| [Mozi](https://en.wikipedia.org/wiki/Mozi) (470–391 BCE)  | 79 |
+
+China's Eastern Zhou dynasty overlaps with the era of Socrates and Plato in Europe. How long did the two celebrated Western scholars live then? A quick search online reveals that [Socrates](https://en.wikipedia.org/wiki/Socrates) died at 71 and [Plato](https://en.wikipedia.org/wiki/Plato) at 81. And Socrates would have lived even longer if he hadn't been forced to commit suicide. 
+
+**So, why do distinguished scholars live longer? And why can they maintain their mental sharpness throughout their whole lives?** For example, the above-mentioned ZHOU Youguang only quit his profession as a banker and became a linguist at the age of 50. He then turned into a thinker at 85 and published five books between 100 and 110 (i.e., in the final decade of his life). As a more recent example, I saw in the news yesterday that a 95-year-old physics professor at Tsinghua University was happily [delivering lectures via the Internet](https://www.youtube.com/watch?v=qbMmMBFwuw8) during the COVID-19 epidemic. Finally, as a linguistics student, I can't help but mention [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky#cite_note-father-22), the [most influential practitioner in modern linguistics](https://www.nytimes.com/1998/12/05/arts/a-changed-noam-chomsky-simplifies.html) and author of over 100 books, who is still giving cutting-edge lectures at the age of 91.
+
+I guess part of the reason behind big scholars' quality longevity may simply be that their brains are regularly exercised and advanced cognitive skills constantly reinforced through scholarly activities.
