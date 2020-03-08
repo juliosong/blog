@@ -12,13 +12,15 @@ $doc-font-size: 16 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
+/* import google fonts for chinese */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto+Serif+TC&display=swap');
+
 /* fallback font 'Open Sans' for android China */
 @import url('https://fonts.font.im/css?family=Open+Sans:400,400i&subset=latin-ext');
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", "Open Sans", Arial, sans-serif !default;
+$sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */

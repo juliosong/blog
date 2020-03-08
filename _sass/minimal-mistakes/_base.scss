@@ -359,6 +359,6 @@ input[type="submit"],
 /* =========== add Chinese font ================ */
 
 .hanyu {
-  font-family: "PMingLiU", "MingLiU", "LiSong Pro", "STSong", "STHeiti", "Microsoft YaHei", $global-font-family;
-  font-weight: bolder;
+  font-family: "Noto Sans TC", "Noto Serif TC", "PMingLiU", "MingLiU", "LiSong Pro", "STSong", "STHeiti", "Microsoft YaHei", $global-font-family;
+  /* font-weight: bolder; */
 }
