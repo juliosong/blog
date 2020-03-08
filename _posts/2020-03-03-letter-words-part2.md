@@ -51,8 +51,8 @@ There are also many casual abbreviations in text messages of other languages, su
 {% include figure image_path="/assets/images/fanmade-letter-word-wang.jpg" alt="a pop star failing to answer questions about fanmade letter words" caption="When asked about fanmade letter words during an interview, the much beloved pop star <a href='https://en.wikipedia.org/wiki/Jackson_Wang'>Jackson Wang</a> (<span class='hanyu'>王嘉爾</span>) barely knew anything. (photo source: <a href='https://kknews.cc/entertainment/q9mb2ry.html'>kknews</a>)" %}
 
 What's more, **fanmade abbreviations often mix or distort words from different languages,** which makes them almost undecipherable unless you're a fan yourself (in which case you'd make the effort to master the argot). The following example is from [sohu.com](https://www.sohu.com/a/307461942_534633):
-- `Fandom argot` <span class='hanyu'>Yjgj，jb有，但不是每個人都有，請yxh停止對我家plgg的造遙，bbl.</span><br>
-`Chinese translation` <span class='hanyu'>有句港句，劇本是有，但不是每個人都有，請營銷號停止對我家漂亮哥哥的造謠，求求了。</span><br>
+- `Fandom argot` <span class='hanyu'>Yjgj，jb有，但不是每個人都有，請yxh停止對我家plgg的造謠，bbl.</span><br>
+`Chinese translation` <span class='hanyu'>有句港句，劇本有，但不是每個人都有，請營銷號停止對我家漂亮哥哥的造謠，求求了。</span><br>
 `English translation` "Honestly speaking, there _are_ scripts, but not everyone has them, so marketing accounts, stop spreading rumor about our pretty brother, please."
 
 Three languages are mixed in the above example: _yjgj_ is a mixture of Cantonese and Mandarin, _jb_, _yxh_, and _plgg_ are from Mandarin, and _bbl_ is a mixture of English and Mandarin plus a crosslinguistic homophony-based substitution:
