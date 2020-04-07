@@ -18,7 +18,7 @@ A while ago I came across a website for a [Genetic Literacy Project](https://gen
 By "a single-mutant theory" the authors mean the theory of [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky), or "the Chomskyan evolutionary conjecture."
 
 ## The Chomskyan evolutionary conjecture
-This conjecture is based on the assumption that what distinguishes human language from animal communication most fundamentally is hierarchical syntactic structure; that is, the underlying grammatical structures of human language sentences are more about category embedding (often represented by brackets) than about string concatenation. Thus, when a syntactician sees a sentence like _"Colorless green ideas sleep furiously."_ what he sees is (1a) instead of (1b).
+This conjecture is based on the assumption that what distinguishes human language from, say, animal communication most fundamentally is hierarchical syntactic structure; that is, the underlying grammatical structures of human language sentences are more about category embedding (often represented by brackets) than about string concatenation. Thus, when a syntactician sees a sentence like _"Colorless green ideas sleep furiously."_ what he sees is (1a) instead of (1b).
 
 (1) a. [ [ [ adj ] [ [ adj ] [ n ] ] ] [ [ v ] [ adv ] ] ]<br>
 b. `"Colorless" + " " + "green" + ... + "furiously" + "."`
@@ -46,14 +46,14 @@ As to how merge came about in the first place, Chomsky's position is that it is 
 ## Alternative voices
 Being a linguistics student means I've had the chance of hearing/reading expert opinions on the origin of language multiple times. Indeed, Cambridge is a nice and tolerant place for open discussions on huge and controversial topics like this one. Sometimes students are too shy to utter their opinions, but the scent of interdisciplinary curiosity is clearly in the air.
 
-I still remember attending a [Philological Society](http://www.philsoc.org.uk/default.asp) talk on the emergence of syntax in my first year of PhD and going to an Evolution of Language reading group in my second year. I got more spiritual galvanization (like "Wow, this is a cool area!") than academic progress from both events---mainly due to my lack of previous knowledge---but they did keep me thinking about language from a biological/evolutionary perspective from time to time throughout my stay at Cambridge.
+I still remember attending a [Philological Society](http://www.philsoc.org.uk/default.asp) talk on the emergence of syntax in my first year of PhD and going to an Evolution of Language reading group in my second year. I got more spiritual galvanization (like "Wow, this is a cool area!") than academic progress from both events---mainly due to my lack of previous knowledge---but they did help keep me thinking about language from a biological/evolutionary perspective from time to time throughout my stay at Cambridge.
 
-I also notice an [origin of language section](https://www.darwinproject.ac.uk/commentary/human-nature/origin-language) on the website of the Darwin Correspondence Project (a Cambridge research team), though for some reason linguistics isn't listed as a currently-engaging discipline there...👀
+I've also noticed an [origin of language section](https://www.darwinproject.ac.uk/commentary/human-nature/origin-language) on the website of the Darwin Correspondence Project (a Cambridge research team), though for some reason linguistics isn't listed as a currently-engaging discipline there...👀
 
 >Debates about the origin of language are still ongoing. ... Such questions, addressed in a variety of scientific disciplines, such as **neurology, paleoanthropology, and animal psychology**, build upon the work of Darwin and his contemporaries, while taking that work in new directions.<br>
 ><span style="text-align: right; display: block;"> --- [Darwin Correspondence Project](https://www.darwinproject.ac.uk/commentary/human-nature/origin-language)</span>
 
-But anyway, the wide attention the issue of language origin has drawn to itself means that the Chomskyan conjecture can't be the only voice out there---in fact it's not even the mainstream view. According to [Wikipedia](https://en.wikipedia.org/wiki/Origin_of_language) "a majority of linguistic scholars as of 2018 hold continuity-based theories"; that is, pro-_gradual_-evolution (or "gradualist") theories. The following slide from the Institute of Southern Punjab Multan presents an interesting picture.
+But anyway, the wide attention the issue of language origin has drawn to itself means that the Chomskyan conjecture can't be the only voice out there---in fact it's not even the mainstream view. According to [Wikipedia](https://en.wikipedia.org/wiki/Origin_of_language) "a majority of linguistic scholars as of 2018 hold continuity-based theories"; that is, pro-*gradual*-evolution (or "gradualist") theories. The following slide from the Institute of Southern Punjab Multan presents an interesting picture.
 
 {% include figure image_path="/assets/images/punjab-slide.png" alt="screenshot of a slide" caption="a slide showing various theories on the origin of language (source: [slideshare.net](https://www.slideshare.net/sabiraqamar1/origin-of-language))" %}
 
@@ -71,7 +71,7 @@ Out of the six postulated sources of human language listed in the slide, only tw
 But coming up with solid evidence is difficult. As [Ray Jackendoff](https://ase.tufts.edu/cogstud/jackendoff/) writes on the [Linguistic Society of America](https://www.linguisticsociety.org/content/how-did-language-begin) website:
 >The basic difficulty with studying the evolution of language is that **the evidence is so sparse**. Spoken languages don't leave fossils, and fossil skulls only tell us the overall shape and size of hominid brains, not what the brains could do.
 
-Without hard evidence, though, the study of language origin is still a game of speculation at the end of the day---not substantially superior to what it was one and a half centuries ago, when speculations became so whimsical that the Linguistic Society of Paris (SLP) decided to ban discussions on the topic altogether.
+Without hard evidence, though, the study of language origin is still a game of speculation at the end of the day---not substantially superior to what it was one and a half centuries ago, when speculations got so whimsical that the Linguistic Society of Paris (SLP) decided to ban discussions on the topic altogether.
 >La Société n’admet aucune communication concernant, soit l’origine du langage soit la création d’une langue universelle. (The Society does not accept any communication concerning either the origin of language or the creation of a universal language.)<br>
 ><span style="text-align: right; display: block;"> --- ART. 2, [Status de 1866](http://www.slp-paris.com/spip.php?article5), SLP</span>
 
