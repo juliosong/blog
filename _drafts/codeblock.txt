@@ -1,0 +1,9 @@
+## handmade code block (mimicking the github markdown style)
+
+<pre style="margin-bottom:0;">
+<code style="font-family:Monaco; font-size:75%; background-color:#1d1f21; color:#c6c8c6; line-height:1.8; display:block; height:300px; overflow:scroll; padding-left:15px; padding-bottom:20px; border-radius:5px;">
+
+INSERT CODE HERE
+
+</code>
+</pre> 
