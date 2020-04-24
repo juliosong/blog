@@ -37,7 +37,7 @@ A hexagram is made up of two trigrams, and hexagram names are often referenced j
 (NB: The trigrams discussed here are all _primary trigrams_. In this introductory text I abstract away from the widely used yet controversial [_nuclear trigrams_](https://www.onlineclarity.co.uk/answers/2006/10/05/nuclear-hexagrams-why-bother/). Check [this page](http://enews.open2u.com.tw/~noupd/book_up/1589/8007.htm) for the controversy if you can read Chinese.)
 
 ### Slot meaning
-The two trigram slots in a hexagram have their "slot meanings" independent of the specific trigrams inserted there. The most obvious slot meaning is the basic configuration that the upper trigram is above the lower trigram. This is often interpreted in combination with the momentum (i.e., upward or downward movement) of the archetypal element denoted by the trigrams.
+The two trigram slots in a hexagram have their "slot meanings" independent of the specific trigrams inserted there. The most obvious slot meaning is the basic configuration that the upper trigram is above the lower trigram. This is often interpreted in combination with the momentum (i.e., upward or downward movement) of the archetypal elements denoted by the trigrams.
 
 For example, in the hexagram ䷋ (_p'i_ 'standstill' <span class="hanyu">否</span>) the heaven (☰) is above the earth (☷). Albeit natural, this isn't a good thing in the _I Ching_ system, because it means the heaven's energy (which goes upward) and the earth's energy (which goes downward) are moving away from each other, depriving the world of creativity and leaving it in stagnation.
 
@@ -57,7 +57,7 @@ _Discussion of the Trigrams_ (i.e., the Confucian Eighth Wing) deals with the va
 
 {% include figure image_path="/assets/images/three-daughters.png" alt="the relationship between father and three daughters in I Ching" caption="The _I Ching_ views daughters as the result of the father seeking female power." %}
 
-So, if there is any across-the-board rule governing the intrinsic meanings of trigrams at all, it is probably the "boring" fact that **each trigram symbol, when combined with a category, produces a more or less idiosyncratic concept.** I will come back to this point in the next post in a linguistic context.
+So, if there is any across-the-board rule governing the intrinsic meanings of trigrams at all, it is probably the "boring" fact that **each trigram symbol, when combined with a category, produces a more or less idiosyncratic concept.** I will come back to this point in [Part 6]({{ site.baseurl }}{% post_url 2020-04-23-generative-grammar-of-i-ching-part6 %})).
 
 The above rule in itself doesn't sound very helpful, because we still need to learn the numerous concepts associated with each trigram one by one. But the good news is that in the actual usage of the trigrams, at least when they are used for divination purposes,<sup><a href="#fn3" id="ref3">3</a></sup> we seldom need to consider the trigrams' specialized meanings. Most of the time knowing their archetypal meanings is enough, such as heaven and its creativity, lake and its openness, and so on.
 

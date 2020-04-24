@@ -26,7 +26,7 @@ which represents the pronoun _he_. This way of representing properties shouldn't
 ```
 which is essentially also a feature structure.
 
-The divinatory properties associated with _I Ching_ lines and line slots can also be represented by features. Recall from Parts [3]({{ site.baseurl }}{% post_url 2020-04-13-generative-grammar-of-i-ching-part3 %}) and [4]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}) that there are four types of lines in the _I Ching_, which are defined by two properties: yin/yang (i.e., the line's _gender_) and old/young (i.e., the developmental _stage_ the line represents).
+The divinatory properties associated with _I Ching_ lines and line slots can be represented by features. Recall from Parts [3]({{ site.baseurl }}{% post_url 2020-04-13-generative-grammar-of-i-ching-part3 %}) and [4]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}) that there are four types of lines in the _I Ching_, which are defined by two properties: yin/yang (i.e., the line's _gender_) and old/young (i.e., the developmental _stage_ the line represents).
 
 <span style="font-family:serif; font-variant:small-caps; background-color:GoldenRod;">&nbsp;Example&nbsp;</span> &nbsp;The old yang line (⚊&#9711;) can be represented as
 ```
@@ -101,7 +101,7 @@ agree(line4, slot4) = [yin == yin] = True
 agree(line5, slot5) = [yang == yang] = True
 agree(line6, slot6) = [yang == yin] = False
 ```
-However, since two out of the three Trues occur at central slots (i.e., they are [perfectly central]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}#perfectly)), the auspiciousness level of the hexagram is actually much higher than average. Next I turn to represent this state of affairs in featural terms.
+However, since two out of the three Trues occur in central slots (i.e., they are [perfectly central]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}#perfectly)), the auspiciousness level of the hexagram is actually much higher than average. Next I turn to represent this state of affairs in featural terms.
 
 ### Unification
 We can let the feature structure of a line and that of its insertion slot go through a unification process similar to that in unification-based grammars like [HPSG](https://web.archive.org/web/20120204060804/http://emsah.uq.edu.au/linguistics/Working%20Papers/ananda_ling/HPSG_Summary.htm#_2.2._Rules,_principles).
@@ -121,7 +121,7 @@ Now let's do two things:
 1. Suppose the "gender agreement" in _I Ching_ divination replaces the respective gender features of a line and its insertion slot with a new, boolean feature `[agree: True | False]`.
 2. Equip the line slot feature structure with an additional boolean feature `[central: True | False]`, which indicates whether a slot has a central position in its ambient trigram.
 
-With the above preparation work, if we sequence line/slot unification after line/slot agreement, we'll get an integrated feature structure that contains both `agree` and `central`.
+With the above preparation, if we sequence line/slot unification after line/slot agreement, we'll get an integrated feature structure that contains both `agree` and `central`.
 ```
 (unify ∘ agree) (line1, slot1) =
 [stage: young, agree: False] ⨆
@@ -152,7 +152,7 @@ And we are now able to represent the [central and correct]({{ site.baseurl }}{% 
 </pre>
 There are two `[central: True, agree: True]` occurrences in _kuan_'s `unify ∘ agree` values, which makes it a perfectly-central hexagram---namely, it's awesome.
 
-Next, let's turn to an example with changing lines. Take the <a href="#ching">above-mentioned</a> ䷯ (_ching_ 'the well' <span class="hanyu">井</span>) for example, whose first, third, and fourth lines are changing. I've also filled in the [slot-quality]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}#qualit) features mentioned in Part 4.
+Next, let's turn to a hexagram with changing lines. Take the <a href="#ching">above-mentioned</a> ䷯ (_ching_ 'the well' <span class="hanyu">井</span>) for example, whose first, third, and fourth lines are changing. I've also filled in the [slot-quality]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}#qualit) features mentioned in Part 4.
 <pre style="margin-bottom:0;">
 <code style="font-family:Monaco; font-size:75%; background-color:#1d1f21; color:#c6c8c6; line-height:1.8; display:block; height:300px; overflow:scroll; padding-left:15px; padding-bottom:20px; border-radius:5px;">
 (unify ∘ agree) (line1, slot1) =
@@ -220,10 +220,10 @@ Leibniz wasn't the only famous scholar in history who had publicly expressed the
 
 {% include figure image_path="/assets/images/leibniz-bohr.png" alt="Leibniz's copy of I Ching hexagrams and Bohr's coat of arms with the yin-yang symbol" caption="[Leibniz's copy of _I-Ching_ hexagrams](https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg) (left) and [Bohr's coat of arms](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Niels_Bohr.svg) (right)" %}
 
-In our own era, the advent of new technology has only increased the public's interest in this ancient "book of wisdom" and its implications for various domains of knowledge. For instance, I have seen repeated attempts to draw parallelisms between the _I Ching_ and DNA (see [this book](https://books.google.com/books/about/I_Ching_and_the_Genetic_Code.html?id=0X0IAAAACAAJ&source=kp_book_description&redir_esc=y), [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575644/), and [this blogpost](https://taobabe.rocks/dna-and-the-i-ching-the-connection/)). I'm not in a position to evaluate the scientific validity of these attempts, though I find [this blogger](https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine) "cold water" not without reason:
+In our own era, the advent of new technology has only increased the public's interest in this ancient "book of wisdom" and its implications for various domains of knowledge. For instance, I have seen repeated attempts to draw parallelisms between the _I Ching_ and DNA (see [this book](https://books.google.com/books/about/I_Ching_and_the_Genetic_Code.html?id=0X0IAAAACAAJ&source=kp_book_description&redir_esc=y), [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575644/), and [this blogpost](https://taobabe.rocks/dna-and-the-i-ching-the-connection/)). I don't have the expertise to evaluate the scientific validity of these attempts, though I find [this blogger](https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine) "cold water" not without reason:
 >On the internet, whole armies of crazies advanced their theories about the book.
 
-My personal opinion on this renewed _I Ching_ craze is that any serious result in "applied _I Ching_ studies"---if that's a qualified field of study at all---must be based on scholarly team effort rather than merely enthusiastic surmise. Former President of Peking University [Hu Shih](https://en.wikipedia.org/wiki/Hu_Shih) (<span class="hanyu">胡適</span>) has a famous epithet regarding the methodology of learning: [Daring in putting forward hypotheses; careful in searching for proofs](http://readopac1.ncl.edu.tw/nclserialFront/search/summny_list.jsp?sysId=0005762457&dtdId=000040) (<a href="http://terms.naer.edu.tw/detail/1302054/?index=7"><span class="hanyu">大膽假設小心求證</span></a>). I find this a great criterion to follow, especially as we step into a zone as mysterious as the _I Ching_.
+My personal opinion on this renewed _I Ching_ craze is that any serious result in "applied _I Ching_ studies"---if that's a well-defined area of study at all---must be based on scholarly team effort rather than merely enthusiastic surmise. Former President of Peking University [Hu Shih](https://en.wikipedia.org/wiki/Hu_Shih) (<span class="hanyu">胡適</span>) has a famous epithet regarding the methodology of learning: [Daring in putting forward hypotheses; careful in searching for proofs](http://readopac1.ncl.edu.tw/nclserialFront/search/summny_list.jsp?sysId=0005762457&dtdId=000040) (<a href="http://terms.naer.edu.tw/detail/1302054/?index=7"><span class="hanyu">大膽假設小心求證</span></a>). I find this a great criterion to follow, especially as we step into a zone as mysterious as the _I Ching_.
 
 In the last years of his life, Confucius told his disciples that if he could live longer he'd devote his remaining time to the _I Ching_.
 >The Master said, "If some years were added to my life, I would give five or ten to the study of the Yi, and then I might come to be without great faults."<br>
