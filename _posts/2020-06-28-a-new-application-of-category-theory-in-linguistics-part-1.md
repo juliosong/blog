@@ -21,7 +21,7 @@ This is the second part of my tripartite portfolio (see below) prepared for the 
 
 ***
 
-Since this is the first step in a potentially long-term project, feedback from both linguists and mathematicians (or applied category theorists from other fields) is highly appreciated. If you are attending ACT2020, feel free to drop in the virtual poster session and find me in [this jitsi room](https://meet.jit.si/ACT2020-Song) for a chat (poster session date tbc).
+Since this is the first step in a potentially long-term project, feedback from both linguists and mathematicians (or applied category theorists from other fields) is highly appreciated. If you are attending ACT2020, feel free to drop in the virtual poster session and find me in [this jitsi room](https://meet.jit.si/ACT2020-Song) for a discussion (poster session date tbc).
 
 **A note on terminology:** What I call "grammatical type" here is more widely called "syntactic category" in linguistics. I am adopting the unusual term because "category" already has a different default meaning in the context of ACT2020.
 {: .notice}
