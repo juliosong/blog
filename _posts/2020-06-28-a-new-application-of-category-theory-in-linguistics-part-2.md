@@ -11,7 +11,7 @@ header:
 toc: true
 ---
 
-In the [previous post]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) I laid out the disciplinary background of my application of category theory in linguistics in more detail (than I had done in my [explainer video](https://www.youtube.com/watch?v=dzEPH8K4CaQ&t=10s)). In this post I continue to introduce my category-theoretic modeling of the human language grammatical type system. And as in the previous post, I will still abstract away from technical details (which you can find either in my [extended abstract](#) or, in fuller forms, in my [dissertation](https://www.repository.cam.ac.uk/handle/1810/297789)) and focus on my motivation and source of inspiration instead.
+In the [previous post]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) I laid out the disciplinary background of my application of category theory in linguistics in more detail (than I had done in my [explainer video](https://www.youtube.com/watch?v=dzEPH8K4CaQ&t=10s)). In this post I continue to introduce my category-theoretic modeling of the human language grammatical type system. And as in the previous post, I will still abstract away from technical details (which you can find either in my [extended abstract](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) or, in fuller forms, in my [dissertation](https://www.repository.cam.ac.uk/handle/1810/297789)) and focus on my motivation and source of inspiration instead.
 
 ## Layered abstraction
 In my discussion so far we have met three concepts about grammatical types: (i) the types themselves, (ii) the extended projections building on individual types, and (iii) the various abstract relations building on extended projections. The three concepts present us with a scenario of layered abstraction, which is also what has inspired my application of category theory in my research. As Fong & Spivak point out in their recent textbook on applied category theory---[*Seven Sketches in Compositionality*](https://www.goodreads.com/book/show/39681351-seven-sketches-in-compositionality)---category theory is "unmatched in its ability to organize and layer abstractions."
@@ -47,7 +47,7 @@ Since a poset can be viewed as a category, here we obtain our first category-the
 
 (1) {V$_1$, V$_2$, V$_3$} $\rightarrow$ Appl $\rightarrow$ v $\rightarrow$ Voice $\rightarrow$ {Asp$_1$, Asp$_2$} $\rightarrow$ Mod $\rightarrow$ T $\rightarrow$ C $\rightarrow$ Foc $\rightarrow$ Top
 
-**A caveat on the incomparability issue:** Certain positions in the extended projection are incompatible with incomparable elements. This is the theme in my submission to ACT2020 ([here](#) is the revised extended abstract), where I used the [adjoint functor theorem](https://ncatlab.org/nlab/show/adjoint+functor+theorem) to prove that there is no way to have "flavored phase heads" (a particular kind of grammatical type) in human language if we subscribe to the extended projection–based structure and the higher-order concepts about extended projections that I mentioned in my previous post. I will return to this point below when I discuss the third level of abstraction.
+**A caveat on the incomparability issue:** Certain positions in the extended projection are incompatible with incomparable elements. This is the theme in my submission to ACT2020 ([here](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) is the revised extended abstract), where I used the [adjoint functor theorem](https://ncatlab.org/nlab/show/adjoint+functor+theorem) to prove that there is no way to have "flavored phase heads" (a particular kind of grammatical type) in human language if we subscribe to the extended projection–based structure and the higher-order concepts about extended projections that I mentioned in my previous post. I will return to this point below when I discuss the third level of abstraction.
 
 ### Level 3: a category of posets
 Sine each extended projection can be viewed as a poset, a set of extended projections, such as the one in (2), can be viewed as a category of posets.
@@ -80,4 +80,4 @@ As we can see, the category-theoretic perspective on the (ontological side of) h
 
 -- The End --
 
-([Here](#) is the link to my extended abstract for ACT2020 if you are curious about my particular case study on phase heads, which is a specific result at the third level of abstraction.)
+([Here](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) is my extended abstract for ACT2020 if you are curious about my particular case study on phase heads, which is a specific result at the third level of abstraction.)
