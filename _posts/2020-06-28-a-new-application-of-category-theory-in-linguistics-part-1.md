@@ -15,7 +15,7 @@ This is the second part of my tripartite portfolio (see below) prepared for the 
 
 ***
 *Overview of my ACT2020 portfolio:*
-- Part I: [Category Theory and Generative Grammar](https://www.youtube.com/watch?v=dzEPH8K4CaQ&t=10s) (a 9-min explainer video laying out the disciplinary background in plain words)
+- Part I: [Category Theory and Generative Grammar](https://www.youtube.com/watch?v=dzEPH8K4CaQ) (a 9-min explainer video laying out the disciplinary background in plain words)
 - Part II: [A new application of category theory in linguistics]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) (a blog article summarizing my application of category theory in linguistics)
 - Part III: [Grammatical types that cannot be: A category-theoretic theorem for Chomsky-school generative syntax](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) (a revised version of my extended abstract submitted to ACT2020, which showcases a specific result out of the application in Part II)
 
