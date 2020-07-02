@@ -13,6 +13,8 @@ toc: true
 
 This is the second part of my tripartite portfolio (see below) prepared for the virtual poster session at [ACT2020](https://act2020.mit.edu). It introduces my category-theoretic modeling of the human language grammatical type (aka syntactic category) system. The technical detail can be found in my dissertation "[On the formal flexibility of syntactic categories](https://www.repository.cam.ac.uk/handle/1810/297789)." This article is a conceptual synopsis, with some occasional remarks not included in my dissertation.
 
+*(Quick advertisement: I also have a [Category Theory Notes series](https://blog.juliosong.com/linguistics/mathematics/category-theory-notes-1/) on this blog, which is a compiled collection of my personal study notes as a non-math-major beginner and records some of the confusions I had had in the process of learning as well as how I overcame them in the end.)*
+
 ***
 *Overview of my ACT2020 portfolio:*
 - Part I: [Category Theory and Generative Grammar](https://www.youtube.com/watch?v=dzEPH8K4CaQ) (a 9-min explainer video laying out the disciplinary background in plain words)
