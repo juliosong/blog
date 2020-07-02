@@ -57,7 +57,7 @@ The Chomskyan syntactic notion *extended projection* plays a central role in my 
 NB "extended projection" should not be confused with the historically related notion "[extended projection principle](https://en.wikipedia.org/wiki/Extended_projection_principle)" (see [this book chapter](http://norbert.abelcorver.com/wp-content/uploads/2010/10/CorverLexicalCategoriesAndExtendedProjection.pdf) for a more technical linguistic discussion).
 {: .notice}
 
-A *projection* is an endocentric structure built upon (or metaphorically "projected from") a core type (called a "head"). For example, the following tree diagram represents a projection of V (short for "verb," and P stands for "phrase"). Notice how the underlined type V "percolates upward" from the most deeply embedded level.
+A *projection* is an endocentric structure built upon (or metaphorically "projected from") a core type (called a "head"). For example, the following tree diagram represents a projection of V (short for "verb," and P stands for "phrase"). Notice how the underlined type V "percolates upward" from the most deeply embedded level. (An example sentence with this structure is *quickly eat the cookies*.)
 
 ![a syntactic projection of a verb phrase](/assets/images/syntactic-projection.png){:width="30%"}
 
@@ -65,7 +65,7 @@ Trees like this can grow very large, especially in the aforementioned "extremal"
 
 ![a typical Chomskyan tree](/assets/images/chomskyan-tree.png){:width="45%"}
 
-Here VP is the lexical or core semantic projection, while all the other projections above VP---including vP for agent-licensing, TP for tenses, and CP for [complementizers](https://en.wikipedia.org/wiki/Complementizer)---are considered extensions of it, hence the term "extended projection."
+An example sentence with this structure is *What did John eat?* Here VP (e.g., *eat cookies*) is the lexical or core semantic projection, while all the other projections above VP---including vP for agent-licensing (e.g., *John*), TP for tenses (e.g., past tense), and CP for [complementizers](https://en.wikipedia.org/wiki/Complementizer) and clause typing (e.g., interrogation)---are considered extensions of it, hence the term "extended projection."
 
 Importantly, in the context of an extended projection, which type projects first and which projects next is not random but follows some semirigid **ordering.** There are debates as to what the exact ordering is, but here I merely emphasize the point that there **exists** some kind of order relation among grammatical types, which is sufficient for my category-theoretic modeling.
 
@@ -76,6 +76,8 @@ Extended projections are a qualified structural unit for the grammatical type in
 2. The grammatical types in an extended projection fall in subsets (alternatively known as domains or zones) based on their syntacticosemantic functions. For example, the above-mentioned V and v are both "v-domain" or "vP-domain" types.
 3. There are certain conceptual parallelisms between extended projections from different major parts of speech. For example, T (for tense) is to verbs what D (for determiner) is to nouns. And certain conceptual templates have been proposed to represent such parallelisms, such as the "universal spine" in Wiltschko's 2014 monograph [*The Universal Structure of Categories*](https://books.google.co.jp/books/about/The_Universal_Structure_of_Categories.html?id=xYf2AwAAQBAJ&source=kp_book_description&redir_esc=y).
 4. There are certain inheritance relations (often metaphorically referred to as "split-X" or "split-XP") between extended projections of different sizes from the same major part of speech. For example, the above-mentioned V-v-T-C projection sequence can be expanded to the more detailed sequence V-Appl-v-Voice-Asp-T-C-Foc-Top, where Appl/v/Voice are "split-v" types and Foc/Top are "split-C" types.
+
+(If you are interested in the additional types in my last example, they are [applicative](https://en.wikipedia.org/wiki/Applicative_voice), [voice](https://en.wikipedia.org/wiki/Voice_(grammar)), [aspect](https://en.wikipedia.org/wiki/Grammatical_aspect), [focus](https://en.wikipedia.org/wiki/Focus_(linguistics)), and [topic](https://en.wikipedia.org/wiki/Topic_and_comment).)
 
 If there is a syntactically based ontological structure for the grammatical type inventory, the above higher-order ideas should also be part of it.
 
