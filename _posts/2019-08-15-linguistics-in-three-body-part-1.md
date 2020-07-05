@@ -17,7 +17,7 @@ I'm a sci-fi lover, and in the past few years I've been deeply impressed by the 
 
 _Three-Body_'s epic storyline spans 18.9 million years---from the Cultural Revolution till the end of our universe---and the reading experience is absolutely stunning. I won't spoil it in case you haven't read the novel, but the animation below gives a wonderful depiction of some of its key scenes:
 
-{% include video id="H4mXzUi5rfg" provider="youtube" %}
+{% include video id="oTXIwRvB3ow" provider="youtube" %}
 
 What I will write about in this article is the linguistic view in the _Three-Body_ trilogy. Liu explicitly mentions language in a number of places and sometimes even gives it a crucial role to play. In fact I think **Liu has infused a complete linguistic worldview into his writing.** For ease of reading I've split this article into three parts. This post, Part 1, is about my impression of fictional languages in general, and the next two posts, [Part 2]({{ site.baseurl }}{% post_url 2019-08-16-linguistics-in-three-body-part-2 %}) and [Part 3]({{ site.baseurl }}{% post_url 2019-08-17-linguistics-in-three-body-part-3 %}), will be my commentary on specific language-related bits in the novel.
 
