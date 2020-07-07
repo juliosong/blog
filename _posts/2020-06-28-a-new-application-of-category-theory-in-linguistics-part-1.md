@@ -11,7 +11,7 @@ header:
 toc: true
 ---
 
-This is the second part of my tripartite portfolio (see below) prepared for the virtual poster session at [ACT2020](https://act2020.mit.edu). It introduces my category-theoretic modeling of the human language grammatical type (aka syntactic category) system. The technical detail can be found in my dissertation "[On the formal flexibility of syntactic categories](https://www.repository.cam.ac.uk/handle/1810/297789)." This article is a conceptual synopsis, with some occasional remarks not included in my dissertation.
+This is the second part of my "portfolio" prepared for the virtual poster session at [ACT2020](https://act2020.mit.edu). It introduces my category-theoretic modeling of the human language grammatical type (aka syntactic category) system. The technical detail can be found in my dissertation "[On the formal flexibility of syntactic categories](https://www.repository.cam.ac.uk/handle/1810/297789)." This article is a conceptual synopsis, with some occasional remarks not included in my dissertation.
 
 *(Quick advertisement: I also have a [Category Theory Notes series](https://blog.juliosong.com/linguistics/mathematics/category-theory-notes-1/) on this blog, which is a compiled collection of my personal study notes as a non-math-major beginner and records some of the confusions I had had in the process of learning as well as how I overcame them in the end.)*
 
@@ -20,7 +20,7 @@ This is the second part of my tripartite portfolio (see below) prepared for the 
 - Part I: [Category Theory and Generative Grammar](https://www.youtube.com/watch?v=dzEPH8K4CaQ) (a 9-min explainer video laying out the disciplinary background in plain words)
 - Part II: [A new application of category theory in linguistics]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) (a blog article summarizing my application of category theory in linguistics)
 - Part III: [Grammatical types that cannot be: A category-theoretic theorem for Chomsky-school generative syntax](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) (a revised version of my extended abstract submitted to ACT2020, which showcases a specific result out of the application in Part II)
-
+- Part IV: the actual [virtual poster](https://www.juliosong.com/doc/act2020poster/poster.html)
 ***
 
 Since this is the first step in a potentially long-term project, feedback from both linguists and mathematicians (or applied category theorists from other fields) is highly appreciated. If you are attending ACT2020, feel free to drop in the **virtual poster session (July 8, 20:00 -- 22:00 UTC)** and find me in [this jitsi room](https://meet.jit.si/ACT2020-Song) for a discussion.
