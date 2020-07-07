@@ -82,4 +82,4 @@ A main takeaway message from my study is that the category-theoretic perspective
 
 -- The End --
 
-([Here](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) is my extended abstract for ACT2020 if you are curious about my particular case study on phase heads, which is a specific result at the third level of abstraction.)
+([Here](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) is my extended abstract for ACT2020 if you are curious about my particular case study on phase heads, which is a specific result at the third level of abstraction. And [here](https://www.juliosong.com/doc/act2020poster/poster.html) is my electronic poster if you only have two minutes.)
