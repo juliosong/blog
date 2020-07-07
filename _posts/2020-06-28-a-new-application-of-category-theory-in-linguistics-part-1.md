@@ -21,6 +21,7 @@ This is the second part of my "portfolio" prepared for the virtual poster sessio
 - Part II: [A new application of category theory in linguistics]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) (a blog article summarizing my application of category theory in linguistics)
 - Part III: [Grammatical types that cannot be: A category-theoretic theorem for Chomsky-school generative syntax](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) (a revised version of my extended abstract submitted to ACT2020, which showcases a specific result out of the application in Part II)
 - Part IV: the actual [virtual poster](https://www.juliosong.com/doc/act2020poster/poster.html)
+
 ***
 
 Since this is the first step in a potentially long-term project, feedback from both linguists and mathematicians (or applied category theorists from other fields) is highly appreciated. If you are attending ACT2020, feel free to drop in the **virtual poster session (July 8, 20:00 -- 22:00 UTC)** and find me in [this jitsi room](https://meet.jit.si/ACT2020-Song) for a discussion.
