@@ -28,7 +28,7 @@ I guess Dobby avoids using "I" as a way to show respect to wizards---as a "polit
 
 > **Illeism** (from Latin **ille** meaning "he, that") is the act of referring to oneself in the third person instead of first person. (Wikipedia)
 
-Pronoun-based politeness strategies are common in real-world languages. For example, many languages around the world use the second or third person plural pronoun as an [honorific](https://en.wikipedia.org/wiki/Honorifics_(linguistics)) "you." This phenomenon is sometimes called the [T-V distinction](https://en.wikipedia.org/wiki/T–V_distinction#French), which references the Latin pronouns *tu* "thou" and *vos* "y'all" (though the phenomenon is certainly not limited to Latin or Indo-European languages). Below are two basic examples from French and German.
+Pronoun-based politeness strategies are common in real-world languages too. For example, many languages around the world use the second or third person plural pronoun as an [honorific](https://en.wikipedia.org/wiki/Honorifics_(linguistics)) "you." This phenomenon is sometimes called the [T-V distinction](https://en.wikipedia.org/wiki/T–V_distinction#French), with reference to the Latin pronouns *tu* "thou" and *vos* "y'all" (though the phenomenon is certainly not limited to Latin or Indo-European languages). Below are two basic examples from French and German.
 
 (1) <i>Comment allez-**vous**?</i> [French]<br>
 "How are you?"
@@ -36,15 +36,15 @@ Pronoun-based politeness strategies are common in real-world languages. For exam
 (2) <i>Was möchten **Sie**?</i> [German]<br>
 "What would you like to have?"
 
-Even [Chinese](https://en.wikipedia.org/wiki/T–V_distinction_in_the_world%27s_languages#Chinese) has such a "switched-person" pronoun *nin2* (您), which is a phonological [contraction](https://en.wikipedia.org/wiki/Contraction_(grammar)) of the second person plural *ni3-men2* (你們). Thus, there are two versions for the everyday greeting "hello" in Mandarin: the more casual *ni3 hao3* (你好) and the more respectful *nin2 hao3* (您好). Which one to use depends on who you are talking to (e.g., a friend or a teacher).
+The phenomenon is not limited to [fusional](https://en.wikipedia.org/wiki/Fusional_language) or [synthetic](https://en.wikipedia.org/wiki/Synthetic_language) languages either. For instance, [Chinese](https://en.wikipedia.org/wiki/T–V_distinction_in_the_world%27s_languages#Chinese) also has such a "switched-person" pronoun *nin2* (您), which is a phonological [contraction](https://en.wikipedia.org/wiki/Contraction_(grammar)) of the second person plural *ni3-men2* (你們). Thus, there are two versions for the everyday greeting "hello" in Mandarin: the more casual *ni3 hao3* (你好) and the more respectful *nin2 hao3* (您好). Which one to use depends on who you are talking to (e.g., a friend or a teacher).
 
-Apart from honorific pronouns, some languages also have humble pronouns, which are used to show respect to others by way of deprecating oneself. For example, Korean speakers use *jeo* (저) instead of the default *na* (나) to refer to themselves when talking to someone elder or of superior social status:
+Apart from honorific pronouns, some languages also have humble pronouns, which are used to show respect to others by way of deprecating oneself. Humble pronouns are sometimes treated as a subtype of honorific pronouns, but I personally think it is better to keep them separate, because the term "honorific" doesn't sound like it intends to cover both the respectful and the humble ends of the social-hierarchical spectrum. An example of humble pronouns is the Korean first-person pronoun *jeo* (저), which is used instead of the default *na* (나) when one is speaking to someone elder or of superior social status:
 
 (4) <i>**jeo**-neun kim kyosunim-ui hakseng-imnida</i> [Korean]<br>
 (저는 김 교수님의 학생입니다)<br>
 "I am Prof. Kim's student."
 
-So I reckon Dobby's illeism is a politeness strategy. More specifically, I think illeism can be further broken down to two substrategies: (i) use of the third person, and (ii) avoidance of "I." Substrategy (i) is similar to the above-mentioned T-V distinction, while (ii) is reminiscent of the deliberate avoidance of "you" in certain languages, again such as [Korean](https://www.koreanwikiproject.com/wiki/Pronouns#Second_Person), though [Japanese is also quite typical](https://japanese.stackexchange.com/questions/4040/in-actual-japanese-society-how-often-are-second-person-pronouns-used) in this respect.
+So, I reckon Dobby's illeism is a politeness strategy. More specifically, I think illeism can be further broken down to two substrategies: (i) use of the third person, and (ii) avoidance of "I." Substrategy (i) is similar to the above-mentioned T-V distinction, while (ii) is reminiscent of the deliberate avoidance of "you" in certain languages, again such as [Korean](https://www.koreanwikiproject.com/wiki/Pronouns#Second_Person), though [Japanese is also quite typical](https://japanese.stackexchange.com/questions/4040/in-actual-japanese-society-how-often-are-second-person-pronouns-used) in this respect.
 
 (5) Two ways to say "What is your name?" in Japanese<br>
 a. (impolite) <i>**anata**-no namae-wa?</i> (あなたの名前は？)<br>
@@ -64,4 +64,4 @@ Also notice that when Dobby is around, Winky starts avoiding using "I" too:
 > Dobby: ‘Professor Dumbledore offered Dobby ten Galleons a week, and weekends off, ...but Dobby beat him down, miss ... Dobby likes freedom, miss, but he isn’t wanting too much, miss, he likes work better.’ <br><br>
 > Winky: ‘**Winky** is a disgraced elf, but **Winky** is not yet getting paid! ...**Winky** is not sunk so low as that! **Winky** is properly ashamed of being freed!’
 
-So maybe illeism is part of Winky's grammar too, though she often deviates from it for some reason. It might have to do with her nervous breakdown and addiction to alcohol after being sacked by Barty Crouch Senior. It's a shame that she didn't get to appear in the movies at all; otherwise it'd be interesting to see and compare the different speech styles of all three house-elves as they are portrayed on screen. 
+So maybe illeism is part of Winky's grammar too, though she often deviates from it for some reason. It might have to do with her nervous breakdown and addiction to alcohol after being sacked by Barty Crouch Senior. It's a shame that she didn't get to appear in the movies at all; otherwise it'd be interesting to see and compare the different speech styles of all three house-elves as they are portrayed on screen. Lacking that, however, I think the audiobook rendering of the three house-elves' voices is also quite vivid. Audiobooks are such good inventions! 🙏
