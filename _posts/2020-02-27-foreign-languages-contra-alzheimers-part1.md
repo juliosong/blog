@@ -1,6 +1,6 @@
 ---
 title: "Bilingualism helps prevent dementia? And a remark on &ldquo;scholarly longevity&rdquo; (Part 1)"
-categories: [language-learning, linguistics, neuroscience]
+categories: [language learning, linguistics, neuroscience]
 tags: [bilingualism, dementia, longevity]
 header:
   overlay_image: /assets/images/dementia-brain.jpg
