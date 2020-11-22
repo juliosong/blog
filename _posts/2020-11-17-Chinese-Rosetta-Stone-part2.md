@@ -18,7 +18,7 @@ So, while the differences between the various post-[Qin](https://en.wikipedia.or
 
 {% include figure image_path="/assets/images/pencil-case.png" alt="my pencil case" caption="My pencil case has many oracle bone characters on it. Can you recognize some? 😉" %}
 
-But how did people figure out which pre-Qin character corresponded to which chancery-script character? Has there been a Chinese counterpart of the Egyptian [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone#Reading_the_Rosetta_Stone)? (Thanks to Daniel Harbour for bringing up this interesting point to me!)
+But then one may ask, How did people of (or closer to) our era figure out which pre-Qin character corresponded to which chancery-script character? Is there a Chinese counterpart of the Egyptian [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone#Reading_the_Rosetta_Stone)? (Thanks to Daniel Harbour for bringing up this interesting point to me!)
 
 {% include figure image_path="/assets/images/rosetta.png" alt="the Rosetta Stone" caption="The Rosetta Stone in the British Museum (by [Hans Hillewaert](https://commons.wikimedia.org/w/index.php?curid=3153928), CC BY-SA 4.0)" %}
 
@@ -34,7 +34,7 @@ I'm not the only one who thinks the Three-Type Stone is reminiscent of the Roset
 > 這石經特殊的地方有點像現藏於大英博物館的羅賽塔石。<br>
 > "This special stone is a bit similar to the Rosetta Stone in the British Museum."
 
-And the second source is the [Japanese Wikipedia page](https://ja.wikipedia.org/wiki/三体石経) for the stone (the Japanese versions of Wikipedia pages on ancient Chinese scripts are surprisingly informative):
+And the second source is the [Japanese Wikipedia page](https://ja.wikipedia.org/wiki/三体石経) for the stone (Japanese versions of the Wikipedia pages on ancient Chinese scripts are surprisingly informative):
 > 古文・篆書・隷書の3つの書体により共通のテキストが書かれていることから、俗に「中国版ロゼッタ・ストーン」といわれる。<br>
 > Since the stone has the same text written on it in three scripts, the ancient script, the seal script, and the chancery script, it is informally called the "Chinese Rosetta Stone."
 
@@ -54,7 +54,7 @@ Likewise, the Three-Type Stone unearthed in 1895 (in [Luoyang](https://en.wikipe
 
 {% include figure image_path="/assets/images/santishijing-lixu.png" alt="a fragmentary documentation of the three-type stone inscription in a song-dynasty book" caption="Hong's (1053) documentation of the three-type stone inscription (*Li4 Xu4*, vol. 4)" %}
 
-Second, both the Rosetta Stone and the Three-Type Stone had been moved around to different locations in history and, sadly, reused as building material. The Rosetta Stone was reused to build [Fort Julien](https://en.wikipedia.org/wiki/Fort_Julien) near a Nile Delta town called Rosetta (or Rashid in Arabic), hence its name. And different fragments of the Three-Type Stone were reused first to build a Buddhist temple in [Northern Wei Dynasty](https://en.wikipedia.org/wiki/Northern_Wei) and later to build an everyday plinth in [Sui Dynasty](https://en.wikipedia.org/wiki/Sui_dynasty). In hindsight, the Rosetta Stone was perhaps a tad luckier, for the fort it contributed to at least had a name!
+Second, both the Rosetta Stone and the Three-Type Stone had been moved around to different locations in history and, sadly, reused as building material. The Rosetta Stone was reused to build [Fort Julien](https://en.wikipedia.org/wiki/Fort_Julien) near a Nile Delta town called Rosetta (or Rashid in Arabic), hence its name. And different fragments of the Three-Type Stone were reused first to build a Buddhist temple in [Northern Wei Dynasty](https://en.wikipedia.org/wiki/Northern_Wei) and later to build an everyday plinth in [Sui Dynasty](https://en.wikipedia.org/wiki/Sui_dynasty). In hindsight, the Rosetta Stone was perhaps a tad luckier, for the fort it had contributed to at least had a name!
 
 Third and most obviously, both stones are carved with a single piece of text in three different scripts. I don't have anything more to say about this similarity, as it is what had made me (as well as the Taiwanese blogger and the Japanese Wikipedia) think they are similar in the first place.
 
