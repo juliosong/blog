@@ -115,20 +115,20 @@ In this six-part post I have reviewed four 19th-century Chinese language textboo
 | *A Progressive Course of Colloquial Chinese* | 4.5 | 1 | 5 | **3.5** | 2 |
 | *Chinesische Grammatik* | 5 | 4.5 | 4 | **4.5** | 1 |
 
-#### Winner: von der Gabelentz
+### Winner: von der Gabelentz
 So, von der Gabelentz's *Chinesische Grammatik* has the highest score, which it well deserves. And I'm not the only one who thinks so. As [Wikipedia](https://de.wikipedia.org/wiki/Georg_von_der_Gabelentz#Biografie) points out, the German-American sinologist [Friedrich Hirth](https://en.wikipedia.org/wiki/Friedrich_Hirth) once made the following comment on the book (the following quotation is from the [original source](https://babel.hathitrust.org/cgi/pt?id=uiug.30112108247708&view=1up&seq=547) as the Wikipedia version isn't quite accurate):
 > Of all the Chinese grammars so far published this is the most perfect, inasmuch as it unites with the fulness of Premare's work (footnote: It contains in all about 4,000 examples) the scholarly clearness of Schott's "Chinesische Sprachlehre." (Hirth 1882, a ten-page review of von der Gabelentz's 1881 *Chinesische Grammatik*, p.237)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Georg_von_der_Gabelentz) also cites [Christoph Harbsmeier](https://www.ruhr-uni-bochum.de/cstcc/mitglieder/harbsmeier_en.html)'s (1995) comment that von der Gabelentz's book "remains until today recognized as probably the finest overall grammatical survey of the Classical Chinese language to date." It seems von der Gabelentz's work has remained the best of its kind for over a century. 👏
 
-#### My wish
+### My wish
 I got curious about old Chinese textbooks during a casual chat with a friend but then ended up writing such a long post 😝. It has been a journey of learning and discovery. And in hindsight, a most important factor that has supported me through the process is the realization that, compared to modern textbooks, these 19th-century ones are neither stingy in information nor contrived in style. I could really feel the profoundness of the Chinese language as well as the authors' willingness to impart that profound body of knowledge to the reader.  
 
 In fact, I think both von der Gabelentz's book and Wade's book can still be very helpful to Chinese learners today, both to foreigners and to native speakers. What's more, they actually make a great combo, since they respectively focus on Classical and colloquial Chinese. Of course, they would need a stylish makeover 💃 to appeal to modern students, who tend to love colorful pages with fancy layouts (like the page below 👇), but the main texts, especially the five-star ones, don't really need much modification. Perhaps the next best-selling Chinese language textbook will be a 21st-century Wade & von der Gabelentz! 👑
 
 {% include figure image_path="/assets/images/chuzhongyingyu.png" alt="a page from the English textbook used in junior high schools in China" caption="A page from the English textbook used in Chinese junior high schools, which looks very colorful and pretty (and makes me feel nostalgic)" %}
 
-#### My recommendations
+### My recommendations
 But even if they don't get "upgraded," I'd still recommend them to Chinese learners, especially to learners who would like to gain a deeper understanding of Classical Chinese grammar and the Chinese writing system. My specific recommendations are as follows:
 - For a diachronically grounded understanding of Chinese pronunciation (especially for the entering tone) read the pronunciation part of *Chinesische*.
 - To learn about the initial design of the Wade-Giles romanization system read the pronunciation part of *Progressive*.
