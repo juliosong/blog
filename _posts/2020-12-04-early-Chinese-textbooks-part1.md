@@ -76,6 +76,7 @@ Rating: ★★★★✦✧ (✦✦=★)
 A clear highlight of Marshman's textbook, which is also a feature that I personally adore, is its emphasis on Chinese characters. It dedicates 80 pages to them before everything else!
 > In a language which differs so entirely from all others, it seemed impossible to do justice to either its Written or Colloquial medium, within the space generally allotted in other grammars to the letters .... To the author they seemed to deserve a separate essay. (<em>Elements</em>, Preface)
 
+#### Scholarly tone
 Moreover, these 80 pages are actually a self-contained theoretical discussion of the Chinese writing system rather than a user guide. Thus, it doesn't really teach how to write each stroke by hand, which stroke to write first, etc. or give any hand-writing homework (probably because those are better done by an instructor anyway) but is more focused on scholarly issues like the origin of Chinese characters, the principles of their formation, and so on. For instance, it introduces the [six structural classes of Chinese characters](https://en.wikipedia.org/wiki/Chinese_character_classification#Traditional_classification) with detailed illustration.
 > The Third class [is] termed <u>Tcheé-sheè</u>, "indicating the thing." ... These characters, though not pictures of things, seem intended to suggest ideas to the mind from their form and position. ...To this class, which we may term the Indicative, is said to belong 本 <u>pún</u>, which is formed by drawing a short stroke across the middle stroke of 木 <u>moǒh</u>, wood, and which then denotes the root, essence, or internal part of any thing. (*Elements*, p.21)
 
@@ -90,6 +91,7 @@ Despite glitches like this (How many textbooks are totally error-free anyway?) I
 
 {% include figure image_path="/assets/images/214-radical.png" alt="the beginning part of Marshman's glossed list of Chinese radicals" caption="A glossed list of the 214 radicals for Chinese characters (*Elements*, p.9)" %}
 
+#### Recursive character formation
 Another feature of Marshman's textbook that I like is its discussion on the recursive nature of character formation. That is, after two radicals A and B have been combined to form a character C, this compound character can in turn serve as a new quasi-radical---or an "atomized" structural unit, so to speak---and combine with another radical D to form a new compound character E. Marshman presents four levels of recursion in his book. An interesting research question is whether four is the limit of the mechanism.
 
 {% include figure image_path="/assets/images/marshman-li.png" alt="the structure of the character for pear" caption="An illustration of recursive character formation (*Elements*, pp.62–63)" %}

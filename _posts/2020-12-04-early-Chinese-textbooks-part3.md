@@ -26,6 +26,7 @@ There's no problem with that for sure---if anything it makes Morrison's textbook
 
 {% include figure image_path="/assets/images/morrison-weird.png" alt="some weird examples from Morrison's book" caption="Some problematic examples from Morrison's textbook" %}
 
+#### Bad examples
 Below I show the bizarreness of these sentences by mimicking their problematic syntax in English. The "Intended" sentences (in blue) are what Morrison wanted to say, and the "Actual" sentences (in red) are what the Chinese sentences actually sound like. <!--Note that the sentences labeled "Actual" are **not** word-for-word translations from Chinese. I'm just trying to recreate in English the same level of oddness that native speakers of Chinese get when reading Morrison's Chinese sentences.-->
 
 ☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙☙<br>
@@ -80,6 +81,7 @@ I'm not the only one who finds Morrison's examples odd. For instance, I've notic
 And I've noticed the following comment in another 19th-century sinologist's book (which isn't a textbook but a handbook):
 > Dr. Morrison's Chinese Grammar ... contains some valuable matter, but from the haste with which it appears to have been prepared for publication, and from the fact of its having been published at so early a period after Dr. Morrison's entrance upon the study, the student must not expect to derive much positively practical advantage from its perusal. (Summers 1863, [*A Handbook of the Chinese Language*](https://books.google.co.jp/books/about/A_Handbook_of_the_Chinese_Language.html?id=qpNFAAAAcAAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), Preface)
 
+#### Forced paradigms
 Apart from the ungrammatical examples, another aspect of the syntax part of Morrison's book that I don't particularly like is its procrustean imposition of the Indo-European system on Chinese. Morrison had not only painstakingly (and often wrongly) squashed Chinese grammar into Indo-European categories (e.g., gender, number, mood) but also taken a further step and applied the Indo-European inflectional paradigms to Chinese! 🤯 Of course, this is just repeating the same word form again and again, since Chinese isn't an inflectional language.<a id="morrison-inflection"></a>
 
 {% include figure image_path="/assets/images/morrison-conjugation.png" alt="Indo-European-style verb conjugation for Chinese verbs in Morrison's textbook" caption="Morrison's conjugation table for the Chinese verb 有 *you3* 'have' (*Grammar*, p.113), which is totally superfluous since Chinese verbs don't change forms." %}
@@ -121,6 +123,7 @@ Rating: ★★★★✦✧
 The pronunciation part of Wade's textbook, namely the first chapter of the first volume, is essentially a user guide for his romanization system. It explains the pronunciation of each Mandarin Chinese phoneme in crystal-clear terms and in comparison with familiar European languages like English, Italian, French, and German. For example, when teaching the vowel *ü* Wade writes:
 > When uttered alone, as it is at times for <u>yü</u>, or when a final, nearest the vowel-sound in the French <u>eût</u>, <u>tu</u>. In <u>ün</u> it is not so long as in the French <u>une</u>; but nearer the <u>ün</u> in the German <u>München</u>. (*Progressive*, Vol. I, p.4)
 
+#### Attention to details
 Wade is very good at clarifying pronunciation details. For example, when teaching the vowel *ê* (*e* in pinyin, [ɤ] in IPA), he writes:
 > Nearest approached in [British] English by the vowel-sound in <u>earth</u>, in <u>perch</u>, or in any word where <u>e</u> is followed by <u>r</u>, and a consonant not <u>r</u>; as in <u>lurk</u>. (*Progressive*, Vol. I, p.3)
 
@@ -128,6 +131,7 @@ Here Wade had carefully chosen only English words where the vowel is /ɜː/ inst
 
 Of course, for certain (difficult) phonemes Wade's explanations aren't quite accurate---such as his description of the diphthong *ou* (also *ou* in pinyin, [ou̯] in IPA) as similar to the English *ou* in *round* and *loud* (ibid., p.4) and his description of the consonant *hs* (*x* in pinyin, [ɕ] in IPA) as "a slight aspirate preceding and modifying the sibilant" (p.5)---but other than such occasional glitches I've found Wade's phonetic descriptions both accurate and easy to follow.
 
+#### Tones and aspiration
 In addition to the careful and detailed phonetic descriptions, another thing about Wade's pronunciation part that I appreciate is his repeated emphasis on the importance of tones and aspiration. In his own words:
 > The full recognition of the aspirate's value is of the last importance; the tones themselves are not of more. A speaker who says <u>kan</u> when he ought to say <u>khan</u> might as well speak of Loudon for London. (*Progressive*, Vol. I, p.7)
 

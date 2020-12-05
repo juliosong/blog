@@ -23,6 +23,7 @@ Rating: ★★★✦✧☆
 I have mixed feelings about the syntax part of Marshman's textbook. It certainly has an impressively comprehensive coverage of function words, including auxiliary verbs, prepositions, final particles, and so forth. For instance, in the section on degree comparative expressions the author makes the following remark, which I quite agree to and don't find pompous at all.
 > I have reason to think, that there is scarcely any mode of expressing comparison used either in respectable works, or in correct conversation, which will not co-incide [sic] with some one of the examples given. (*Elements*, p.295)
 
+#### Many pros
 Then, in the section on numerals, Marshman surprisingly gives out names of some very large numbers (e.g., 京 *jing1* 'ten million', 垓 *gai1* 'a hundred million') that are seldom if ever taught in modern textbooks. He also gives a detailed introduction of the three parallel numerical systems used for different purposes (I think only two of them are still in use now). I have to admit that hadn't even heard of the third system. 😅
 
 {% include figure image_path="/assets/images/marshman-number.png" alt="the third numerical notation system in Marshman's textbook" caption="1–9 in the third numerical notation system introduced in Marshman's textbook, which was used among merchants and traders in the 19th century (*Elements*, p.312)" %}
@@ -32,6 +33,7 @@ I can't exhaust the positive notes I made while reading the syntax part of the t
 
 > In thus tracing the various ways in which the Chinese express the degrees of comparison, it is easy to perceive that the same principle pervades this part of their grammar, [namely,] that of causing certain characters used occasionally as verbs ... to drop all idea of time as well as of mood and person, and to perform the humble office of comparative particles. (*Elements*, pp.295–296)
 
+#### Some cons
 The above said, however, there do also exist a couple things in the syntax part of Marshman's textbook that I dislike. First off, Marshman mixes examples from written and spoken Chinese but doesn't always tell readers which Chinese variety his particular examples are from. This may mislead foreign students.
 
 **Note:** Up till early 20th century, the spoken language and the (official) written language in China were in fact two separate language varieties. People spoke Early Modern Chinese (16th–19th centuries) but wrote in mid-to-late [Old Chinese](https://en.wikipedia.org/wiki/Old_Chinese) (8th–3th centuries B.C.E.), aka [Classical Chinese](https://en.wikipedia.org/wiki/Classical_Chinese) (文言文).

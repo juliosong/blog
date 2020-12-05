@@ -58,6 +58,7 @@ Rating: ★★★★★
 
 Despite my low rating of the overall structure of von der Gabelentz's (unabridged) textbook, when it comes the detailed content of each individual chapter, I actually find the author's descriptions and notes surprisingly informative. I give the pronunciation part of von der Gabelentz's textbook five stars based on the following three reasons.
 
+#### Entering tone
 First and foremost, an absolutely unique thing that von der Gabelentz does in his textbook is that he clearly and precisely marks all the [entering-tone](https://en.wikipedia.org/wiki/Checked_tone) characters in his romanization system, even though the entering tone had already vanished from Beijing Mandarin at his time. As for the motivation, he writes:
 > Es ist zweckmässig, in die Umschreibung die alten Auslaute **m, k, t** und **p** mit aufzunehmen. Erstens ... erleichtert sich dadurch einerseits das Verständniss der Reime und andererseits die Erlernung anderer Dialecte. Zweitens dürften sich gerade die volllautigeren Formen dem Gedächtnisse bequemer einprägen als die verschliffenen. 日 <u>žit</u>, Sonne, und 入 <u>žip</u>, eintreten, 力 <u>lik</u>, Kraft, und 立 <u>lip</u>, stehen, 心 <u>sīm</u>, Herz, und 新 <u>sīn</u>, neu u. s. w., tragen sozusagen ausgeprägtere Züge als <u>žih</u>, <u>lih</u>, <u>sīn</u>. Nur vergesse man nicht, dass es sich hierbei um blosse Hülfsconstructionen handelt: ausser jenen Schlussconsonanten ist Alles modern. (*Chinesische*, p.30)<br><br>
 > "It is practical to include the old final sounds **m, k, t** and **p** in the transcription. First, ... both the understanding of the rhymes and the learning of other dialects become easier in that way. Second, the fuller sound forms could just be easier to memorize than the slurred ones. So to speak, 日 <u>žit</u> 'sun' and 入 <u>žip</u> 'enter', 力 <u>lik</u> 'strength' and 立 <u>lip</u> 'stand', 心 <u>sīm</u> 'heart' and 新 <u>sīn</u> 'new', and so on carry more distinctive characteristics than <u>žih</u>, <u>lih</u>, <u>sīn</u>. One should only not forget that what is involved here are merely auxiliary constructions: everything is modern except for these final consonants."
@@ -66,12 +67,14 @@ And on the same page he further explains:
 > Auslautende, einfache Vocale, mit oder ohne vorhergehendem Halbvocal, werden lang oder doch scharf gesprochen; graphisches **k, t, p** dagegen zeigt an, dass der vorausgehende Vocal kurz abzubrechen ist, wie im französischen <u>mot</u>, <u>trop</u>. Die Pekinger Mundart hat auch diese Spur der auslautenden mutae verloren.<br><br>
 > "Final, simple vowels, with or without a preceding semivowel, is uttered long or rather harsh; the graphic **k, t, p**, in comparison, indicate that the previous vowel should be broken off short, as in the French <u>mot</u>, <u>trop</u>. The Beijing vernacular has also lost this trace of final changes."
 
+#### Conservativeness
 Second, von der Gabelentz lists the vowels and consonants of Chinese right at the beginning of his pronunciation part, which is a component that I've wanted to see but haven't seen in the other textbooks. The accompanying pronunciation guide is also pretty straightforward. Overall I get the feeling that von der Gabelentz's romanization system is a rather conservative one, which tries to preserve many ancient features. The above-mentioned entering tone is just one such feature. Other examples include the diphthong *eu* (which had become *ou* in the 19th century), the unpalatalized combinations *ki* and *k'i* (which had become *tsi/ts'i* or *či/č'i'* in Beijing Mandarin), the postsibilant *in/ing* (which had become *en/eng*), etc. Thus, the following characters are transcribed in a slightly different way from how they are actually pronounced (I provide the actual pronunciations in parentheses in von der Gabelentz's style):
 
 (1) 頭 *t'eû* (*t'oû*), 輕 *k'īng* (*č'īng*), 正 *číng* (*čéng*)
 
 In accordance with this systematic conservativeness, von der Gabelentz also gives a detailed description of the differences between the phonological system in *Kangxi Dictionary* (which is basically inherited from Middle Chinese) and that in 19th-century Beijing Mandarin (pp.27–31). This is quite interesting from a linguistic perspective, but again ordinary language learners probably wouldn't want to go that deep.
 
+#### Multiple dialects
 Third, the section on crossdialectal variation in von der Gabelentz's textbook is also a lot more informative than that in the other textbooks. In particular, it contains two multipage tables presenting the initial and final sound counterparts in some ten dialects.
 
 {% include figure image_path="/assets/images/gabelentz-dialects.png" alt="crossdialectal speech sound comparison in von der Gabelentz's textbook" caption="Tables of speech sound comparison across Chinese dialects (*Chinesische*, pp.36–40)" %}
@@ -89,14 +92,17 @@ The character part in von der Gabelentz's textbook is again surprisingly informa
 - their calligraphy, and
 - their historical usage as phonetic symbols for loan words.
 
+#### Character statistics
 Each of these aspects are accompanied by ample illustration, and again the author pays a lot of attention to the details. For instance, in the section about the traditional classification of characters, he not only lists the class names but also gives a number for each class based on statistics from a certain dictionary, so that readers can get an impression of the relative proportions of the six classes.
 
 {% include figure image_path="/assets/images/gabelentz-liushu.png" alt="table of character classification in von der Gabelentz's textbook" caption="Six traditional classes of Chinese characters and their statistics (*Chinesische*, p.47; data from Summers' 1863 [*Handbook of the Chinese Language*](https://books.google.co.uk/books/about/A_Handbook_of_the_Chinese_Language.html?id=qpNFAAAAcAAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false))" %}
 
+#### Stroke names
 And in the section on the lexicographic ordering of characters, von der Gabelentz also gives the huge table with the 214 radicals from *Kangxi Dictionary*, but apart from that he also gives a smaller table of the basic strokes, together with their names and variant forms. Some of the names sound a bit alien to me but maybe that's because I only know the modern colloquial names of these strokes. 😅
 
 {% include figure image_path="/assets/images/gabelentz-bihua.png" alt="table of basic strokes in von der Gabelentz's textbook" caption="The basic strokes of Chinese characters (*Chinesische*, p.59)" %}
 
+#### Punctuation
 Even the punctuation bit in von der Gabelentz's book contains more details than that in the other books. For instance, it not only introduces the usual Classical Chinese punctuation marks but also lists a few commonly used special symbols, including two placeholder symbols and two text adjustment symbols.
 
 {% include figure image_path="/assets/images/gabelentz-fuhao.png" alt="some special symbols in Chinese texts taught in von der Gabelentz's textbook" caption="Four special symbols commonly used in pre–20th century Chinese books: two vertically stacked points ⺀ for character repetition, an empty square ⼞ for a missing character, two vertically stacked face-to-face wedges ː to switch character positions, and a freehand circle ⸰ to delete a character (*Chinesische*, p.59)" %}
@@ -105,6 +111,7 @@ Von der Gabelentz doesn't draw the character-deleting circle for us, so I've fou
 
 {% include figure image_path="/assets/images/gabelentz-shanchuhao.png" alt="the old character-deleting symbol used in a 20th-century Chinese book" caption="The old character-deleting symbol used in a 20th-century Chinese book (Tang Lan, *An Introduction to the Study of Ancient Chinese Scripts*). The two characters in the red rectangle each carries a cursorily drawn circle, which indicates that they've been deleted from the text." %}
 
+#### Missing info
 The only piece of information that I've found in Marshman's book but haven't in von der Gabelentz's is that on recursive character formation, though I've notice something vaguely relevant:
 > Besteht von den beiden Theilen der eine aus einem Radicale, der andere aus einer Zusammensetzung mehrerer Radicale, so gehört in der Regel das Schriftzeichen unter jenen ersteren Radical. Also 慾 <u>yuk</u>, lüstern, 61 + (150 + 75), unter 61, 智 <u>čí</u>, Weisheit, unter 72. Ausnahme z. B. 楚 <u>ts'ù</u>, Dickicht, unter 75, nicht unter 103. (*Chinesische*, p.75)<br><br>
 > "If one of the two parts [of a compound character] consists of a single radical and the other consists of a combination of multiple radicals, then the character normally falls under the former radical. So 慾 <u>yuk</u> 'lustful' 61 + (150 + 75) falls under Radical 61, and 智 <u>čí</u> 'wisdom' falls under Radical 72. Exceptions [to this general rule include,] for example, 楚 <u>ts'ù</u> 'thicket', [which falls] under Radical 75 instead of Radical 103."

@@ -39,10 +39,12 @@ Let's suppose a 19th-century English student had managed to meet the character p
 
 At least that's how I felt when I read Part III of Wade's textbook, though I'm a native Chinese speaker and so my perspective might be biased. Anyway, there are several aspects of the syntax part of Wade's book that I like a lot and don't think one can find in either Marshman's or Morrison's book.
 
+#### Content words
 First, Wade provides explanations not only for the function words but also for the content words. For example, in the first excerpt below he teaches the Chinese words for "house," "room," and "shop" as well as their classifiers (which Wade calls "numeratives"), and in the second excerpt he teaches the three motion verbs "stand," "recline," and "sit," accompanied by some glossed examples and helpful notes on their semantic subtleties (e.g., 走 is necessarily on foot but 走道兒 isn't).
 
 {% include figure image_path="/assets/images/wade-content-words.png" alt="content word explanations in Wade's textbook" caption="Some notes on content words in Wade's textbook (*Progressive*, Vol. II, p.17, p.22)" %}
 
+#### Variant characters
 Second, Wade gives [variant characters](https://en.wikipedia.org/wiki/Variant_Chinese_character) (aka allographs) when they exist and also explains their differences. There used to be many freely interchangeable variant characters in parallel use. Most textbooks nowadays only teach the officially recommended character forms and don't give allographs at all (though dictionaries still list them), while Marshman's and Morrison's books in most cases simply adopt one of the allographs without any comments. However, since [allography](https://en.wikipedia.org/wiki/Allography) is an important aspect of the diachronic and synchronic reality of the Chinese writing system, and students will certainly meet them in real life, it'd be very considerate of textbook compilers to include some notes and examples for them.
 
 {% include figure image_path="/assets/images/wade-yitizi.png" alt="explanations of variant characters in Wade's textbook" caption="Some notes on character allographs in Wade's textbook (*Progressive*, Vol. II, p.21, p.37, p.62, p.94)" %}
@@ -51,6 +53,7 @@ Admittedly, there are lots of cases where Wade either fails to explain the inter
 
 {% include figure image_path="/assets/images/wade-yitizi-missing.png" alt="missing variant characters in Wade's textbook" caption="Some cases in Wade's textbook where allographs are not mentioned or not properly explained: 回 can also be written as 囘/囬, 牕 as 窗/窻, 教 as 敎, 眞 as 真, 牀 as 床, 盃 as 杯/桮, and 喫 is the older and more &ldquo;authentic&rdquo; variant of 吃 (*Progressive*, Vol. II, p.21, p.22, p.27, p.28, p.37, p.38)" %}
 
+#### Teaching via dialogs
 Third, Wade teaches syntax (in Part VIII) via a series of dialogs between two linguistically curious people---a Chinese man and an English man who has apparently learned Chinese to an advanced level---like in a TV show 📺. So, instead of directly listing grammatical points as most other textbooks do, Wade lets the two roles converse about them. This style of teaching is both creative and efficient even from a 21st-century perspective. See the excerpt below (on category, syntax, subject, and predicate) for an example:
 
 **Chinese text** (*Progressive*, Vol. I, pp.346–347)
@@ -79,6 +82,7 @@ Even though the dialog style is gradually replaced by a monolog style (and somet
 
 In my opinion, such an aboveboard recognition that Chinese doesn't have the kind of verbal category like that in European languages (which inflects for mood, tense, voice, etc.) is much more acceptable and accurate than the quasi inflectional paradigms given in Morrison's book (see [Part 3]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part3 %}#morrison-inflection) for an example).
 
+#### Authentic colloquial Chinese
 Last but not least, the colloquial Chinese in Wade's textbook feels a lot more authentic than that in Morrison's textbook, which corroborates my earlier intuition that many of Morrison's sentences are actually wrong. I especially like Wade's choices of words. Take the following excerpts from Part V for example.
 > 你看這種賤貨，竟不是個人哪！長得活脫兒的，像他老子一個樣，越瞧越討人嫌。不論是到那兒，兩隻眼睛擠顧擠顧的，任甚麼兒看不見。 (*Progressive*, Vol. I, p.200)<br><br>
 > "Just see what a miserable creature that is; he is not a man at all; he is a beast; the very counterpart of his father; the more one sees of him the more he disgusts one. Wherever he goes he gets into the same scrape; his eyes are so closed up that he can't see." (*Progressive*, Vol. II, p.291)
