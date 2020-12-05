@@ -6,14 +6,14 @@ header:
   overlay_image: /assets/images/stamps2.png
   show_overlay_excerpt: false
   image_description: "some old Chinese stamps"
-  caption: "Some old Chinese stamps with Wade-Giles spelling (image source: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
+  caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
 ---
 
 In this part I continue to share my personal impressions of 19th-century Chinese language textbooks. I'll finish off my review of Marshman's book and then start reviewing Morrison's book.
 
-[Link to Part 1]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part1 %})
+[Go back to Part 1]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part1 %})
 
 ## 1. *Elements of Chinese Grammar* (continued)
 
@@ -23,7 +23,7 @@ Rating: ★★★✦✧☆
 I have mixed feelings about the syntax part of Marshman's textbook. It certainly has an impressively comprehensive coverage of function words, including auxiliary verbs, prepositions, final particles, and so forth. For instance, in the section on degree comparative expressions the author makes the following remark, which I quite agree to and don't find pompous at all.
 > I have reason to think, that there is scarcely any mode of expressing comparison used either in respectable works, or in correct conversation, which will not co-incide [sic] with some one of the examples given. (*Elements*, p.295)
 
-Then, in the section on numerals, Marshman surprisingly gives out names of some very large numbers (e.g., 京 *jing1* 'ten million', 垓 *gai1* 'a hundred million') that are seldom if ever taught in modern textbooks. He also gives a detailed introduction of the three parallel numerical systems used for different purposes (I think only two of them are still in use now). I hadn't known about the third system.
+Then, in the section on numerals, Marshman surprisingly gives out names of some very large numbers (e.g., 京 *jing1* 'ten million', 垓 *gai1* 'a hundred million') that are seldom if ever taught in modern textbooks. He also gives a detailed introduction of the three parallel numerical systems used for different purposes (I think only two of them are still in use now). I have to admit that hadn't even heard of the third system. 😅
 
 {% include figure image_path="/assets/images/marshman-number.png" alt="the third numerical notation system in Marshman's textbook" caption="1–9 in the third numerical notation system introduced in Marshman's textbook, which was used among merchants and traders in the 19th century (*Elements*, p.312)" %}
 
@@ -37,10 +37,10 @@ The above said, however, there do also exist a couple things in the syntax part 
 **Note:** Up till early 20th century, the spoken language and the (official) written language in China were in fact two separate language varieties. People spoke Early Modern Chinese (16th–19th centuries) but wrote in mid-to-late [Old Chinese](https://en.wikipedia.org/wiki/Old_Chinese) (8th–3th centuries B.C.E.), aka [Classical Chinese](https://en.wikipedia.org/wiki/Classical_Chinese) (文言文).
 {: .notice--info}
 
-Second, Marshman tries to squash Chinese into the Indo-European grammatical framework and frequently confuses morphosyntactic and semantic concepts. For instance, in the section entitled "Of the tenses" he writes:
+Second, Marshman tries to squash Chinese into the Indo-European grammatical framework and frequently confuses formal and conceptual concepts. For instance, in the section entitled "Of the tenses" he writes:
 > In the standard writings of the Chinese are to be traced Five Tenses evidently distinct from each other; the Aorist, the Present tense, the Perfect, the Past connected with time, and the Future. (*Elements*, p.431)
 
-Statements like this make Chinese sound akin to European languages, when in fact "tenses" in the former and those in the latter are totally different things. In order not to mislead the uninitiated, I think the author should have made it clear that he was merely using "tense" (and other similar Indo-European terms) for Chinese on a semantic level---there are tense-like **meanings** in the language (well, basically in any human language) but no **formal** tools to mark them. But okay, this might be too demanding for a 19th-century textbook... 😅
+Statements like this make Chinese sound akin to European languages, when in fact "tenses" in the former and those in the latter are totally different things. In order not to mislead the uninitiated, I think the author should have made it clear that he was merely using "tense" (and other similar Indo-European terms) for Chinese on a conceptual level---there are tense-like **concepts** in the language, of course, as in every other human language, but there are no **formal** tools to mark them, nor do they play any role in syntactic rules. But okay, such a strict distinction between semantics and syntax might be too futuristic for a 19th-century textbook. 😅
 
 Third, I've come across quite a few "Indo-European-supremacist" remarks in the syntax part of the book. For instance, the author described European languages as more "cultivated" several times (e.g., on p.371) and once also termed inflectional languages like Sanskrit and Greek as "highly polished" (p.405). This probably was part of the general atmosphere back in early 19th century, but considering the book is still influential now (e.g., it has a 2013 [new edition](https://www.cambridge.org/core/books/elements-of-chinese-grammar/AC053835CE2E9116B0432332F6DB916A)), I worry that it may accidentally (re)sow discrimination among linguistically inexperienced readers.
 
@@ -77,7 +77,7 @@ To be honest, I don't see the point of putting such an exhaustive table of examp
 2. How to pronounce each consonant/vowel (ideally with IPA or at least in comparison with a language I know, say English)?
 3. What special pronunciation rules (such as intonation rules) are there in the language?
 
-While these questions are dealt with in almost every foreign language textbook today (e.g., the *Colloquial* series) and also all tackled in Marshman's book, in Morrison's book we can only find partial answers to the second and third questions. So, instead of listing all the syllables of the language---which I really think should be in an appendix rather than the main text---perhaps the author should have provided a list of Chinese phonemes (i.e., consonants and vowels) instead. The book does have a dedicated section on tones, but again the explanation is rather cursory, and again quite some space is occupied by a long table (for tone practice).
+While these questions are dealt with in almost every foreign language textbook today (e.g., Routledge's [*Colloquial*](https://www.routledgetextbooks.com/textbooks/colloquial/) series) and also all tackled in Marshman's book, in Morrison's book we can only find partial answers to the second and third questions. So, instead of listing all the syllables of the language---which I really think should be in an appendix rather than the main text---perhaps the author should have provided a list of Chinese phonemes (i.e., consonants and vowels) instead. The book does have a dedicated section on tones, but again the explanation is rather cursory, and again quite some space is occupied by a long table (for tone practice).
 
 {% include figure image_path="/assets/images/morrison-tone-table.png" alt="the beginning part of the tone-practicing table in Morrison's textbook" caption="The tone-practicing table in Morrison's textbook (*Grammar*, p.22)" %}
 
@@ -91,10 +91,10 @@ Rating: ★☆☆☆☆
 
 The character part of Morrison's book is also very short, with only 11 pages. And half of those pages are yet again occupied by a huge table---this time by one of the 214 radicals. I won't complain about that since a similar table is also contained in Marshman's book, which simply means that character learning was considered a very important part of Chinese learning in the 19th century---perhaps even more so than grammar learning.
 
-There's an old Chinese saying, [讀書百遍其義自見](https://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=93316&tcLanguage=en), which says that if you read a book (i.e., a Classical Chinese work) for a hundred times its meaning will automatically become clear to you. This is probably not scientifically true, but it's indeed how children used to acquire the written language back in the long history of imperial China---via extensive reading. However, the only prerequisite that a pupil did have to obtain from a teacher first was knowledge of the characters (or at least the theory of their formation), without which there was no way to start the reading-a-hundred-time process. 📚
+There's an old Chinese saying, [讀書百遍其義自見](https://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=93316&tcLanguage=en), which says that if you read a book (i.e., a Classical Chinese work) for a hundred times its meaning will automatically become clear to you. This is probably not scientifically true, but it's indeed how children used to acquire the written language back in the long history of imperial China---via extensive reading 📚. However, the only prerequisite that a pupil did have to obtain from a teacher first was knowledge of the characters (or at least the theory of their formation), without which there was no way to start the reading-a-hundred-times process. I guess this is partly the reason why character learning was deemed so important in the past. 🀄️
 
 {% include figure image_path="/assets/images/morrison-radical.png" alt="the beginning part of the radical table in Morrison's textbook" caption="The radical table in Morrison's textbook (*Grammar*, p.28)" %}
 
-One aspect about Chinese writing that's mentioned in Morrison's book (albeit only in passing) but not in Marshman's book is guidance on how to hold an [ink brush](https://en.wikipedia.org/wiki/Ink_brush) (p.25), which Morrison for some reason called a "hair pencil" 💇‍♀️✏️---a term that sounds like a word-for-word translation from Chinese *mao2 bi3* (毛筆). But since Morrison's character part is very cursorily written and doesn't teach the character formation principles at all after teaching the radicals, I wouldn't recommend this part to Chinese learners either.
+One thing about Chinese characters that's mentioned in Morrison's book (albeit only in passing) but not in Marshman's book is how to hold an [ink brush](https://en.wikipedia.org/wiki/Ink_brush) (p.25), which Morrison for some reason called a "hair pencil" 💇‍♀️✏️---a term that sounds like a word-for-word translation from Chinese *mao2 bi3* (毛筆). But since Morrison's character part is very cursorily written and doesn't teach the character formation principles at all after teaching the radicals, I wouldn't recommend this part to Chinese learners either.
 
-[Link to Part 3]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part3 %})
+[Proceed to Part 3]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part3 %})

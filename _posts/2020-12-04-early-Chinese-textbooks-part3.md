@@ -6,14 +6,14 @@ header:
   overlay_image: /assets/images/stamps2.png
   show_overlay_excerpt: false
   image_description: "some old Chinese stamps"
-  caption: "Some old Chinese stamps with Wade-Giles spelling (image source: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
+  caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
 ---
 
 This is the third part of this long post. In this part I'll present my remaining review for Morrison's book and then turn to Wade's seminal work.
 
-[Link to Part 2]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part2 %})
+[Go back to Part 2]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part2 %})
 
 ## 2. *A Grammar of the Chinese Language* (continued)
 
@@ -22,7 +22,7 @@ Rating: ✦✧☆☆☆☆
 
 As aforementioned, Morrison mainly teaches colloquial instead of  Classical Chinese in his textbook. This is most clearly reflected in the syntax part, where most if not all examples as well as the grammatical points they illustrate are colloquial in nature. 🗣
 
-There's no problem with that at all---if anything it makes Morrison's textbook in principle a great supplement to most other Chinese textbooks of its time---but unfortunately many example sentences in the book are actually wrong, and some of them are so badly formulated that I can't even parse them without looking at the English translations. The picture below shows a selected few of the problematic examples in Morrison's book.
+There's no problem with that for sure---if anything it makes Morrison's textbook in principle a great supplement to most other contemporaneous textbooks---but unfortunately many example sentences in the book are actually wrong, and some of them are so badly formulated that I can't even parse them without looking at the English translations. The picture below shows a selected few of the problematic examples in Morrison's book.
 
 {% include figure image_path="/assets/images/morrison-weird.png" alt="some weird examples from Morrison's book" caption="Some problematic examples from Morrison's textbook" %}
 
@@ -92,7 +92,7 @@ Due to the highly problematic nature of its syntax part as well as the uninforma
 
 ## 3. *A Progressive Course of Colloquial Chinese*
 
-The third 19th-century Chinese textbook I'd like to review is the famous [*Yuyan Zi'er Ji*](https://www.google.com/books/edition/Yü_yen_Tzŭ_erh_Chi_a_Progressive_Cours/fTNMAAAAcAAJ?hl=en&gbpv=0) (語言自邇集) by [Thomas Francis Wade](https://en.wikipedia.org/wiki/Thomas_Francis_Wade) (1867), or *Yü-yen Tzŭ-êrh Chi* in the romanization system invented by the author (i.e., the immensely influential [Wade-Giles romanization system](https://en.wikipedia.org/wiki/Wade–Giles). Since the English name of the book is too long (see below), I've truncated it a bit to *A Progress Course of Colloquial Chinese*, henceforth *Progressive*.
+The third 19th-century Chinese textbook I'd like to review is the famous [*Yuyan Zi'er Ji*](https://www.google.com/books/edition/Yü_yen_Tzŭ_erh_Chi_a_Progressive_Cours/fTNMAAAAcAAJ?hl=en&gbpv=0) (語言自邇集) by [Thomas Francis Wade](https://en.wikipedia.org/wiki/Thomas_Francis_Wade) (1867), or *Yü-yen Tzŭ-êrh Chi* in the romanization system invented by the author (i.e., the immensely influential [Wade-Giles romanization system](https://en.wikipedia.org/wiki/Wade–Giles)). Since the English name of the book is too long (see below), I've truncated it a bit to *A Progress Course of Colloquial Chinese*, henceforth *Progressive*.
 
 **Full title:** *A Progressive Course Designed to Assist the Student of Colloquial Chinese as Spoken in the Capital and the Metropolitan Department* 😝
 
@@ -101,24 +101,24 @@ Rating: ★★★☆☆
 
 While the previous two textbooks both consist of just one volume, Wade's textbook consists of three volumes. Volume I has a part on pronunciation, a part on radicals, and the Chinese texts for all the grammatical lessons (from the third part on). No English translations or explanations are provided whatsoever---those can only be found in Volume II. In addition, Volume II also contains all the grammatical notes. Thus, I guess one could fairly say that the actual textbook in Wade's "trilogy" is the second volume, while the first and third volumes are just two book-length appendices. Volume III, by the way, is a collection of glossaries and other similar tables of reference.
 
-{% include figure image_path="/assets/images/wade-toc.png" alt="tables of contents for Wade's three-volume textbook series" caption="Tables of contents for *Progressive* (2nd ed., 1886) (sorry about the small size 😝)" %}
+{% include figure image_path="/assets/images/wade-toc.jpg" alt="tables of contents for Wade's three-volume textbook series" caption="Tables of contents for *Progressive* (2nd ed., 1886) (sorry about the small size 😝)" %}
 
 I don't understand why Wade had decided to separate the Chinese texts and their English explanations, or the exercises and their keys, in two volumes. It's not like a single book containing both components would be too thick or anything. Even if we keep the repeated Chinese texts (i.e., those in the third part) and all the front and back matters, the total number of pages in Volumes I & II is still well under 1000.
 
-Due to its popularity, Wade' textbook was reprinted multiple times. This review is based on the second edition from 1886, because it is the edition whose three volumes are all freely available online (see below for links).  
+Due to its popularity, Wade's textbook was reprinted multiple times. This review is based on the second edition from 1886, because it is the edition whose three volumes are all freely available online 👇
 
-That said, I actually quite like the page layout in the first edition, because it has the traditional Chinese typographical style and also has a new character list section accompanying each lesson in the third part. It's a shame that the author had decided to remove them in the second edition. Yes, those lists can still be found in Volume III, but the new design is much less user-friendly, for students must now carry all three books or at least two of them to the classroom for the grammatical lessons. 🎒😧
+Links (2nd ed.): [Vol. I](https://play.google.com/store/books/details/Thomas_Francis_Wade_Chinese_text?id=2D9BAQAAMAAJ), [Vol. II](https://play.google.com/store/books/details/Thomas_Francis_Wade_English_text?id=mUBBAQAAMAAJ), [Vol. III](https://play.google.com/store/books/details/Thomas_Francis_Wade_Yu_Yen_Tzu_Erh_Chi_a_Progressi?id=EsdAAQAAMAAJ)
+
+That said, I actually quite like the page layout in the first edition, because it has the traditional Chinese typographical style and also has a new character list accompanying each lesson in the third part. It's a shame that the author had decided to remove them in the second edition. Yes, those lists can still be found in Volume III, but the new design is much less user-friendly, for students must now carry all three books or at least two of them to the classroom for grammar lessons. 🎒😧
 
 {% include figure image_path="/assets/images/wade-editions.png" alt="two editions of Wade's textbook" caption="A comparison of the first and the second edition of *Progressive* (Wade 1867/1886)" %}
 
 Despite my dissatisfaction with the volume organization of Wade's textbook, I still give its structure three stars considering its comprehensiveness.
 
-Links for *Progressive* (2nd ed.): [Vol. I](https://play.google.com/store/books/details/Thomas_Francis_Wade_Chinese_text?id=2D9BAQAAMAAJ), [Vol. II](https://play.google.com/store/books/details/Thomas_Francis_Wade_English_text?id=mUBBAQAAMAAJ), [Vol. III](https://play.google.com/store/books/details/Thomas_Francis_Wade_Yu_Yen_Tzu_Erh_Chi_a_Progressi?id=EsdAAQAAMAAJ)
-
 ### Pronunciation part
 Rating: ★★★★✦✧
 
-The pronunciation part of Wade's textbook, namely the first chapter of the first volume, is essentially a user guide for his romanization system. It explains the pronunciation of each Mandarin Chinese phoneme in crystal-clear terms and in comparison with familiar European languages like English, Italian, French, and German. For example, when teaching the vowel *ü* he writes:
+The pronunciation part of Wade's textbook, namely the first chapter of the first volume, is essentially a user guide for his romanization system. It explains the pronunciation of each Mandarin Chinese phoneme in crystal-clear terms and in comparison with familiar European languages like English, Italian, French, and German. For example, when teaching the vowel *ü* Wade writes:
 > When uttered alone, as it is at times for <u>yü</u>, or when a final, nearest the vowel-sound in the French <u>eût</u>, <u>tu</u>. In <u>ün</u> it is not so long as in the French <u>une</u>; but nearer the <u>ün</u> in the German <u>München</u>. (*Progressive*, Vol. I, p.4)
 
 Wade is very good at clarifying pronunciation details. For example, when teaching the vowel *ê* (*e* in pinyin, [ɤ] in IPA), he writes:
@@ -128,7 +128,7 @@ Here Wade had carefully chosen only English words where the vowel is /ɜː/ inst
 
 Of course, for certain (difficult) phonemes Wade's explanations aren't quite accurate---such as his description of the diphthong *ou* (also *ou* in pinyin, [ou̯] in IPA) as similar to the English *ou* in *round* and *loud* (ibid., p.4) and his description of the consonant *hs* (*x* in pinyin, [ɕ] in IPA) as "a slight aspirate preceding and modifying the sibilant" (p.5)---but other than such occasional glitches I've found Wade's phonetic descriptions both accurate and easy to follow.
 
-In addition to the careful and detailed phonetic descriptions, another thing about Wade's pronunciation part that I appreciate is his repeated emphasis on the importance of tones and aspiration when foreigners learn to speak Chinese. In his own words:
+In addition to the careful and detailed phonetic descriptions, another thing about Wade's pronunciation part that I appreciate is his repeated emphasis on the importance of tones and aspiration. In his own words:
 > The full recognition of the aspirate's value is of the last importance; the tones themselves are not of more. A speaker who says <u>kan</u> when he ought to say <u>khan</u> might as well speak of Loudon for London. (*Progressive*, Vol. I, p.7)
 
 > Tones.---There is no subject on which it is more important to write, and none on which it is harder to avoid repeating what has been said by others. (ibid.)
@@ -138,7 +138,7 @@ Wade also explains why he had chosen the "inverted comma" (more exactly the [spi
 
 Thus, in Wade's romanization system 平 'flat, even' is transcribed as *p&lsquo;ing<sup>2</sup>* instead of *phing<sup>2</sup>*, and 歎 'exclaim, sigh' is transcribed as *t&lsquo;an<sup>4</sup>* instead of *than<sup>4</sup>*. In fact, since Wade was already using superscripts to mark tones, he could have used them to mark aspiration as well, as in standard IPA [p<sup>h</sup>ing] and [t<sup>h</sup>an]---but of course IPA had yet to be invented back in 1867!
 
-Also, although Wade had considered his "inverted comma" notation for aspiration both well-chosen and indispensable, its actual usage gradually became messy in later spreading of the romanization system, with the aspiration symbol (as well as the tones) often being left out for aesthetic reasons, as in place names like *Tsingtao* (靑島) and *Taipei* (臺北), which more precisely should be transcribed as *Ts&lsquo;ing<sup>1</sup>-tao<sup>3</sup>* and *T&lsquo;ai<sup>2</sup>-pei<sup>3</sup>*.
+Also, although Wade had considered his "inverted comma" notation for aspiration both well-chosen and indispensable, its actual usage gradually became messy in the later spreading of the romanization system, with the aspiration symbol (as well as the tones) often being left out for aesthetic reasons, as in place names like *Tsingtao* (靑島) and *Taipei* (臺北), which more precisely should be transcribed as *Ts&lsquo;ing<sup>1</sup>-tao<sup>3</sup>* and *T&lsquo;ai<sup>2</sup>-pei<sup>3</sup>*.
 
 {% include figure image_path="/assets/images/tsingtao-beer.jpg" alt="many bottles of Tsingtao beer" caption="Tsingtao or more precisely Ts&lsquo;ing<sup>1</sup>-tao<sup>3</sup> beer (photo credit: Reuters via [Nikkei Asia](https://asia.nikkei.com/Business/Asahi-aims-to-sell-Tsingtao-Brewery-stake-go-solo-in-China))" %}
 
@@ -146,4 +146,4 @@ However, since such sloppy usage is not Wade's fault, and since the pronunciatio
 
 P.S. Like Morrison, Wade gives a huge table for tone practice in his textbook (pp.10–17). However, I won't complain about that or let it affect my rating because, unlike Morrison, Wade also gives plenty of explanatory text besides the table.
 
-[Link to Part 4]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part4 %})
+[Proceed to Part 4]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part4 %})
