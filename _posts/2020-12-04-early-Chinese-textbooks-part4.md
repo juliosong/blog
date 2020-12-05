@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 In [Part 3]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part3 %}) I finished reviewing Morrison's textbook and also began reviewing Wade's textbook. In this part I'll continue to comment on the character and the syntax part of Wade's book.

@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 In this part I continue to share my personal impressions of 19th-century Chinese language textbooks. I'll finish off my review of Marshman's book and then start reviewing Morrison's book.

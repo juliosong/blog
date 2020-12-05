@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 In [Part 4]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part4 %}) I finished my review of Wade's textbook and gave it the highest rating among all the 19th-century textbooks I've reviewed so far. In this part I'll turn to the last textbook I'd like to review: von der Gabelentz's *Chinesische Grammatik* (in German).

@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 In [Part 5]({{ site.baseurl }}{% post_url 2020-12-04-early-Chinese-textbooks-part5 %}) I finished reviewing the pronunciation and character parts of von der Gabelentz's textbook. In this final part I'll continue to review its syntax part. Then I'll wrap up this long blogpost with a short conclusion. Thanks for reading till here! 😊

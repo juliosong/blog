@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 This is the third part of this long post. In this part I'll present my remaining review for Morrison's book and then turn to Wade's seminal work.

@@ -9,6 +9,7 @@ header:
   caption: "Some old Chinese stamps (credit: [bolanjiyou's sina blog](http://blog.sina.com.cn/s/blog_696905330102vai7.html))"
   teaser: /assets/images/stamps2.png
 toc: true
+toc_sticky: true
 ---
 
 Recently I was having this conversation with a (hyper)polyglot friend---who had already inspired [a post](https://blog.juliosong.com/language%20learning/linguistics/linguistics-matters-in-language-learning-part-1/) on this blog by the way---where we exchanged ideas on various Chinese language textbooks. At some point during the chat I suddenly remembered a very old textbook from early 19th century that I had seen not long ago. Then, another idea popped up in my head: Why not write a blogpost on old Chinese textbooks? So here it is. 😃
