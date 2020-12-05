@@ -104,7 +104,7 @@ Rating: ★★★☆☆
 
 While the previous two textbooks both consist of just one volume, Wade's textbook consists of three volumes. Volume I has a part on pronunciation, a part on radicals, and the Chinese texts for all the grammatical lessons (from the third part on). No English translations or explanations are provided whatsoever---those can only be found in Volume II. In addition, Volume II also contains all the grammatical notes. Thus, I guess one could fairly say that the actual textbook in Wade's "trilogy" is the second volume, while the first and third volumes are just two book-length appendices. Volume III, by the way, is a collection of glossaries and other similar tables of reference.
 
-{% include figure image_path="/assets/images/wade-toc.jpg" alt="tables of contents for Wade's three-volume textbook series" caption="Tables of contents for *Progressive* (2nd ed., 1886) (sorry about the small size 😝)" %}
+{% include figure image_path="/assets/images/Wade-toc.jpg" alt="tables of contents for Wade's three-volume textbook series" caption="Tables of contents for *Progressive* (2nd ed., 1886) (sorry about the small size 😝)" %}
 
 I don't understand why Wade had decided to separate the Chinese texts and their English explanations, or the exercises and their keys, in two volumes. It's not like a single book containing both components would be too thick or anything. Even if we keep the repeated Chinese texts (i.e., those in the third part) and all the front and back matters, the total number of pages in Volumes I & II is still well under 1000.
 
