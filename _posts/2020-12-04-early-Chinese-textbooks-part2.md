@@ -25,7 +25,7 @@ I have mixed feelings about the syntax part of Marshman's textbook. It certainly
 > I have reason to think, that there is scarcely any mode of expressing comparison used either in respectable works, or in correct conversation, which will not co-incide [sic] with some one of the examples given. (*Elements*, p.295)
 
 #### Many pros
-Then, in the section on numerals, Marshman surprisingly gives out names of some very large numbers (e.g., 京 *jing1* 'ten million', 垓 *gai1* 'a hundred million') that are seldom if ever taught in modern textbooks. He also gives a detailed introduction of the three parallel numerical systems used for different purposes (I think only two of them are still in use now). I have to admit that hadn't even heard of the third system. 😅
+Then, in the section on numerals, Marshman surprisingly gives out names of some very large numbers (e.g., 京 *jing1* 'ten million', 垓 *gai1* 'a hundred million') that are seldom if ever taught in modern textbooks. He also gives a detailed introduction of the three parallel numerical systems used for different purposes (I think only two of them are still in use now). I have to admit that I hadn't even heard of the third system. 😅
 
 {% include figure image_path="/assets/images/marshman-number.png" alt="the third numerical notation system in Marshman's textbook" caption="1–9 in the third numerical notation system introduced in Marshman's textbook, which was used among merchants and traders in the 19th century (*Elements*, p.312)" %}
 
