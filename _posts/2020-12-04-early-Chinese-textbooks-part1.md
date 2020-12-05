@@ -45,7 +45,7 @@ In this multipart post I'll share my personal impressions of four 19th-century C
 
 Besides, I've read two textbooks written for Korean people learning Chinese but won't include them in this post either (despite their high popularity in history), because they had been written much earlier (in the 14th century!). If I attempt to review each and every historical Chinese textbook out there then this post will probably never finish. 😝
 
-{% include figure image_path="/assets/images/laoqida.png" alt="two Chinese textbooks for Korean people" caption="Two 14th-century Chinese textbooks for Korean people: [*Nogeoldae*](https://en.wikipedia.org/wiki/Nogeoldae) 老乞大 'Old Cathayan' (right) and [*Bak Tongsa*](https://en.wikipedia.org/wiki/Bak_Tongsa) 朴通事 'Pak the Interpreter' (left)" %}
+{% include figure image_path="/assets/images/laoqida.png" alt="two Chinese textbooks for Korean people" caption="Two 14th-century Chinese textbooks for Korean people: [*Nogeoldae*](https://en.wikipedia.org/wiki/Nogeoldae) 老乞大 'Old Cathayan' (right) and [*Bak Tongsa*](https://en.wikipedia.org/wiki/Bak_Tongsa) 朴通事 'Pak the Interpreter' (left). These are reprinted editions with Korean annotations (thanks to my polyglot friend for reminding me of this!). " %}
 
 Therefore, I've decided to limit my scope to only **19th-century textbooks written by Western authors**, hence my selection of the following works:
 
