@@ -362,3 +362,9 @@ input[type="submit"],
   font-family: "Noto Sans TC", "Noto Serif TC", "PMingLiU", "MingLiU", "LiSong Pro", "STSong", "STHeiti", "Microsoft YaHei", $global-font-family;
   /* font-weight: bolder; */
 }
+
+/* =========== inter-ex spacing ================ */
+
+.vspace {
+  display:inline-block;margin-bottom:10px;
+}
