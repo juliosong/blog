@@ -8,6 +8,8 @@ header:
   image_description: "My copy of the Three-Body trilogy."
   caption: "My copy of the _Three-Body_ trilogy"
   teaser: /assets/images/santif.jpg
+toc: true
+toc_sticky: true
 ---
 
 I'm a sci-fi lover, and in the past few years I've been deeply impressed by the trilogy [_Remembrance of Earth's Past_](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) written by the Chinese author [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin). The novel is more commonly known as "Three-Body" (<span class="hanyu">三體</span>) among its Chinese fans, which is the title of its [award-winning](http://www.thehugoawards.org/2015/08/2014-hugo-award-winners-announced/) first part (English title: [_The Three-Body Problem_](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))). Former U.S. President Barack Obama [described](https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-books-mean-to-him.html) the trilogy as "wildly imaginative" and "really interesting," and Amazon seems to be planning a [TV show](https://www.independent.co.uk/arts-entertainment/tv/news/the-three-body-problem-tv-adaptation-show-amazon-a8278066.html) based on it too---hopefully that'll come true! Below are the titles of the novel's three parts together with their published English translations:

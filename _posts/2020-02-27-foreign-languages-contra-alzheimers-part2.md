@@ -9,6 +9,7 @@ header:
   caption: "A broken brain and an intact brain (Image by [kalhh](https://pixabay.com/users/kalhh-86169/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3761172) on [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3761172))"
   teaser: /assets/images/dementia-brain.jpg
 toc: true
+toc_sticky: true
 ---
 
 In my [previous post]({{ site.baseurl }}{% post_url 2020-02-27-foreign-languages-contra-alzheimers-part1 %}) I wrote about the protective effect of bilingualism against dementia. I also mentioned that <a href='{{ site.baseurl }}{% post_url 2020-02-27-foreign-languages-contra-alzheimers-part1 %}#education'>formal education</a> was listed among the Alzheimer's Association's ten brain-saving activities. In this post I further look into the role of education in dementia prevention. I'll also write down my thoughts on an observation made by my mom, which I call "scholarly longevity" for convenience.

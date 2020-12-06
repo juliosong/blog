@@ -8,6 +8,8 @@ header:
   image_description: "My copy of the Three-Body trilogy."
   caption: "My copy of the _Three-Body_ trilogy"
   teaser: /assets/images/santif.jpg
+toc: true
+toc_sticky: true
 ---
 
 In ["The linguistic view in _Three-Body_ (Part 2)"]({{ site.baseurl }}{% post_url 2019-08-16-linguistics-in-three-body-part-2 %}) I  wrote about my thoughts on some language-related settings and descriptions in my recent favorite sci-fi novel _Three-Body_ (aka [_Remembrance of Earth's Past_](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past)). In this post I'll continue my commentary.

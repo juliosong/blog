@@ -9,6 +9,7 @@ header:
   caption: "I Ching trigrams and the Tai Chi symbol (credit: <a href='https://commons.wikimedia.org/wiki/File:Pakua.svg' title='via Wikimedia Commons'>Benoît Stella alias BenduKiwi</a> / <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA</a>)"
   teaser: /assets/images/iching.png
 toc: true
+toc_sticky: true
 ---
 
 In the [previous post]({{ site.baseurl }}{% post_url 2020-04-07-generative-grammar-of-i-ching-part1 %}) I introduced the historical and cultural background of the ancient Chinese divination book _I Ching_ 'the Classic of Changes'. In this post I go on to introduce the structural components of the _I Ching_'s symbolic system.

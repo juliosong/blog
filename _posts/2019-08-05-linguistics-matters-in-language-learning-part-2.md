@@ -8,6 +8,8 @@ header:
   image_description: "The library of Beijing Foreign Studies University."
   caption: "The library of my undergraduate university Beijing Foreign Studies University (source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Library_of_Beijing_Foreign_Studies_University,_multilingual_decorative_wall,_Nov_2016.jpg))"
   teaser: /assets/images/BFSU-lib.jpg
+toc: true
+toc_sticky: true
 ---
 
 In my previous post ["Vowel harmony... and why linguistics matters in language learning (Part 1)"]({{ site.baseurl }}{% post_url 2019-08-04-linguistics-matters-in-language-learning-part-1 %}) I wrote about my recent chat with a polyglot friend about vowel harmony as well as my thoughts on why linguistic knowledge can help one learn languages more efficiently. In this post I'll continue to specify some particular scenarios in language learning where knowing some linguistics can really make a difference. I'll also touch on the issue of linguistics education in schools. Hope you'll enjoy reading!😃

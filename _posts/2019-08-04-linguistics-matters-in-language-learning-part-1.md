@@ -8,6 +8,8 @@ header:
   image_description: "The library of Beijing Foreign Studies University."
   caption: "The library of my undergraduate university Beijing Foreign Studies University (source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Library_of_Beijing_Foreign_Studies_University,_multilingual_decorative_wall,_Nov_2016.jpg))"
   teaser: /assets/images/BFSU-lib.jpg
+toc: true
+toc_sticky: true
 ---
 
 Yesterday a friend of mine mentioned in a Facebook chat that he had started learning Turkish seriously. He went on to tell me about the striking similarity in terms of "vowel harmony" he had spotted between Turkish and some other languages he already knew, such as Finnish, Hungarian, Mongolian, and Korean (yes he's a super polyglot!). I could totally relate to his excitement. Among the languages he mentioned I only know two (Hungarian and Korean), but the similarity is hard to miss for anyone with some linguistic knowledge.

@@ -9,6 +9,7 @@ header:
   caption: "I Ching trigrams and the Tai Chi symbol (credit: <a href='https://commons.wikimedia.org/wiki/File:Pakua.svg' title='via Wikimedia Commons'>Benoît Stella alias BenduKiwi</a> / <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA</a>)"
   teaser: /assets/images/iching.png
 toc: true
+toc_sticky: true
 ---
 
 In the [previous post]({{ site.baseurl }}{% post_url 2020-04-10-generative-grammar-of-i-ching-part2 %}) I introduced the structural components of _I Ching_ divination, including lines (or monograms), trigrams, and hexagrams. In this and the next post I'll write about how those components are interpreted. Two posts are dedicated to this topic because result interpretation is the most complex part of _I Ching_ divination. Impatient readers can jump to the [summary]({{ site.baseurl }}{% post_url 2020-04-17-generative-grammar-of-i-ching-part4 %}#summary).

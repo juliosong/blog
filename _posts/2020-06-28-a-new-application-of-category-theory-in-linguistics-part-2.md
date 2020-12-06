@@ -9,6 +9,7 @@ header:
   caption: "credit: [AbsolutVision](https://unsplash.com/@freegraphictoday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/idea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))"
   teaser: /assets/images/act2020.jpg
 toc: true
+toc_sticky: true
 ---
 
 In the [previous post]({{ site.baseurl }}{% post_url 2020-06-28-a-new-application-of-category-theory-in-linguistics-part-1 %}) I laid out the disciplinary background of my application of category theory in linguistics in more detail (than I had done in my [explainer video](https://www.youtube.com/watch?v=dzEPH8K4CaQ)). In this post I continue to introduce my category-theoretic modeling of the human language grammatical type system. And as in the previous post, I will still abstract away from technical details (which you can find either in my [extended abstract](https://www.juliosong.com/doc/Song2020ACTabstract.pdf) or, in fuller forms, in my [dissertation](https://www.repository.cam.ac.uk/handle/1810/297789)) and focus on my motivation and source of inspiration instead.

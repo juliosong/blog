@@ -9,6 +9,7 @@ header:
   caption: "I Ching trigrams and the Tai Chi symbol (credit: <a href='https://commons.wikimedia.org/wiki/File:Pakua.svg' title='via Wikimedia Commons'>Benoît Stella alias BenduKiwi</a> / <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA</a>)"
   teaser: /assets/images/iching.png
 toc: true
+toc_sticky: true
 ---
 
 Sometimes our brains make connections in unexpected ways. For instance, the other day I was thinking about [*I Ching*](https://en.wikipedia.org/wiki/I_Ching) (can't remember why), the ancient Chinese divination book, and an idea suddenly popped into my head: Isn't the procedural manipulation of symbols in the divination process a sort of syntactic derivation like that in [transformational-generative grammar](https://www.google.com/search?client=safari&rls=en&q=transformational-generative+grammar&ie=UTF-8&oe=UTF-8&safari_group=9)?

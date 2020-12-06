@@ -9,6 +9,7 @@ header:
   caption: "An imperial edict from Qin Dynasty (photo source: [sohu.com](https://www.sohu.com/a/211582651_99995576))"
   teaser: /assets/images/qinzhaoban.png
 toc: true
+toc_sticky: true
 ---
 
 Civilizations in the universe come and go just like leaves on a tree grow and fall; neither ultimately leaves behind any trace. In Book III of the sci-fi novel [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) (三體 *san1-ti3*), when the solar system got attacked by an alien weapon called the dual-vector foil, which collapsed our 3D space into two dimensions at light speed, the last resort humanity came up with to preserve our civilization was, somewhat ironically, carving words into stone. And they didn't do so on Earth but did it on Pluto, again ironically, since Pluto was the farthest (non)planet in the solar system from the center of the dimensional strike. In the author's words:

@@ -9,6 +9,7 @@ header:
   caption: "credit: [AbsolutVision](https://unsplash.com/@freegraphictoday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/idea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))"
   teaser: /assets/images/act2020.jpg
 toc: true
+toc_sticky: true
 ---
 
 This is the second part of my "portfolio" prepared for the virtual poster session at [ACT2020](https://act2020.mit.edu). It introduces my category-theoretic modeling of the human language grammatical type (aka syntactic category) system. The technical detail can be found in my dissertation "[On the formal flexibility of syntactic categories](https://www.repository.cam.ac.uk/handle/1810/297789)." This article is a conceptual synopsis, with some occasional remarks not included in my dissertation.

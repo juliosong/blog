@@ -8,6 +8,8 @@ header:
   image_description: "part of a dark computer screen with HTML code"
   caption: "A screen of code (Photo by [Florian Olivo](https://unsplash.com/@rxspawn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/programming-language?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))"
   teaser: /assets/images/code-screen.jpg
+toc: true
+toc_sticky: true
 ---
 
 Recently I came across a short article in _Trends in Cognitive Sciences_ entitled "[The language of programming: a cognitive perspective](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30102-0)" (Fedorenko et al. 2019). The authors argue in it for a linguistically oriented path of programming education in schools---which is currently grouped with [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) disciplines---based on observed parallelisms between natural and programming languages. As they put it, "When you learn a programming language, you acquire a symbolic system that can be used to creatively express yourself and communicate with others." Indeed, if something's called a language and behaves like one, why not treat it like one?

@@ -9,6 +9,7 @@ header:
   caption: "A broken brain and an intact brain (Image by [kalhh](https://pixabay.com/users/kalhh-86169/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3761172) on [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3761172))"
   teaser: /assets/images/dementia-brain.jpg
 toc: true
+toc_sticky: true
 ---
 
 Today I came across an article online (via Facebook) entitled "[More evidence that bilingualism delays symptoms of Alzheimer's](https://www.languagemagazine.com/2020/02/19/more-evidence-that-bilingualism-delays-symptoms-of-alzheimers/)." It introduces [a recent paper](https://journals.lww.com/alzheimerjournal/Abstract/publishahead/Conversion_of_Mild_Cognitive_Impairment_to.99309.aspx) published in the journal _Alzheimer Disease & Associated Disorders_. Since I fear Alzheimer's and happen to speak two(+) languages, I decided to do a bit of homework on this topic so that I can be better prepared as I age. I note down what I have learned from various sources in this and [the next]({{ site.baseurl }}{% post_url 2020-02-27-foreign-languages-contra-alzheimers-part2 %}) post.

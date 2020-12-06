@@ -8,6 +8,8 @@ header:
   image_description: "some ghost characters"
   caption: "Some characters in the &#8220;ghost script&#8221; (source: <a href='https://commons.wikimedia.org/wiki/File:Li%C3%B9ji%C7%8E_F%C7%8Ensh%C5%AB,_Page_3.JPG'>Wikimedia Commons</a>)"
   teaser: /assets/images/tianwen.jpg
+toc: true
+toc_sticky: true
 ---
 
 Recently I randomly came across a passage about language in a historical Chinese document. It's in a short essay written by the famous writer and poet [SU Shi](https://en.wikipedia.org/wiki/Su_Shi) (<span class="hanyu">蘇軾</span>)---though **not** the passage in the picture below---who lived in the [Northern Song Dynasty](https://en.wikipedia.org/wiki/Northern_Song_Dynasty) (born in 1037 CE and died in 1101 CE) and was one of the [Eight Great Prose Masters of the Tang and Song Dynasties](https://en.wikipedia.org/wiki/Eight_Masters_of_the_Tang_and_Song) (<span class="hanyu">唐宋八大家</span>).

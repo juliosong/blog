@@ -9,6 +9,7 @@ header:
   caption: "An imperial edict from Qin Dynasty (photo source: [sohu.com](https://www.sohu.com/a/211582651_99995576))"
   teaser: /assets/images/qinzhaoban.png
 toc: true
+toc_sticky: true
 ---
 
 In my previous post [Carving civilization into stone...and the &ldquo;Chinese Rosetta Stone&rdquo; (Part 2)]({{ site.baseurl }}{% post_url 2020-11-17-Chinese-Rosetta-Stone-part2 %}) I introduced an inscribed stone tablet in Chinese history, called the Three-Type Stone, that to some extent resembles the Egyptian Rosetta Stone. I also started comparing the two stones, focusing on their similarities. In this post I'll continue writing about their differences. 😃

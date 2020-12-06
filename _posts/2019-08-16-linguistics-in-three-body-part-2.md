@@ -8,6 +8,8 @@ header:
   image_description: "My copy of the Three-Body trilogy."
   caption: "My copy of the _Three-Body_ trilogy"
   teaser: /assets/images/santif.jpg
+toc: true
+toc_sticky: true
 ---
 
 In ["The linguistic view in _Three-Body_ (Part 1)"]({{ site.baseurl }}{% post_url 2019-08-15-linguistics-in-three-body-part-1 %}) I briefly introduced the phenomenal sci-fi trilogy [_Remembrance of Earth's Past_](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past), aka "Three-Body," written by the Chinese author [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin). I also recounted my impression of fictional languages in general and concluded that their designs are typically influenced by the authors' own linguistic background and experience. This applies to the (semi)fictional languages in _Three-Body_ too, which are what I'll write about in this post and [the next]({{ site.baseurl }}{% post_url 2019-08-17-linguistics-in-three-body-part-3 %}). My commentary covers five points:

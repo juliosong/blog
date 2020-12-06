@@ -8,6 +8,8 @@ header:
   image_description: "the evolution path from ape to man"
   caption: "Evolution path of homo sapiens (Image by [LAURENCE ROUAULT](https://pixabay.com/zh/users/laurencerouault-8646167/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3579185) on [Pixabay](https://pixabay.com/zh/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3579185))"
   teaser: /assets/images/evolution.png
+toc: true
+toc_sticky: true
 ---
 
 I began my previous post ["Where is language from? (Part 1)"]({{ site.baseurl }}{% post_url 2020-04-03-origin-of-language-part1 %}) by commenting on a [recent online article](https://geneticliteracyproject.org/2020/01/30/spoken-language-doesnt-leave-fossils-did-humans-ability-to-speak-arise-in-an-instantaneous-hominin-mutation/?fbclid=IwAR2HIBxniFwsePN2bsHiq1Tl1vKGjcG3VHN_vrdWXALWDvAVjJlZWkMEyXM) about the origin of language. Then I went on to compare existing views on the origin of human language, ending up with the somewhat pessimistic conclusion that the whole field is still sort of a speculation game. In this post I'll continue to write about an alleged "language gene," FOXP2, which has been made popular in recent years.

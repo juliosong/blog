@@ -8,6 +8,8 @@ header:
   image_description: "some books, some pencils, an apple, and three letters"
   caption: "Three letters and some other stuff (Image by [Element5 Digital](https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/abc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))"
   teaser: /assets/images/letter-word.jpg
+toc: true
+toc_sticky: true
 ---
 
 In my [previous post]({{ site.baseurl }}{% post_url 2020-03-03-letter-words-part1 %}) I wrote about the letter word phenomenon prevalent in contemporary Chinese. I discussed their classification and semantics with some common examples. In this post I'll continue to comment on the phenomenon. I'll also touch on the argot-like letter words booming in the fandom subculture.

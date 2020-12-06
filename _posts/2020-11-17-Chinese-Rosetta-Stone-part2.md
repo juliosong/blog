@@ -9,6 +9,7 @@ header:
   caption: "An imperial edict from Qin Dynasty (photo source: [sohu.com](https://www.sohu.com/a/211582651_99995576))"
   teaser: /assets/images/qinzhaoban.png
 toc: true
+toc_sticky: true
 ---
 
 In my previous post [Carving civilization into stone...and the &ldquo;Chinese Rosetta Stone&rdquo; (Part 1)]({{ site.baseurl }}{% post_url 2020-11-17-Chinese-Rosetta-Stone-part1 %}) I wrote about my recent discovery of a roadside stone carved with four seal-script characters 上譱[善]若水 *shang4 shan4 ruo4 shui3* 'the greatest virtue is like that of water' (a famous quote from [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)) and, from there, wrote a bit about the historical evolution of the Chinese writing system. In this post I'll continue writing about historical Chinese scripts, focusing on an inscribed stone tablet that to some extent resembles the Egyptian Rosetta Stone. Read on and find out what I have in mind! 😃

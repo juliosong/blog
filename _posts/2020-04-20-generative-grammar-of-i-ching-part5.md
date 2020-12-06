@@ -9,6 +9,7 @@ header:
   caption: "I Ching trigrams and the Tai Chi symbol (credit: <a href='https://commons.wikimedia.org/wiki/File:Pakua.svg' title='via Wikimedia Commons'>Benoît Stella alias BenduKiwi</a> / <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA</a>)"
   teaser: /assets/images/iching.png
 toc: true
+toc_sticky: true
 ---
 
 The original motivation for this article was an occasional idea about the similarity between _I Ching_ divination and transformational-generative grammar. I ended up using four out of the total six posts to introduce the _I Ching_ because I wanted to present a fuller picture of its content and philosophy before comparing it with something apparently orthogonal to it in the public's eyes (aka science vs. superstition). I hope that reading has been fun---that is, if you haven't skipped the previous posts. But if you have, I hope you'll enjoy this one and the next.😃

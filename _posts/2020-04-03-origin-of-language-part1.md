@@ -8,6 +8,8 @@ header:
   image_description: "the evolution path from ape to man"
   caption: "Evolution path of homo sapiens (Image by [LAURENCE ROUAULT](https://pixabay.com/zh/users/laurencerouault-8646167/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3579185) on [Pixabay](https://pixabay.com/zh/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3579185))"
   teaser: /assets/images/evolution.png
+toc: true
+toc_sticky: true
 ---
 
 A while ago I came across a website for a [Genetic Literacy Project](https://geneticliteracyproject.org). The slogan of the Project is "science not ideology," and its [goal](https://geneticliteracyproject.org/mission-financials-governorship/) is to promote science literacy and aid people in understanding the societal implications of genetic engineering. I'm not a big fan of genetic engineering, especially given [recent scandals](https://www.nature.com/articles/d41586-019-00673-1). What caught my attention was [a short article](https://geneticliteracyproject.org/2020/01/30/spoken-language-doesnt-leave-fossils-did-humans-ability-to-speak-arise-in-an-instantaneous-hominin-mutation/?fbclid=IwAR2HIBxniFwsePN2bsHiq1Tl1vKGjcG3VHN_vrdWXALWDvAVjJlZWkMEyXM) posted on the website by Ross Pomeroy ([@SteRoPo](https://twitter.com/steropo?lang=en))---who runs the [RealClearScience](https://www.realclearscience.com) website by the way---about [a new paper](https://www.nature.com/articles/s41598-019-57235-8) in _Nature Scientific Reports_ on the origin of language (de Boer, Thompson, Ravignani & Boeckx 2020). The paper argues based on evolutionary dynamics grounds that language has more likely evolved step by step rather than via a single genetic mutation.

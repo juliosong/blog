@@ -8,6 +8,8 @@ header:
   image_description: "A multilingual board in front of St. Hedwig's Cathedral."
   caption: "I came across this multilingual board in front of St. Hedwig's Cathedral in 2011."
   teaser: /assets/images/st-hedwig.jpg
+toc: true
+toc_sticky: true
 ---
 
 Language learning is a lifelong journey. In particular, if a person speaks multiple languages and hasn't acquired them all as mother tongues, then he must have learned some of them later in life, when his "factory language" is already set.

@@ -9,6 +9,7 @@ header:
   caption: "I Ching trigrams and the Tai Chi symbol (credit: <a href='https://commons.wikimedia.org/wiki/File:Pakua.svg' title='via Wikimedia Commons'>Benoît Stella alias BenduKiwi</a> / <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA</a>)"
   teaser: /assets/images/iching.png
 toc: true
+toc_sticky: true
 ---
 
 ([link to part 3]({{ site.baseurl }}{% post_url 2020-04-13-generative-grammar-of-i-ching-part3 %}))
