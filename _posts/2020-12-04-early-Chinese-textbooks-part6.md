@@ -30,7 +30,7 @@ A first aspect of von der Gabelentz's book that I've personally enjoyed, as afor
 <a id="discourse"></a>
 Similarly, when teaching the sentence-final particles the author makes a spot-on remark that these particles actually function at a different level of the grammar. What he terms the "psychological" level is just the discourse level in modern terminology.
 > Alle hier zu behandelnden Hülfswörter sind ihrer Wirkung nach **modal**, und zwar zunächst nicht logisch, sondern **psychologisch**, das heisst: sie erklären in erster Reihe ... das Verhältniss des Redenden zur Rede, seine Stimmung oder Absicht dabei.... Nur mittelbar, in zweiter Reihe, können sich daraus logische Modalitäten, z. B. Gewissheit, Möglichkeit, Wahrscheinlichkeit, ergeben. (*Chinesische*, p.315)<br><br>
-> "All auxiliaries to be handled here are modal in terms of their effects, and more specifically, they are psychological rather than logical. That is, what they primarily express are the relationship of the speaker to the speech [and] his mood or intention with it.... Only indirectly and secondarily can logical modalities like certainty, possibility [and] probability arise therefrom."
+> "All auxiliaries to be handled here are **modal** in terms of their effects, and more specifically, they are **psychological** rather than logical. That is, what they primarily express are the relationship of the speaker to the speech [and] his mood or intention with it.... Only indirectly and secondarily can logical modalities like certainty, possibility [and] probability arise therefrom."
 
 Given surprises like the above, von der Gabelentz's book can be a really pleasant read for a linguist, even for someone whose aim is not to acquire the Chinese language but just to see how it works.
 
