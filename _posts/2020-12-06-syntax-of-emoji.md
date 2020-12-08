@@ -31,7 +31,7 @@ Some of these categories are easier to translate back into verbal language, such
 
 If we want to incorporate these emojis into sentence structure, the translatable ones realize V, A, and N not so differently from their verbal counterparts. The "untranslatable" ones, on the other hand, probably realize some functional constituent adding discourse meanings to propositions. Following the tradition of syntax, let’s call this unknown [constituent](https://en.wikipedia.org/wiki/Constituent_(linguistics)) EmojiP (=Emoji Phrase).
 
-{% include figure image_path="/assets/images/emoji-tree.png" alt="a syntactic tree for emojis" caption="A potential syntactic tree with an emoji slot (**Dec 2020 edit:** readers who are interested can refer to my [dissertation](https://www.repository.cam.ac.uk/handle/1810/297789), where the toy EmojiP here is given a proper linguistic modeling)" %}
+{% include figure image_path="/assets/images/emoji-tree.png" alt="a syntactic tree for emojis" caption="A potential syntactic tree with an emoji slot (**Dec 6, 2020 edit:** readers who are interested can refer to my [dissertation](https://www.repository.cam.ac.uk/handle/1810/297789), where the toy EmojiP here is given a proper linguistic modeling)" %}
 
 Now, there are two interesting observations. First, this EmojiP may be sentence-initial (1a) or sentence-final (1c/d). Since the quasi-*well* in (1a) is not necessarily part of the following sentence, we can boldly assume for now that EmojiP is always [sentence-final](http://time.com/2993508/emoji-rules-tweets/), regardless of the general [head direction](https://en.wikipedia.org/wiki/Head-directionality_parameter) of the language---both French and German actually have head-initial CP, as illustrated in the emoji-free sentences below.
 
@@ -47,7 +47,7 @@ Second, the EmojiP elements, namely the emojis, do not necessarily depend on ver
 Intended version: I had spaghetti for dinner last night.<br>
 Mom’s version: I had noodles and a croissant.
 
-Such ambiguity is unlikely to arise in English (or any natural language), which can well distinguish *last night* (/læst naɪt/, Adverbial) and *croissant* (/krwɑːsɒŋ/, Noun) phonologically and categorially. Importantly, in English the time adverbial doesn’t come between the verb and its object, as in (4).
+Such ambiguity is unlikely to arise in English (or any natural language), which can well distinguish *last night* (/læst naɪt/, Adverbial) and *croissant* (/krwɑːˈsɑ̃ː/, Noun) phonologically and categorially. Importantly, in English the time adverbial doesn’t come between the verb and its object, as in (4).
 
 (4) *I had last night spaghetti.
 

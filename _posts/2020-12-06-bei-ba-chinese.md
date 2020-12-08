@@ -40,7 +40,7 @@ The sentence sounds alright, except that it includes both *bèi* 被 and *bǎ* �
 
 (2a) is the neutral way to report this event, where the subject is "the puppy" and the object is "apple(s)." In (2b), "apple(s)"" becomes the syntactic subject, while "the puppy" is introduced by *bèi* (similar to English *by*), thus rendering a "passive" sentence. In (2c), the subject is again "the puppy," but the object "apple(s)" takes *bǎ*, which explicitly clarifies it as the affected patient of "eat" and entails an agent subject (the eater in this case). That is, when the object is introduced by *bǎ*, the verb is unambiguously transitive and active.
 
-**Dec 7, 2020 edit:** At this point one may be tempted to treat *bèi* and *bǎ* as prepositions, and they have indeed been treated so by linguists. However, a major point of this post will be that these functional words in Chinese don't really behave like bona fide prepositions in familiar European languages. Rather, they form a grammatical category that lies somewhere between Verb and Preposition.
+**Dec 6, 2020 edit:** At this point one may be tempted to treat *bèi* and *bǎ* as prepositions, and they have indeed been treated so by linguists. However, a major point of this post will be that these functional words in Chinese don't really behave like bona fide prepositions in familiar European languages. Rather, they form a grammatical category that lies somewhere between Verb and Preposition.
 {: .notice--info}  
 
 So, taking these into consideration, Barbie Hsu’s sentence in (1) is literally something like:
@@ -103,7 +103,7 @@ Elements like *bèi* and *bǎ* are sometimes called [**light verbs**](https://en
 We can treat *bèi* as a light verb that introduces the agent or instrument argument and *bǎ* as one that introduces the patient argument into the predicate. They can coexist in Chinese simply because they both exist in the language, as in (9a).
 
 (9)	a. Chinese:	<br>
-<i>hai		<b>bei</b>-meiti		<b>ba</b>-ni			ma de gouxuelintou.</i><br>
+<i>hái		<b>bèi</b>-méitǐ		<b>bǎ</b>-nǐ			mà de gǒuxiělíntóu.</i><br>
 					<span class="vspace">and		AGENT-media	PATIENT-you	scold harshly</span><br>
 	b. English:	You<sub>PATIENT</sub> also get harshly criticized by the media<sub>AGENT</sub>.
 
@@ -112,7 +112,7 @@ By comparison, since English does not have argument-introducing light verbs like
 Now you may wonder where the subject (or more exactly the [topic](https://en.wikipedia.org/wiki/Topic_and_comment)) is in (10a). Well, it is simply omitted because its information is clear in the context. When you are scolded, the default topic is clearly you! Indeed, (10a) can be recovered as (11), which is exactly what Barbie Hsu means.
 
 (11)	你還被媒體把你罵得狗血淋頭。<br>
-<i>ni<sub>TOPIC</sub>	hai	bei-meiti	ba-ni	ma de gouxuelintou.</i><br>
+<i>nǐ<sub>TOPIC</sub>	hái	bèi-méitǐ	bǎ-nǐ	mà de gǒuxiělíntóu.</i><br>
 	you<sub>TOPIC</sub>		also	AGENT-media	PATIENT-you	scold harshly<br>
 
 How come Chinese systematically uses topic as a part of the sentence whereas English does not is a whole other story. A relevant fact is that if we omit the topic elements in the Japanese examples in (5), the sentences are also still well-formed, as in (12).
