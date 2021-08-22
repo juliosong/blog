@@ -27,7 +27,7 @@ Following _champion_, the second case of unusual singing pronunciation that came
 
 Again, this unusual pronunciation isn't limited to native speaker singers but is also common among nonnative speakers, as in A-Mei's "[Sister](https://youtu.be/OO60xtWjLRw?t=65)" and Coco Lee's "[Baby I'm Sorry](https://youtu.be/b1Tyj_7bdNQ?t=137)." Both numbers are Mandopop classics, and the pronunciation of _baby_ is also unadulteratedly /ˈbeɪbeɪ/ in both!
 
-I'm not the only one who has wondered what's going on with _baby_. For instance, [this post](https://www.atlasobscura.com/articles/why-justin-timberlake-sings-may-instead-of-me) characterizes the phenomenon as "a linguistic tendency that was weirdly popular in the late 1990s and early 2000s," which affected not only _baby_ but also words like [_candy_](https://youtu.be/NkVsJGl5d6E), [_crazy_](https://youtu.be/-N4jf6rtyuw), and even [_me_](https://youtu.be/GQMlWwIXg3M). The said post quotes the famous voice teacher [Lis Lewis](https://en.wikipedia.org/wiki/Lis_Lewis) and explains that pronouncing /i/ as /eɪ/ makes high notes easier to sing, and it additionally remarks that "[t]urning 'ee' to 'ay' when it's not strictly necessary is a savvy kind of trick" that helps singers sound energetic and passionate.
+I'm not the only one who has wondered what's going on with _baby_. For instance, [this post](https://www.atlasobscura.com/articles/why-justin-timberlake-sings-may-instead-of-me) characterizes the phenomenon as "a linguistic tendency that was weirdly popular in the late 1990s and early 2000s," which affected not only _baby_ but also words like [_candy_](https://youtu.be/NkVsJGl5d6E?t=96), [_crazy_](https://youtu.be/-N4jf6rtyuw?t=35), and even [_me_](https://youtu.be/GQMlWwIXg3M?t=60). The said post quotes the famous voice teacher [Lis Lewis](https://en.wikipedia.org/wiki/Lis_Lewis) and explains that pronouncing /i/ as /eɪ/ makes high notes easier to sing, and it additionally remarks that "[t]urning 'ee' to 'ay' when it's not strictly necessary is a savvy kind of trick" that helps singers sound energetic and passionate.
 
 {% include figure image_path="/assets/images/JT-may.jpg" alt="a meme with Justin Timberlake singing It's Gonna Be May" caption="A meme with Justin Timberlake singing &#8220;It's Gonna Be Me&#8221; (source: [eonline.com](https://www.eonline.com/news/760667/it-s-important-everyone-knows-the-origin-of-the-it-s-gonna-be-may-meme))" %}
 
@@ -70,7 +70,7 @@ The fourth case that came to my mind was also from non-English songs, more exact
 /tik̚-hin/ ➞ /ti-kʰin/, /tik̚-hɔt̚/ ➞ /ti-kʰɔt̚/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znYQy8aDaQo?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<span style="margin-top:0; padding-top:0;font-family:'Times New Roman';font-size:12pt;">A live performance "Half Moon Serenade" by Hacken Lee in 2020</span>
+<span style="margin-top:0; padding-top:0;font-family:'Times New Roman';font-size:12pt;">A live performance of "Half Moon Serenade" by Hacken Lee in 2020</span>
 
 Again, few have written about this phenomenon. I've only seen a discussion in passing under [this Zhihu thread](https://www.zhihu.com/question/48496167), where two netizens described the same perception as my own. And they also gave a further example, [Hacken Lee's cover](https://youtu.be/3ED9gssqmB4?t=82) of "Ladder to Heaven," where in the following lines
 
