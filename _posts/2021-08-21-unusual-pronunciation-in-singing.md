@@ -36,7 +36,7 @@ Again, I'm not sure how plausible the above theory is. But just like its author,
 I like listening to pop songs in different languages, and unusual pronunciations in singing is definitely not an English-specific phenomenon. The third case that came to my idling mind on the subway was from K-pop, more exactly from the soundtrack of _My Sassy Girl_. There's a pronunciation in its theme song "I Believe" that has puzzled me since high school. I feel like the singer (Seung-hoon Shin) sometimes pronounces the consonant /t/ (written as ㄷ in Korean) like a /ð/. This is especially clear in the two lines below:
 
 (1) 기**다**릴게요 난 그**대**여야만 하죠<br>
-/ki **ta** ɾiɭ ke yo nan kɯ **tɛ** jʌ̹ ja man ha tɕjo/<br>
+/ki **ta** ɾiɭ ke jo nan kɯ **tɛ** jʌ̹ ja man ha tɕjo/<br>
 "I'll keep waiting, as I can't do without you."
 
 (2) 나 **그댈** 알기 전<br>
