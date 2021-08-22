@@ -25,7 +25,7 @@ What's more, I've definitely also heard this unusual pronunciation in performanc
 
 Following _champion_, the second case of unusual singing pronunciation that came to my mind on the subway was the word _baby_. In speech the word is normally pronounced as /ˈbeɪbi/, but in pop songs I've heard a range of variants from the somewhat neutral /ˈbeɪbeː/, as in Justin Bieber's "[Baby](https://youtu.be/kffacxfA7G4?t=44)," to the rather exaggerated /ˈbeɪbeɪ/, as in Mariah Carey's "[Always Be My Baby](https://youtu.be/LfRNRymrv9k?t=82)." Sometimes several different pronunciations even co-occur in the same song, as in Britney Spears's "[Baby One More Time](https://youtu.be/C-u5WLJ9Yk4)," where I hear /ˈbeɪbi/, /ˈbeɪbeː/, /ˈbeɪbeɪ/, and maybe even /ˈbeɪbṃ/. 💁‍♂️
 
-Again, this unusual pronunciation isn't limited to native speaker singers but is also common among nonnative speakers, as in A-Mei's "[Sister](https://youtu.be/OO60xtWjLRw?t=65)" and Coco Li's "[Baby I'm Sorry](https://youtu.be/b1Tyj_7bdNQ?t=137)." Both numbers are Mandopop classics, and the pronunciation of _baby_ is also unadulteratedly /ˈbeɪbeɪ/ in both!
+Again, this unusual pronunciation isn't limited to native speaker singers but is also common among nonnative speakers, as in A-Mei's "[Sister](https://youtu.be/OO60xtWjLRw?t=65)" and Coco Lee's "[Baby I'm Sorry](https://youtu.be/b1Tyj_7bdNQ?t=137)." Both numbers are Mandopop classics, and the pronunciation of _baby_ is also unadulteratedly /ˈbeɪbeɪ/ in both!
 
 I'm not the only one who has wondered what's going on with _baby_. For instance, [this post](https://www.atlasobscura.com/articles/why-justin-timberlake-sings-may-instead-of-me) characterizes the phenomenon as "a linguistic tendency that was weirdly popular in the late 1990s and early 2000s," which affected not only _baby_ but also words like [_candy_](https://youtu.be/NkVsJGl5d6E), [_crazy_](https://youtu.be/-N4jf6rtyuw), and even [_me_](https://youtu.be/GQMlWwIXg3M). The said post quotes the famous voice teacher [Lis Lewis](https://en.wikipedia.org/wiki/Lis_Lewis) and explains that pronouncing /i/ as /eɪ/ makes high notes easier to sing, and it additionally remarks that "[t]urning 'ee' to 'ay' when it's not strictly necessary is a savvy kind of trick" that helps singers sound energetic and passionate.
 
@@ -39,7 +39,7 @@ I like listening to pop songs in different languages, and unusual pronunciations
 /ki **ta** ɾiɭ ke jo nan kɯ **tɛ** jʌ̹ ja man ha tɕjo/<br>
 "I'll keep waiting, as I can't do without you."
 
-(2) 나 **그댈** 알기 전<br>
+(2) 나 그**댈** 알기 전<br>
 /na kɯ **tɛɭ** aɭki tɕʌ̹n/<br>
 "Before I knew you"
 
@@ -53,11 +53,11 @@ Unvoiced consonants in Korean can [become voiced between sonorants](https://en.w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/76KCKSI67qw?start=98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span style="margin-top:0; padding-top:0;font-family:'Times New Roman';font-size:12pt;">A live performance of "I Believe" by Seung-gi Lee and Seung-hoon Shin in 2020</span>
 
-In Shin's solo version I definitely hear /ð/ in all three syllables 다 /ta/, 대 /tɛ/, and 댈 /tɛɭ/---it's almost like a personal vocal trait of the singer. In the duet version, by comparison, Lee's pronunciation of /t/ is not so fricative in line (1) but more fricative in line (2). Actually, even Shin's pronunciation here doesn't sound as fricative as in his solo. Maybe interpersonal interaction influences singers' pronunciation lol?
+In Shin's solo version I definitely hear /ð/ in all three syllables 다 /ta/, 대 /tɛ/, and 댈 /tɛɭ/---it's almost like a personal vocal trait of the singer. In the duet version, by comparison, Lee's pronunciation of /t/ is not very fricative in line (1) but more so in line (2). Actually, even Shin's pronunciation here doesn't sound as fricative as in his solo. Maybe interpersonal interaction influences singers' pronunciation too lol?
 
-As to why there should be such a sound change, I don't know. Nor do I know whether this is a common phenomenon in K-pop or just my illusion. Leave me a message if you also notice it in other songs---or if you simply want to recommend me some K-pop songs! 😃
+As to why there should be such a sound change, I don't know. Nor do I know whether this is a common phenomenon in K-pop or everything's just my illusion. Leave me a message if you also notice it in other places---or if you simply want to recommend me some K-pop songs! 😃
 
-The fourth case that came to my mind was also from non-English songs, more exactly from Cantopop. I've long noticed that some (though not many) Cantonese-speaking singers tend to resyllabify words with [entering tones](https://en.wikipedia.org/wiki/Checked_tone) in a way similar to [liaison in French](https://en.wikipedia.org/wiki/Liaison_(French))---except that the "linking consonants" in French are otherwise silent whereas the entering-tone consonants in Cantonese are unreleased final stops. This phenomenon is especially common when the entering tone is followed by an initial /h/. Check out two Cantonese covers of Naoko Kawai's Half Moon Serenade for example, which are respectively performed by [Hacken Lee](https://youtu.be/znYQy8aDaQo?t=155) and [Joey Yung](https://youtu.be/qyeiBZv6tQc?t=124). If you can understand Chinese, pay special attention to the two lines below:
+The fourth case that came to my mind was also from non-English songs, more exactly from Cantopop. I've long noticed that some (though not many) Cantonese-speaking singers tend to resyllabify words with [entering tones](https://en.wikipedia.org/wiki/Checked_tone) in a way similar to [liaison in French](https://en.wikipedia.org/wiki/Liaison_(French))---except that the "linking consonants" in French are otherwise silent whereas the entering-tone consonants in Cantonese are [unreleased final stops](https://en.wikipedia.org/wiki/No_audible_release). This phenomenon is especially common when the entering tone is followed by an initial /h/. Check out two Cantonese covers of Naoko Kawai's "Half Moon Serenade" for example, which are respectively performed by [Hacken Lee](https://youtu.be/znYQy8aDaQo?t=155) and [Joey Yung](https://youtu.be/qyeiBZv6tQc?t=124). If you can understand Chinese, pay special attention to the two lines below:
 
 (3) 仍然是**不開**口<br>
 /jiŋ jin si **pɐt̚ hɔi** hɐu/<br>
@@ -70,7 +70,7 @@ The fourth case that came to my mind was also from non-English songs, more exact
 /tik̚-hin/ ➞ /ti-kʰin/, /tik̚-hɔt̚/ ➞ /ti-kʰɔt̚/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znYQy8aDaQo?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<span style="margin-top:0; padding-top:0;font-family:'Times New Roman';font-size:12pt;">A live performance by Hacken Lee in 2020</span>
+<span style="margin-top:0; padding-top:0;font-family:'Times New Roman';font-size:12pt;">A live performance "Half Moon Serenade" by Hacken Lee in 2020</span>
 
 Again, few have written about this phenomenon. I've only seen a discussion in passing under [this Zhihu thread](https://www.zhihu.com/question/48496167), where two netizens described the same perception as my own. And they also gave a further example, [Hacken Lee's cover](https://youtu.be/3ED9gssqmB4?t=82) of "Ladder to Heaven," where in the following lines
 
@@ -86,11 +86,11 @@ Again, few have written about this phenomenon. I've only seen a discussion in pa
 
 the originally unreleased final stop /-t̚/ again gets merged with the subsequent onset /h/. I'm not totally familiar with Cantopop, but based on my limited experience Hacken Lee's songs manifest this feature most regularly. I'll leave it to Cantonese-speaking friends to verify/falsify this. 👀
 
-The above are the four main cases of unusual singing pronunciation that had occurred to me on the subway last night. Now that I'm on it, I realize there are still more cases, such as the Korean ones mentioned in [this thread](https://korean.stackexchange.com/questions/5055/does-korean-pronunciation-sometimes-differ-in-singing-rapping-compared-to-spok) and the Japanese ones mentioned in [this thread](https://japanese.stackexchange.com/questions/11113/what-are-the-pronunciation-differences-between-speaking-and-singing-japanese). It is worth noting that Japanese seems quite exceptional in this respect, in that while the unusual pronunciations in English, Korean, and Cantonese songs are all somewhat "avant-garde," those in Japanese songs are pretty "vintage" (i.e., they typically go back to historical manners of pronunciation).
+The above are the four main cases of unusual singing pronunciation that had occurred to me on the subway last night. Now that I'm on it, I realize there are still more cases, such as the Korean ones mentioned in [this thread](https://korean.stackexchange.com/questions/5055/does-korean-pronunciation-sometimes-differ-in-singing-rapping-compared-to-spok) and the Japanese ones mentioned in [this thread](https://japanese.stackexchange.com/questions/11113/what-are-the-pronunciation-differences-between-speaking-and-singing-japanese). It is worth noting that Japanese seems quite exceptional in this respect, in that while the unusual pronunciations in English, Korean, and Cantonese songs are all somewhat "avant-garde," those in Japanese songs are pretty "vintage"---they typically go back to historical manners of pronunciation.
 
 As mentioned above, I haven't found professional linguistic studies on this topic (Please let me know if you know some!). But there are actually several questions that merit investigation:
 - Are there similar phenomena in other languages? (I guess yes.)
 - Are there further types of special singing pronunciation in world languages apart from the above-mentioned avant-garde and vintage types?
 - What linguistic and extralinguistic factors lie behind such phenomena?
 
-There could even be a new area of study named pop song phonetics, which I'm sure would be a highly popular course on campus lol. But since I'm no phonetician (or phonologist), I'll just wait to be enlightened by qualified experts while listening to more pop songs along the way. 🎶😃
+There could even be a new area of study named pop song phonetics, which I'm sure would be a highly popular course on campus lol. But since I'm no phonetician or phonologist, I'll have to wait to be enlightened by real experts. Meanwhile, I'll just listen to more pop songs to enjoy myself. 🎶😃
