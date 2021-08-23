@@ -93,4 +93,4 @@ As mentioned above, I haven't found professional linguistic studies on this topi
 - Are there further types of special singing pronunciation in world languages apart from the above-mentioned avant-garde and vintage types?
 - What linguistic and extralinguistic factors lie behind such phenomena?
 
-There could even be a new area of study named pop song phonetics, which I'm sure would be a highly popular course on campus lol. But since I'm no phonetician or phonologist, I'll have to wait to be enlightened by real experts. Meanwhile, I'll just listen to more pop songs to enjoy myself. 🎶😃
+There could even be a new area of study named pop song phonetics, which I'm sure would be a highly popular course on campus lol. But since I'm no phonetician or phonologist, I'll have to wait to be enlightened by real experts. Meanwhile, I'll just listen to more pop songs and enjoy myself. 🎶😃
