@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 ---
 
-I like writing on Classical Chinese, and I'm keen about formal languages too. So, every time I see the two concepts show up together, I know I have to write something to mark the moment. In this post, I recount two recent experiences with such a moment.
+I like writing about Classical Chinese, and I'm keen on formal languages too. So, every time I see the two concepts show up together, I know I have to write something to mark the moment. In this post, I recount two recent experiences with such a moment.
 
 ## A context-free grammar for Classical Chinese
 The first experience happened when I was routinely surfing the Internet a few weeks ago. While doing so, I came across a talk with the title "[The Programming Language Called Classical Chinese](https://youtu.be/vBhg2p8aAQ0)," and I was like "Wow, that sounds so cool!" So I clicked in and watched it with my favorite snack.
