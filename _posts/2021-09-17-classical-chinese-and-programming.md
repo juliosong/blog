@@ -51,7 +51,7 @@ As mentioned above, I'm somewhat skeptical about this as a fellow linguist. But 
 ## A Classical Chinese-based programming language
 Compared to the talk I randomly discovered, the other Classical Chinese-Formal Language combo that I recently experienced seems more readily evaluable. It is a Classical Chinese-based programming language called [Wenyan](https://wy-lang.org).
 
-### Wenyan: a senior student's pastime
+### Wenyan: a senior's pastime
 I've blogged about [programming language vs. natural language]({{ site.baseurl }}{% post_url 2019-12-30-programing-vs-natural-lang %}) before, and if you've read that post you probably still remember that there's quite a gap between these two language types. So, when I first learned about this thingy I was a bit like
 
 <div class="tenor-gif-embed" data-postid="14848538" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%"><a href="https://tenor.com/view/star-wars-oh-i-have-bad-feeling-about-this-gif-14848538">Star Wars Oh GIF</a>from <a href="https://tenor.com/search/star+wars-gifs">Star Wars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script><br>
