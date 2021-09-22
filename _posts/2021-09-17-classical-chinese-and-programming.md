@@ -217,4 +217,4 @@ which serves the reassignment purpose equally well.😃
 (P.S. I also notice an excessive use of 其 _qí_ as an anaphoric pronoun, which is not always adequate [case](https://en.wikipedia.org/wiki/Grammatical_case)-wise, but I'll stop here for fearing of appearing too nitpicky...😝)
 
 ## Final words
-In spite of my nitpicking, I surely **am** a fan of Wenyan. And I quite look forward to its future developments too, especially those that could turn it into an all-around programming language that could be put in real-world application. Maybe one day there will even be an entire app (or OP!) written in it. How cool would that be!🙃
+In spite of my nitpicking, I surely **am** a fan of Wenyan. And I quite look forward to its future developments too, especially those that could turn it into an all-around programming language that could be put in real-world application. Maybe one day there will even be an entire app (or OS!) written in it. How cool would that be!🙃
