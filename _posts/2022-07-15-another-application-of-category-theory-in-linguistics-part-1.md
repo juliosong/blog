@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 ---
 
-This post is part of my portfolio for the poster session at the Applied Category Theory 2022 conference ([ACT2022](https://msp.cis.strath.ac.uk/act2022/index.html)). It is a gentle introduction to my application of the monad tool from category theory to theoretical linguistics, more specifically to the "root syntax" area thereof. The main result of my study can be summarized by the following slogan:
+This post is part of my portfolio for the poster session at the Applied Category Theory 2022 conference ([ACT2022](https://msp.cis.strath.ac.uk/act2022/index.html)). It is a gentle introduction to my application of the [monad](https://en.wikipedia.org/wiki/Monad_(category_theory)) tool from category theory to theoretical linguistics, more specifically to the "root syntax" area thereof. The main result of my study can be summarized by the following slogan:
 
 > If we take lexical decomposition in morphosyntax seriously, then monadic composition is everywhere in human language semantics.
 
@@ -44,7 +44,7 @@ As I had mentioned in my [ACT2020 blogpost]({{ site.baseurl }}{% post_url 2020-0
 ## My ACT work
 I received graduate education in [transformational generative grammar](https://en.wikipedia.org/wiki/Transformational_grammar) (TGG), so I know this school of theoretical linguistics slightly better. After exposing myself to category theory for a while, I feel like there's actually lots of issues in TGG that can be viewed from a CT perspective.
 
-For instance, in my 2019 [dissertation](https://doi.org/10.17863/CAM.44842), I examined the inventory of syntactic categories (which I called grammatical types in my ACT2020 submission to avoid misunderstanding due to the overloaded term "category") in human language as assumed in current TGG through the lens of CT, which revealed a whole arena of formal analogies between TGG and CT concepts. To name a few,
+For instance, in my 2019 [dissertation](https://doi.org/10.17863/CAM.44842), I examined the inventory of syntactic categories (which I called grammatical types in my [ACT2020 submission](https://www.juliosong.com/doc/act2020poster/poster.html) to avoid misunderstanding due to the overloaded term "category") in human language as assumed in current TGG through the lens of CT, which revealed a whole arena of formal analogies between TGG and CT concepts. To name a few,
 
 | TGG concept | CT perspective |
 | ------------------ | -------------------- |
@@ -67,7 +67,7 @@ So, how are semigrammatical words related to my ACT2022 submission? Well, it tur
 ## Subatomic compositionality
 Intuitively, compositionality should play a key role in this fine-grained inquiry. But the tricky thing is, lexical and compositional semantics have long been studied separately, and when people talk about meaning composition, they usually only care about the purely grammatical (i.e., functional) side of natural language sentences, with lexical idiosyncrasies being merely carried along in the compositional procedure (e.g., as function names or labels). For instance, from a compositional perspective, the two sentences "the cat chased the rat" and "the boy ate the apple" are actually nondistinct, since they have exactly the same syntactic and logical structures:
 - syntax: [<sub>vP</sub> DP<sub>1</sub> [<sub>vP</sub> v [<sub>VP</sub> V DP<sub>2</sub>]]] (in TGG notation)
-- logic: $\exists e. [\mathrm{V}(e) \wedge \mathrm{Agent}(e) = \mathrm{DP}_1 \wedge \mathrm{Patient}(e) = \mathrm{DP}_2]$ ([neo-Davidsonian](https://www.coli.uni-saarland.de/courses/incsem-12/neodavidsonian.pdf) notation)
+- logic: $\exists e. [\mathrm{V}(e) \wedge \mathrm{Agent}(e) = \mathrm{DP}_1 \wedge \mathrm{Patient}(e) = \mathrm{DP}_2]$ (in [neo-Davidsonian](https://www.coli.uni-saarland.de/courses/incsem-12/neodavidsonian.pdf) notation)
 
 My choice of notation here is just a matter of personal taste---the two sentences have the same skeletal representation in other formal linguistic theories too. As such, the observation that the two sentences actually mean different things is a consequence of our lexical semantic knowledge, not one of our grammatical knowledge.
 
